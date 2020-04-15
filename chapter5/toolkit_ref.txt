@@ -20,8 +20,8 @@ ak5drill11.html	<script type="text/javascript" language="javascript" src="toolki
 ak5drill11.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 ak5drill11.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 ak5drill11.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-ak5drill11old.html:<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-ak5drill11old.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+ak5drill11old.html:<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+ak5drill11old.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 ak5drill15.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 ak5drill15.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 ak5drill15.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -55,10 +55,10 @@ ak5drill3.html	<script type="text/javascript" language="javascript" src="toolkit
 ak5drill3.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 ak5drill3.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 ak5drill3.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-ak5drill3_old1.html:<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-ak5drill3_old1.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-ak5drill3old.html:<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-ak5drill3old.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+ak5drill3_old1.html:<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+ak5drill3_old1.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ak5drill3old.html:<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+ak5drill3old.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 ak5drill5.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 ak5drill5.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 ak5drill5.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -193,9 +193,9 @@ ch5grammar_quiz.html	<script type="text/javascript" language="javascript" src="t
 ch5grammar_quiz.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 ch5grammar_quiz.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 ch5grammar_quiz.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-chap5_footer.html:<script language="javascript" src="/aww/toolkit/transmenu/chap5_menu.js"></script>
-chap5_footer.html:<SCRIPT language="javascript" src="/aww/toolkit/sitelib.js"></SCRIPT>
-chap5_footer.html:<SCRIPT language="javascript" src="/aww/toolkit/byuexercises.js"></SCRIPT>
+chap5_footer.html:<script language="javascript" src="/toolkit/transmenu/chap5_menu.js"></script>
+chap5_footer.html:<SCRIPT language="javascript" src="/toolkit/sitelib.js"></SCRIPT>
+chap5_footer.html:<SCRIPT language="javascript" src="/toolkit/byuexercises.js"></SCRIPT>
 chat_ex1.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 chat_ex1.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 chat_ex1.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -207,8 +207,8 @@ chat_ex1.html	<script type="text/javascript" language="javascript" src="toolkit/
 chat_ex1.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 chat_ex1.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 chat_ex1.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-chat_ex1_old.html	<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-chat_ex1_old.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+chat_ex1_old.html	<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+chat_ex1_old.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 chat_ex2.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 chat_ex2.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 chat_ex2.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -231,8 +231,8 @@ cult_glossary.html	<script type="text/javascript" language="javascript" src="too
 cult_glossary.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 cult_glossary.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 cult_glossary.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-cult_glossary_old.html	<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-cult_glossary_old.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+cult_glossary_old.html	<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+cult_glossary_old.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 culture.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 culture.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 culture.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -277,8 +277,8 @@ grammar_demonstrative.html	<script type="text/javascript" language="javascript" 
 grammar_demonstrative.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 grammar_demonstrative.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 grammar_demonstrative.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-grammar_exercise7.html:<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-grammar_exercise7.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_exercise7.html:<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+grammar_exercise7.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 grammar_idaafa.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 grammar_idaafa.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 grammar_idaafa.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -290,8 +290,8 @@ grammar_idaafa.html	<script type="text/javascript" language="javascript" src="to
 grammar_idaafa.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 grammar_idaafa.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 grammar_idaafa.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-grammar_note73.html	<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-grammar_note73.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_note73.html	<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+grammar_note73.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 idaafa_adj_ex.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 idaafa_adj_ex.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 idaafa_adj_ex.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -314,8 +314,8 @@ index.html	<script type="text/javascript" language="javascript" src="toolkit/jav
 index.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 index.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 index.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-information.html	<!--#include virtual="/aww/toolkit/includes/info_header.html"-->
-information.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+information.html	<!--#include virtual="/toolkit/includes/info_header.html"-->
+information.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 interviews.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 interviews.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 interviews.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -459,8 +459,8 @@ pronunciation.html	<script type="text/javascript" language="javascript" src="too
 pronunciation.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 pronunciation.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 pronunciation.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-pronunciation_old.html	<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-pronunciation_old.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+pronunciation_old.html	<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+pronunciation_old.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 quiz.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 quiz.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 quiz.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -560,8 +560,8 @@ vocab_ex2.html	<script type="text/javascript" language="javascript" src="toolkit
 vocab_ex2.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 vocab_ex2.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 vocab_ex2.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-vocab_ex2_old.html	<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-vocab_ex2_old.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+vocab_ex2_old.html	<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+vocab_ex2_old.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 vocab_practice.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 vocab_practice.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 vocab_practice.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>

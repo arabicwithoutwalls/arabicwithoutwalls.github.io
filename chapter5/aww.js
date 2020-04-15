@@ -104,14 +104,14 @@ this.menu_items_width = 152
         this.divider_height_main = 0
         this.divider_background_color_main = "transparent"
 
-        this.item0 = "<img vqp_img=1 src='/aww/images/alkitaab_btn_off.gif' width=152 height=22>"
-        this.item_roll0 = "<img vqp_img=1 src='/aww/images/alkitaab_btn_on.gif' width=152 height=22>"
-        this.item1 = "<img vqp_img=1 src='/aww/images/interviews_btn_off.gif' width=152 height=22>"
-        this.item_roll1 = "<img vqp_img=1 src='/aww/images/interviews_btn_on.gif' width=152 height=22>"
-        this.item2 = "<img vqp_img=1 src='/aww/images/culture_btn_off.gif' width=152 height=22>"
-        this.item_roll2 = "<img vqp_img=1 src='/aww/images/culture_btn_on.gif' width=152 height=22>"
-        this.item3 = "<img vqp_img=1 src='/aww/images/syllabus_leftnav_btn_off.gif' width=152 height=22>"
-        this.item_roll3 = "<img vqp_img=1 src='/aww/images/syllabus_leftnav_btn_on.gif' width=152 height=22>"
+        this.item0 = "<img vqp_img=1 src='/images/alkitaab_btn_off.gif' width=152 height=22>"
+        this.item_roll0 = "<img vqp_img=1 src='/images/alkitaab_btn_on.gif' width=152 height=22>"
+        this.item1 = "<img vqp_img=1 src='/images/interviews_btn_off.gif' width=152 height=22>"
+        this.item_roll1 = "<img vqp_img=1 src='/images/interviews_btn_on.gif' width=152 height=22>"
+        this.item2 = "<img vqp_img=1 src='/images/culture_btn_off.gif' width=152 height=22>"
+        this.item_roll2 = "<img vqp_img=1 src='/images/culture_btn_on.gif' width=152 height=22>"
+        this.item3 = "<img vqp_img=1 src='/images/syllabus_leftnav_btn_off.gif' width=152 height=22>"
+        this.item_roll3 = "<img vqp_img=1 src='/images/syllabus_leftnav_btn_on.gif' width=152 height=22>"
 
         this.icon_rel0 = -1
         this.item_width0 = 152
