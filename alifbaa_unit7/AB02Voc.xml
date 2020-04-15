@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<ACTIVITY TYPE="vocab">
+<TITLE>AB Lesson 2 Vocabulary</TITLE>
+<INSTRUCTIONS>Choose either English or Arabic prompt, and then click go.  Once you see a word in either language, say it out loud or to yourself in the other language and then click again to see it on the screen.  Whenever the Arabic appears, either as a prompt or an answer, you will also hear it pronounced.</INSTRUCTIONS>
+
+<WORD><ARABIC>بيت</ARABIC><ENGLISH>house</ENGLISH><SOUND>AB02VOC01.mp3</SOUND></WORD>
+
+<WORD><ARABIC>واجب</ARABIC><ENGLISH>homework, duty</ENGLISH><SOUND>AB02VOC02.mp3</SOUND></WORD>
+
+<WORD><ARABIC>حبيبي</ARABIC><ENGLISH>my love</ENGLISH><SOUND>AB02VOC03.mp3</SOUND></WORD>
+
+<WORD><ARABIC>حبيبتي</ARABIC><ENGLISH>my love (f)</ENGLISH><SOUND>AB02VOC04.mp3</SOUND></WORD>
+
+<WORD><ARABIC>حضرتك</ARABIC><ENGLISH>sir (your presence)</ENGLISH><SOUND>hadritak.mp3</SOUND></WORD>
+
+<WORD><ARABIC>أيوه</ARABIC><ENGLISH>yes</ENGLISH><SOUND>aywa.mp3</SOUND></WORD>
+
+</ACTIVITY>

@@ -1,0 +1,28 @@
+Alif Baa Units
+	AB Unit 1 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit1/
+	AB Unit 2 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit2/
+	AB Unit 3 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit3/
+	AB Unit 4 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit4/
+	AB Unit 5 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit5/
+	AB Unit 6 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit6/
+	AB Unit 7 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit7/
+	AB Unit 8 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit8/
+	AB Unit 9 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit9/
+	AB Unit 10 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit10/
+Unit Guide ## ab_syllabus.html
+Alphabet
+	Mindful Typing: Practice 2 ## writing_practice2.html
+Vocabulary & Phrases
+	AB 6 Vocabulary Drill ## ab6_vocab.html
+Listening & Speaking
+	AB 6 Drill 1 ## ab6drill1.html
+	AB 6 Drill 5 ## ABU06Dr05.html
+	AB 6 Drill 6 ## ab6drill6.html
+	AB 6 Drill 7 ## ab6drill7.html
+	AB 6 Drill 11 ## ab6drill11.html
+	AB 6 Drill 92 ## ABU06Dr92.html
+	DVD comprehension: Unit 6 Scene 8 ## dvd_u6s8.html
+	AB Chat ## chat_activityu56.html
+Quizzes
+	AB 6 Oral Quiz ## ab6_quiz.html
+Typing: Aktub ## http://aktub.com/applet/aktub.html

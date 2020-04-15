@@ -1,0 +1,30 @@
+Alif Baa Units
+	AB Unit 1 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit1/
+	AB Unit 2 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit2/
+	AB Unit 3 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit3/
+	AB Unit 4 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit4/
+	AB Unit 5 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit5/
+	AB Unit 6 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit6/
+	AB Unit 7 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit7/
+	AB Unit 8 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit8/
+	AB Unit 9 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit9/
+	AB Unit 10 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit10/
+Unit Guide ## ab_syllabus.html
+Alphabet
+	Alphabet Tip 4 ## writing_pre_tip4.html
+Vocabulary & Phrases
+	Vocabulary Drill ## ab7_vocab.html
+Grammar
+	Specifying People and Things: Articles ## ab6-7-8_articles.html
+Culture
+	Culture Reading: Continents ## lesson3culture.html
+	Culture Reading: Activity ## lesson3culture1.html
+Listening & Speaking
+	Drill 2 ## ABU07Dr02.html
+	Drill 6 ## ABU07Dr06.html
+	Drill 91 ## ABU07Dr91.html
+	Drill 92 ## ABU07Dr92.html
+	Pronouncing the Definite Article ## ab6-7-8_definite.html
+Quizzes
+	Oral Quiz ## ab7_quiz.html
+Typing: Aktub ## http://aktub.com/applet/aktub.html
