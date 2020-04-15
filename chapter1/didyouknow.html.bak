@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Arabic Without Walls</title>
+
+<!-- Stylesheets Area -->
+  <link href="../course_toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+  <link href="../course_toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+
+<!-- JavaScript Area -->
+  <script type="text/javascript" src="chapter_toolkit/chapter_vars.js"></script>
+
+  <!-- This script is what shows the menu. -->
+  <script type="text/javascript" src="../course_toolkit/javascripts/menu.js"></script>
+  <!-- IE doesn't display the CSS menu correctly. This script fixes it. -->
+  <script type="text/javascript" src="../course_toolkit/javascripts/ie_menu_adjustment.js"></script>
+
+  <!-- The Flash sound player needs these. -->
+  <script type="text/javascript" language="javascript">AC_FL_RunContent = 0;</script>
+  <script type="text/javascript" src="../course_toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+  <script type="text/javascript" language="javascript" src="../course_toolkit/javascripts/playsound.js"></script>
+
+  <!-- This scores the JavaScript activities. -->
+  <script type="text/javascript" language="javascript" src="../course_toolkit/javascripts/byuexercises.js"></script>
+
+</head>
+<body>
+
+<div id="header">
+  <div id="logo"></div>
+  <div id="horizontal_menu">
+    <div id="white_links">
+      <!-- We use a JavaScript here because the URLs are stored in an external file. -->
+      <script type="text/javascript">
+        document.writeln(format_link(course_content_url,'Course Content'));
+        document.writeln(format_link(syllabus_url,'Syllabus'));
+        document.writeln(format_link(chat_url,'Chat'));
+        document.writeln(format_link(forums_url,'Forums'));
+        document.writeln(format_link(resources_url,'Resources'));
+      </script>
+    </div>
+    <div id="divider"><img src="../course_toolkit/images/divider.gif" alt="divider_graphic" /></div>
+    <div id="blue_links">
+      <script type="text/javascript">
+        document.writeln(format_link(requirements_url,'Requirements'));
+        document.writeln(format_link(instructor_email_url,'Email Instructor'));
+        document.writeln(format_link(about_aww_url,'About AWW'));
+      </script>
+    </div>
+  </div> <!-- End Horizontal Menu -->
+</div> <!-- End Header -->
+
+<div id="sidebar">
+<div id="chapter_title">
+  <script type="text/javascript">document.writeln(format_link('index.html',chapter_title));</script>
+</div>
+
+<!-- In order for the menu to work, it must be a child of <body> -->
+<!-- Start ABD Menu -->
+<div id="abdmenu">
+</div>
+<script type="text/javascript" language="javascript">show_menu();</script>
+<!-- End ABD Menu -->
+
+<div id="filler">
+<div id="top"></div>
+<div id="bottom"></div>
+</div>
+</div> <!-- End Sidebar -->
+
+<div id="main_content">
+<div id="content_header"></div>
+<div id="content">
+
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+
+<p class="header1">Culture: Did You Know?</p>	
+		
+<p class="header2">Modern History of the Arab World - <span class="arabic_lg">تاريخ العالم العربيّ الحديث</span></p>
+
+
+
+The east of the Arab World, commonly referred to as the Middle East <span class="arabic_lg">الشَّرق الأوسَط</span>, has a history going back  to ancient times. It was in the Middle East that many of the features of what we think of as “civilization”  <span class="arabic_lg">الحَضارة</span> first appeared, including, for example, the invention  <span class="arabic_lg">اِختِراع</span>of agriculture <span class="arabic_lg">الزِّراعة </span>, monumental architecture  <span class="arabic_lg">الفَنّ المِعماريّ </span>and the building of cities, and the invention of writing <span class="arabic_lg">الكِتابة</span> . Geographically, the Middle East roughly starts in <a href="#Egypt">Egypt</a> and extends eastward into the <a href="#ArabPen">Arabian Peninsula</a> all the way to the East of the Mediterranean. The west of the Arab world, also known as <a href="#NorthAfrica">North Africa</a> or the <a href="#Maghreb">Maghreb</a> <span class="arabic_lg">المَغرب</span>, refers to the region that now extends from <a href="#Libya">Libya</a> to Mauritania.  The history of <a href="#NorthAfrica">North Africa</a> goes back thousands of years.  Initially inhabited by Berbers, <a href="#NorthAfrica">North Africa</a> was ruled by Phoenicians and then Romans for many centuries before the Arabs brought Islam with them in the 8th century AD.  The modern Arab world is usually defined in Arabic as the lands that lie between the Atlantic Ocean and the Gulf<span class="arabic_lg"> مِنَ المُحيط إلى الخَليج</span>.<br>
+<br>
+The beginnings of the modern history <span class="arabic_lg">التّاريخ الحَديث</span> of the Arab World are linked with the Ottoman Turks<span class="arabic_lg"> العثمانيّون </span>who are a Muslim dynasty of Turkic origin that built an empire<span class="arabic_lg">إمبراطوريّة</span>  based in Asia Minor (modern day Turkey<span class="arabic_lg">تُركِيا </span>). In the sixteenth century, the Ottomans began to expand out of Asia Minor.  Within a century they had incorporated the entire core of the modern Middle East and most of <a href="#NorthAfrica">North Africa</a> into their Empire, almost all of which had been under the control of various Arab/Muslim dynasties since the 8th century AD. 
+
+In World War I<span class="arabic_lg">الحَرب العالـَمِيّة الأولى</span> , the Ottomans allied with Germany<span class="arabic_lg">ألمانِيا</span>  against Great Britain <span class="arabic_lg">بَريطانِيا العُظمى</span> and France<span class="arabic_lg">فـَرَنسا </span>. Both to punish the Ottomans for siding with Germany and to be able to establish control over the Middle East, Britain and France took the core of the Middle East from the Ottomans. Areas which had been rather vaguely-defined geographic regions, including, for example, <a href="#Iraq">Iraq</a> and <a href="#Syria">Syria</a>, were turned into actual nation-states. In accordance with the peace treaties <span class="arabic_lg">مُعاهَدات السَّلام</span> marking the end of World War I, these states were then assigned to Britain and France as “mandates”. The professed goal of the mandate system was for the mandatory powers - Britain and France - to guide the newly-created nations to self-rule <span class="arabic_lg">الحُكم الذ ّاتِيّ</span>. <a href="#Lebanon">Lebanon</a> and <a href="#Syria">Syria</a> became part of the French mandate; Palestine, <a href="#Jordan">Jordan</a>, and <a href="#Iraq">Iraq</a> became part of the British mandate.<br>
+<br>
+Ottoman control had never extended over all of the <a href="#ArabPen">Arabian Peninsula</a><span class="arabic_lg">الجَزيرة العَرَبيّة </span>. Before the discovery of oil<span class="arabic_lg">النِّفط</span> , there was little to attract the attention of the colonial powers.  However, as the British Empire expanded, the Persian Gulf (known in Arabic as the Arab Gulf <span class="arabic_lg">الخَليج العَرَبـِيّ</span>) became important. Therefore, during the course of the nineteenth century the British concluded deals with several local rulers along the coast. Over time the areas controlled by these local rulers crystallized into states<span class="arabic_lg">دُوَل </span>, controlled at first by the British.<br>
+<br>
+During the nineteenth and early twentieth centuries, European powers seized control of <a href="#NorthAfrica">North Africa</a> and <a href="#Egypt">Egypt</a>. <a href="#Algeria">Algeria</a> was taken by France in 1830 and incorporated into the state of France. <a href="#Tunisia">Tunisia</a> became a French protectorate in 1881. Italy invaded present-day <a href="#Libya">Libya</a> in 1911, declaring it a colony in 1934. <a href="#Morocco">Morocco</a> became a protectorate of France in 1912. Britain landed troops in <a href="#Egypt">Egypt</a> in 1882; <a href="#Egypt">Egypt</a> remained technically a part of the Ottoman Empire, although actually ruled by the British, until 1914, when it formally became a British protectorate. <br>
+<br>
+By the start of World War I, then, all of the lands of the Ottoman Empire were seized by European powers except for Asia Minor, which proclaimed its independence as the modern Republic of Turkey in 1923. Arab nation-sates emerged at various stages of the 20th century as different regions gained independence<span class="arabic_lg">الإستِقلال</span>  from European colonization<span class="arabic_lg">الإستِعمار </span>.  The following selected historical synopses give a very brief account of the role European powers have played during the twentieth century in creating the various Arab nation-states and drawing the current borders within the Arabic world.<br>
+<br>
+<center><b>Brief Historical Synopses<br>
+The Levant</b></center>
+<a name=Lebanon><b>Lebanon</b></a> <br>
+France first landed troops in Lebanon in 1861. At the end of World War I Lebanon became a French mandate, and the French created its political borders. This Lebanon was smaller than the state of today; in the 1920s the French took parts of what were historically Syria and joined them to Lebanon, creating today’s state. It became independent in 1943, but French soldiers did not completely leave until 1946. Lebanon then became a republic.<br>
+<br>
+<a name="Syria"><b>Syria</b></a> <br>
+Syria had been under control of the Ottomans for centuries, but in 1920 the Ottomans were driven out, and for a very brief time Syria became a monarchy. But it then became part of the French mandate; it was the French who drew the modern borders. There were several armed uprisings against the French, and independence was not fully achieved until 1946, when Syria became a republic.<br>
+<br>
+<a name="Jordan"><b>Jordan</b></a><br>
+Jordan is a creation of the British government; the boundaries of the state were drawn by Winston Churchill and Lawrence of Arabia, sitting around a table in Cairo at the close of World War I. It was then assigned to the British mandate. It achieved independence in 1946.<br>
+<br>
+<a name="Iraq"><b>Iraq </b></a><br>
+Iraq was essentially created by the British at the end of World War I, when it became part of their mandate. The British took three what had been effectively independent provinces under Ottoman control and joined them together, producing the nation-state of Iraq. In 1932 it became an independent kingdom; the monarchy was overthrown in 1958.<br>
+<br>
+<b><a name="ArabPen">Arabian Peninsula</a><br>
+Mecca and Medina, Saudi Arabia</b><br>
+Although the Ottomans controlled Mecca and Medina, the two most holy cities in Islam, the rest of the Arabian Peninsula was largely left alone. The modern state of Saudi Arabia was created largely through the military efforts of one man, Ibn Sa’ud, who in the early years of the twentieth century fought to join the hundreds of nomadic and semi-nomadic tribes of the Peninsula into one state. In 1932 he then named this new state after himself.<br>
+<br>
+<a name="Kuwait"><b>Kuwait</b></a><br>
+Along the Persian Gulf, the British concluded deals with a number of local chiefs; these families’ fiefdoms then crystallized into states. Kuwait became essentially a British colony in 1899. It achieved its independence, without bloodshed, in 1961, becoming a constitutional monarchy.<br>
+<br>
+<a name="Bahrain"><b>Bahrain</b></a><br>
+Bahrain is the smallest state in the Middle East, and the only island-state. In the 1800s it became a British protectorate, becoming independent in 1971. It is a constitutional monarchy.<br>
+<br>
+<a name="Qatar"><b>Qatar</b></a><br>
+Qatar, where Al-Jazeera television is located, became a British protectorate at the end of World War I. It became independent in 1971. It is an absolute monarchy.<br>
+<br>
+<b>The United Arab Emirates</b><br>
+The United Arab Emirates consists of a “federation” of seven small states, all of whom had been under some form of British protectorate in the 1800s. They banded together to protect themselves from the larger powers around them, and achieved independence in 1971. Each of the seven emirates has control of its own territory.<br>
+<br>
+<b>Oman</b><br>
+The British established in effect a protectorate over Oman in the late 1800s. It became independent in 1951, the first Gulf state to do so. It is an absolute monarchy.<br>
+<br>
+<b>Yemen</b><br>
+By 1914 most of Yemen was a British protectorate. Different regions proclaimed their independence at different times, and for many years there were two independent states in Yemen. The two united in 1990, forming a republic; May 22, 1990, is recognized as Independence Day.<br>
+<br>
+<a name="Egypt"><b>Egypt</b></a><br>
+Although the British landed troops in Alexandria in 1882, and effectively ran the country, Egypt remained nominally under the control of the Ottoman Empire until the outbreak of World War I, when Britain dropped the charade and declared Egypt a protectorate. As time passed, Britain gave up more and more control to the Egyptians—they even created a monarchy in Egypt in 1922—but continued to keep thousands of British troops in the country. Full independence finally came in 1952 when the Free Officers, led by Gamal Abd al-Nasser, forced both the British to leave and the last king to abdicate, and Egypt became a republic.<br>
+<br>
+<b><a name="NorthAfrica">North Africa</a>/<a name="Maghreb">The Maghreb</a><br>
+<a name="Libya">Libya</b></a><br>
+The modern nation-state of Libya was essentially created by Italy, who took what had been three quasi-independent provinces of the Ottoman Empire and joined them together. Italy sent its first troops into the region in 1911, but because of local resistance was not able to declare Libya a colony until 1934. Italy fought on the losing side during World War II, and the problem of what to do with Libya was passed on to the United Nations, and in 1951 a constitutional monarchy was created.<br>
+<br>
+<a name="Tunisia"><b>Tunisia</b></a><br>
+Tunisia became a French protectorate in 1881. The struggle against the French was not as intense as in neighboring Algeria, but, as in Morocco, many locals were killed in the fight for independence. France recognized its independence in 1956, and Tunisia became a republic.<br>
+<br>
+<a name="Algeria"><b>Algeria</b></a><br>
+Algeria became a French colony in 1830. In 1871 it became an overseas “department” of France, regarded as an integral part of France itself, not a colony. Over a million French settlers moved to Algeria. This led to a vicious war of independence from 1954 to 1962, during which hundreds of thousands of Algerians were killed. Independence was recognized on July 5 1962, when Algeria became a republic.<br>
+<br>
+<a name="Morocco"><b>Morocco</b></a><br>
+Morocco was never under direct control of the Ottomans, but was governed by local dynasties. It was made a French protectorate in 1912. In the 1940s and 1950s Moroccan nationalism led to fighting against the French, leading to Morocco’s independence in 1956. Morocco became a constitutional monarchy.
+
+
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+
+</div> <!-- End content -->
+<div id="footer">
+<p>&copy; 2004 UC Consortium for Language Learning and Teaching. All rights reserved.</p>
+
+</div> <!-- End Footer -->
+</div> <!-- End Main Content -->
+
+<!-- Flash Sound Player -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="1" height="1" id="playSound" align="middle">
+  <param name="allowScriptAccess" value="sameDomain" />
+  <param name="allowFullScreen" value="false" />
+  <param name="movie" value="../course_toolkit/flash_movies/playSound.swf" />
+  <param name="quality" value="high" />
+  <param name="bgcolor" value="#ffffff" />
+  <embed src="../course_toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+
+</body>
+
+</html>

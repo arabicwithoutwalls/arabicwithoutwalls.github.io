@@ -1,0 +1,270 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Arabic Without Walls</title>
+
+<!-- Stylesheets Area -->
+  <link href="../course_toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+  <link href="../course_toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+
+<!-- JavaScript Area -->
+  <script type="text/javascript" src="chapter_toolkit/chapter_vars.js"></script>
+
+  <!-- This script is what shows the menu. -->
+  <script type="text/javascript" src="../course_toolkit/javascripts/menu.js"></script>
+  <!-- IE doesn't display the CSS menu correctly. This script fixes it. -->
+  <script type="text/javascript" src="../course_toolkit/javascripts/ie_menu_adjustment.js"></script>
+
+  <!-- The Flash sound player needs these. -->
+  <script type="text/javascript" language="javascript">AC_FL_RunContent = 0;</script>
+  <script type="text/javascript" src="../course_toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+  <script type="text/javascript" language="javascript" src="../course_toolkit/javascripts/playsound.js"></script>
+
+  <!-- This scores the JavaScript activities. -->
+  <script type="text/javascript" language="javascript" src="../course_toolkit/javascripts/byuexercises.js"></script>
+
+</head>
+<body>
+
+<div id="header">
+  <div id="logo"></div>
+  <div id="horizontal_menu">
+    <div id="white_links">
+      <!-- We use a JavaScript here because the URLs are stored in an external file. -->
+      <script type="text/javascript">
+        document.writeln(format_link(course_content_url,'Course Content'));
+        document.writeln(format_link(syllabus_url,'Syllabus'));
+        document.writeln(format_link(chat_url,'Chat'));
+        document.writeln(format_link(forums_url,'Forums'));
+        document.writeln(format_link(resources_url,'Resources'));
+      </script>
+    </div>
+    <div id="divider"><img src="../course_toolkit/images/divider.gif" alt="divider_graphic" /></div>
+    <div id="blue_links">
+      <script type="text/javascript">
+        document.writeln(format_link(requirements_url,'Requirements'));
+        document.writeln(format_link(instructor_email_url,'Email Instructor'));
+        document.writeln(format_link(about_aww_url,'About AWW'));
+      </script>
+    </div>
+  </div> <!-- End Horizontal Menu -->
+</div> <!-- End Header -->
+
+<div id="sidebar">
+<div id="chapter_title">
+  <script type="text/javascript">document.writeln(format_link('index.html',chapter_title));</script>
+</div>
+
+<!-- In order for the menu to work, it must be a child of <body> -->
+<!-- Start ABD Menu -->
+<div id="abdmenu">
+</div>
+<script type="text/javascript" language="javascript">show_menu();</script>
+<!-- End ABD Menu -->
+
+<div id="filler">
+<div id="top"></div>
+<div id="bottom"></div>
+</div>
+</div> <!-- End Sidebar -->
+
+<div id="main_content">
+<div id="content_header"></div>
+<div id="content">
+
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+
+<span class="header1">Lesson 1 Video Quiz - Jeopardy
+</span>
+          <table cellpadding="0" cellspacing="10">
+            <tr>
+              <td valign="top"><p><span class="en">Throughout this lesson you
+                    have learned several ways to greet and get to know new people
+                    using Arabic. Try using what you know to play jeopardy in
+                    this quiz. You will watch short segments from an interview
+                    with <span class="arabic_lg"> بشار المدني</span>. After each segment, write the question
+                    he is answering in the blank space. Good Luck!</span><br>
+              </p></td>
+              <td><object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" width="320"height="255" codebase="http://www.apple.com/qtactivex/qtplugin.cab" id="theMovie">
+                  <param name="SRC" value="video/Bashar-Intro.mov">
+                  <param name="AUTOPLAY" value="false">
+                  <param name="CONTROLLER" value="true">
+                  <embed src="video/Bashar-Intro.mov" width="320" height="255" autoplay="false" controller="true" pluginspage="http://www.apple.com/quicktime/download/" enablejavascript="true" name="theMovie"></embed>
+              </object></td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+          <table width="590" align="center"><tr><td><DIV class="arabic_lg">
+               <form dir="rtl"><table width="90%" cellspacing="0" cellpadding="0" align="center">
+          <tr>
+            <th scope="row" bgcolor="#333333"><table width="100%" cellspacing="1" cellpadding="0">
+                <tr align="right" class="tablecella">
+					<td height="30"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td></td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                  
+                </tr>
+				<script language="javascript">
+function popup_1 () {
+	currentElement = document.getElementById("q0"+"feedback");
+	currentElement.innerHTML = "من انت؟ or ما اسمك؟";
+                 </script>
+                <tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					
+					<tr align="right">
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td><a onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="theMovie.Stop();theMovie.SetEndTime(7500);theMovie.SetStartTime(0);theMovie.Play();" style="text-decoration:underline">Watch
+                          the Video</a><br><br>
+			            <input type="text" value="" size="55" dir="rtl">
+                                &nbsp;
+<a href="#" onClick="popup_1(); return false;">Check Answer</a><br><br><span dir="rtl" id="q0feedback" class="arFeedback"></span>
+				</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                <script language="javascript">
+function popup_2 () {
+	currentElement = document.getElementById("q1"+"feedback");
+	currentElement.innerHTML = "من أين انت؟";
+                 </script>
+				<tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr align="right">
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td><a onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="theMovie.Stop();theMovie.SetEndTime(21000);theMovie.SetStartTime(7500);theMovie.Play();" style="text-decoration:underline">Watch the Video</a><br><br>
+			 <input type="text" value="" size="55" dir="rtl">&nbsp;&nbsp;
+                                <a href="#" onClick="popup_2(); return false;">Check Answer</a><br><br><span dir="rtl" id="q1feedback" class="arFeedback"></span>
+			</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                <script language="javascript">
+function popup_3 () {
+
+  	currentElement = document.getElementById("q2"+"feedback");
+	currentElement.innerHTML = "أين تسكن؟ or أين تعيش؟";
+                 </script>
+				<tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr align="right">
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td><a onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="theMovie.Stop();theMovie.SetEndTime(28000);theMovie.SetStartTime(21000);theMovie.Play();" style="text-decoration:underline">Watch the Video</a><br><br>
+			  <input type="text" value="" size="55" dir="rtl">&nbsp;&nbsp;
+                                <a href="#" onClick="popup_3(); return false;">Check Answer</a><br><br><span dir="rtl" id="q2feedback" class="arFeedback"></span>
+			  </td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+				 <script language="javascript">
+function popup_4 () {
+
+    	currentElement = document.getElementById("q3"+"feedback");
+	currentElement.innerHTML = "هل انت طالب؟ or ماذا تعمل؟";
+                 </script>
+                <tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr align="right">
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td><a onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="theMovie.Stop();theMovie.SetEndTime(41900);theMovie.SetStartTime(28000);theMovie.Play();" style="text-decoration:underline">Watch the Video</a><br><br>
+			<input type="text" value="" size="55" dir="rtl">
+                                &nbsp;
+<a href="#" onClick="popup_4(); return false;">Check Answer</a><br><br><span dir="rtl" id="q3feedback" class="arFeedback"></span>
+				  </td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+				<script language="javascript">
+function popup_5 () {
+
+    	currentElement = document.getElementById("q4"+"feedback");
+	currentElement.innerHTML = "تشعر مها بالوحدة لأن والدها ووالدتها مشغولان دائما";
+                 </script>
+
+                <tr class="tablecella">
+                  <td height="32" align="center"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td></td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table>
+               </td>
+                </tr>
+            </table></th>
+          </tr>
+        </table>        </form>
+               </p>
+             </DIV></td></tr></table>
+
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+
+</div> <!-- End content -->
+<div id="footer">
+<p>&copy; 2004 UC Consortium for Language Learning and Teaching. All rights reserved.</p>
+
+</div> <!-- End Footer -->
+</div> <!-- End Main Content -->
+
+<!-- Flash Sound Player -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="1" height="1" id="playSound" align="middle">
+  <param name="allowScriptAccess" value="sameDomain" />
+  <param name="allowFullScreen" value="false" />
+  <param name="movie" value="../course_toolkit/flash_movies/playSound.swf" />
+  <param name="quality" value="high" />
+  <param name="bgcolor" value="#ffffff" />
+  <embed src="../course_toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+
+</body>
+
+</html>

@@ -1,0 +1,258 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Arabic Without Walls</title>
+<!--#include virtual="/aww/toolkit/includes/chap1_header.html"-->
+      <tr>
+        <th width="20" scope="row">&nbsp;</th>
+        <td width="608">&nbsp;</td>
+        <td width="20">&nbsp;</td>
+      </tr>
+      <tr>
+        <th width="20" scope="row">&nbsp;</th>
+        <td width="608"><span class="header1">Meet Khalid
+</span>
+          <table>
+		   <tr>
+              <td width="608" height="1" bgcolor="#FF9900"></td>
+          </tr>
+	   </table>
+          <table cellpadding="0" cellspacing="10">
+            <tr>
+              <td valign="top"><p><span class="en">Use the video to answer the
+                    questions below. </span><br>
+              </p></td>
+              <td><object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" width="320"height="255" codebase="http://www.apple.com/qtactivex/qtplugin.cab" id="theMovie">
+                  <param name="SRC" value="video/02-khalid-intro.mov">
+                  <param name="AUTOPLAY" value="false">
+                  <param name="CONTROLLER" value="true">
+                  <embed src="video/02-khalid-intro.mov" width="320" height="255" autoplay="false" controller="true" pluginspage="http://www.apple.com/quicktime/download/" enablejavascript="true"></embed>
+              </object></td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+          <table width="590" align="center"><tr><td><DIV class="arabic_lg">
+               <form dir="rtl"><table width="90%" cellspacing="0" cellpadding="0" align="center">
+          <tr>
+            <th scope="row" bgcolor="#333333"><table width="100%" cellspacing="1" cellpadding="0">
+                <tr align="right" class="tablecella">
+					<td height="30"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td dir="ltr" align="left">I. In this lesson you will meet <span class="arabic_lg">خالد المصري.</span> Play the video one time, and listen for the following information:<br><br>
+
+<ol>
+<blockquote>1. Where he lives.<br>
+2. What he does. </blockquote>
+</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                  
+                </tr>
+				<script language="javascript">
+function popup_1 () {
+	currentElement = document.getElementById("q0"+"feedback");
+	currentElement.innerHTML = "Ann Arbor";
+                 </script>
+                <tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td align="left"><p dir="ltr" align="left">What did you find out? Where does <span class="arabic_lg">خالد</span> live? </p>
+			            <span align="left" dir="ltr" class="en"><input type="text" size="60" dir="ltr">&nbsp;&nbsp;<a onClick="popup_1(); return false;">Answer</a></span><br><span dir="ltr" id="q0feedback" class="enFeedback"></span>
+				</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                <script language="javascript">
+function popup_2 () {
+	currentElement = document.getElementById("q1"+"feedback");
+	currentElement.innerHTML = "طالب";
+                 </script>
+				<tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td align="left"><p dir="ltr" align="left" class="en">What is his occupation? </p>
+			            <span align="left" dir="ltr" class="en"><input type="text" size="60" dir="ltr">&nbsp;&nbsp;<a onClick="popup_2(); return false;">Answer</a></span><br><span dir="ltr" id="q1feedback" class="arFeedback"></span>
+				</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                <script language="javascript">
+function popup_3 () {
+
+  	currentElement = document.getElementById("q2"+"feedback");
+	currentElement.innerHTML = "يدرس في جامعة ميشيغن ";
+                 </script>
+				 <tr align="right" class="tablecella">
+					<td height="30"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td dir="ltr" align="left">II. Now listen to the video
+                        a second time. This time, listen for more detail. For
+                        example, try to find out where he studies, what his specialty
+                        is, and where he is from originally. After listening
+                        for those details, try to answer the following questions.</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+				</table></td></tr>
+				<tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td align="left"><p dir="ltr" align="left" class="en">Where does he study?  </p>
+			            <span align="left" dir="ltr" class="en"><input type="text" size="60" dir="ltr">&nbsp;&nbsp;<a onClick="popup_3(); return false;">Answer</a></span><br><span dir="ltr" id="q2feedback" class="arFeedback"></span>
+				</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+				 <script language="javascript">
+function popup_4 () {
+
+    	currentElement = document.getElementById("q3"+"feedback");
+	currentElement.innerHTML = "هو متخصص في اللغة العربية";
+                 </script>
+                <tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td align="left"><p dir="ltr" align="left" class="en">What is his specialty?  </p>
+			            <span align="left" dir="ltr" class="en"><input type="text" size="60" dir="ltr">&nbsp;&nbsp;<a onClick="popup_4(); return false;">Answer</a></span><br><span dir="ltr" id="q3feedback" class="arFeedback"></span>
+				</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+				 
+				<script language="javascript">
+function popup_5 () {
+
+    	currentElement = document.getElementById("q4"+"feedback");
+	currentElement.innerHTML = "هو من الأردن";
+                 </script>
+				 <tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td align="left"><p dir="ltr" align="left" class="en">Where is he from originally?  </p>
+			            <span align="left" dir="ltr" class="en"><input type="text" size="60" dir="ltr">&nbsp;&nbsp;<a onClick="popup_5(); return false;">Answer</a></span><br><span dir="ltr" id="q4feedback" class="arFeedback"></span>
+				</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+				<tr class="tablecella">
+                  <td height="32" align="center"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td><p>III. Good work. Now listen to the video one last time. 
+                   </p></td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table>
+               </td>
+                </tr>
+<script language="javascript">
+function popup_6 () {
+
+    	currentElement = document.getElementById("q5"+"feedback");
+	currentElement.innerHTML = "Does he mention any other places he has lived or studied? ";
+                 </script>
+				 <tr class="tablecellb">
+                  <td><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td align="left"><p dir="ltr" align="left" class="en">Are their any additional details you can understand? </p>
+			            <span align="left" dir="ltr" class="en"><input type="text" size="60" dir="ltr">&nbsp;&nbsp;<a onClick="popup_6(); return false;">Hint</a></span><br><span dir="ltr" id="q5feedback" class="enFeedback"></span>
+				</td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table></td>
+                </tr>
+                <tr class="tablecella">
+                  <td height="32" align="center"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+					<tr>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                      <td><p>
+                     <!-- <input name="button" type="button" onclick="checkAnswers(this.form);" value="Check Answers">  -->
+                   </p></td>
+                      <td width="8"><img src="../images/spacer.gif" width="8" height="100%"></td>
+                    </tr>
+					<tr>
+                      <td height="4" colspan="3"><img src="../images/spacer.gif" width="1" height="4" align="left"></td>
+                    </tr>
+                  </table>
+               </td>
+                </tr>
+            </table></th>
+          </tr>
+        </table>        </form>
+               </p>
+             </DIV></td></tr></table>
+</td>
+        <td width="20">&nbsp;</td>
+      </tr>
+    </table></th>
+  </tr>
+
+<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->

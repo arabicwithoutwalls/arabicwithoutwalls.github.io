@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Arabic Without Walls</title>
+
+<!-- Stylesheets Area -->
+  <link href="../course_toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+  <link href="../course_toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+
+<!-- JavaScript Area -->
+  <script type="text/javascript" src="chapter_toolkit/chapter_vars.js"></script>
+
+  <!-- This script is what shows the menu. -->
+  <script type="text/javascript" src="../course_toolkit/javascripts/menu.js"></script>
+  <!-- IE doesn't display the CSS menu correctly. This script fixes it. -->
+  <script type="text/javascript" src="../course_toolkit/javascripts/ie_menu_adjustment.js"></script>
+
+  <!-- The Flash sound player needs these. -->
+  <script type="text/javascript" language="javascript">AC_FL_RunContent = 0;</script>
+  <script type="text/javascript" src="../course_toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+  <script type="text/javascript" language="javascript" src="../course_toolkit/javascripts/playsound.js"></script>
+
+  <!-- This scores the JavaScript activities. -->
+  <script type="text/javascript" language="javascript" src="../course_toolkit/javascripts/byuexercises.js"></script>
+
+</head>
+<body>
+
+<div id="header">
+  <div id="logo"></div>
+  <div id="horizontal_menu">
+    <div id="white_links">
+      <!-- We use a JavaScript here because the URLs are stored in an external file. -->
+      <script type="text/javascript">
+        document.writeln(format_link(course_content_url,'Course Content'));
+        document.writeln(format_link(syllabus_url,'Syllabus'));
+        document.writeln(format_link(chat_url,'Chat'));
+        document.writeln(format_link(forums_url,'Forums'));
+        document.writeln(format_link(resources_url,'Resources'));
+      </script>
+    </div>
+    <div id="divider"><img src="../course_toolkit/images/divider.gif" alt="divider_graphic" /></div>
+    <div id="blue_links">
+      <script type="text/javascript">
+        document.writeln(format_link(requirements_url,'Requirements'));
+        document.writeln(format_link(instructor_email_url,'Email Instructor'));
+        document.writeln(format_link(about_aww_url,'About AWW'));
+      </script>
+    </div>
+  </div> <!-- End Horizontal Menu -->
+</div> <!-- End Header -->
+
+<div id="sidebar">
+<div id="chapter_title">
+  <script type="text/javascript">document.writeln(format_link('index.html',chapter_title));</script>
+</div>
+
+<!-- In order for the menu to work, it must be a child of <body> -->
+<!-- Start ABD Menu -->
+<div id="abdmenu">
+</div>
+<script type="text/javascript" language="javascript">show_menu();</script>
+<!-- End ABD Menu -->
+
+<div id="filler">
+<div id="top"></div>
+<div id="bottom"></div>
+</div>
+</div> <!-- End Sidebar -->
+
+<div id="main_content">
+<div id="content_header"></div>
+<div id="content">
+
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+<!-- Main Content Goes Here --><!-- Main Content Goes Here --><!-- Main Content Goes Here -->
+
+<p class="header1">Pronunciation Tip</p>
+          <p><strong>Introduction</strong></p>
+<p>As in any other language, Arabic reserves special kinds of intonation  for asking questions. Although these kinds of intonation may vary regionally  throughout the Arab world, the conventions predominantly adopted when speaking  or reading in modern standard Arabic or <span class="arabic_lg" dir="RTL">الفُصحى</span> are presented here.  The tips presented will help  you better pronounce and understand questions as well as distinguish them from  affirmative sentences. <br>
+It should be noted at first that, as in English:</p>
+          <ol>
+            <li>The  distinction between affirmative and interrogative speech in  Arabic can be signaled entirely through intonation.</li>
+            <li>When question words are used to  ask questions, intonation in wh-questions<span dir="RTL"> </span><span dir="RTL"> </span><span dir="RTL"><span dir="RTL"> </span><span dir="RTL"> </span> </span><span dir="LTR"> </span><span dir="LTR"> </span><span dir="LTR"> </span><span dir="LTR"> </span>(treated in Chapter  1) differs from intonation in yes/no questions (treated in Chapter 2). In English,  wh-questions start with where, when, what, who, why, which, and how.  Yes/No questions are questions that are  typically answered with a yes or a no.  </li></ol>
+        
+		        <p><strong>Wh-Questions</strong><strong> Intonation Tips</strong><br>
+            The following list contains some of the question words that you need in  Arabic to ask the equivalent of English wh-questions.  Review <em>AK</em> pages 13-15 for rules regarding using all of these  question words except for the last two (presented consecutively in chapters 5  and 6).</p>  
+			
+			  <div align="center">
+        <table class="arabic_lg" border="1" cellspacing="0" cellpadding="3">
+          <tr>
+            <td width="48" valign="top" class="arabic_lg"><p align="center" class="arabic_lg"><span dir="RTL">مَتى</span> </p></td>
+            <td width="48" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">لِماذا</span> </p></td>
+            <td width="68" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">مَع مَن</span> </p></td>
+            <td width="76" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">مِن أيّ</span> </p></td>
+            <td width="72" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">في أيّ</span> </p></td>
+            <td width="72" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">مِن أينَ</span> </p></td>
+            <td width="60" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">كَيفَ</span> </p></td>
+            <td width="48" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">أينَ</span> </p></td>
+            <td width="48" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">مَن</span> </p></td>
+            <td width="36" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">أيَّ</span> </p></td>
+            <td width="48" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">ماذا</span> </p></td>
+            <td width="36" valign="top" class="arabic_lg"><p align="center"><span class="arabic_lg" dir="RTL">ما</span> </p></td>
+          </tr>
+        </table>
+      </div>
+      <p>In this type of question the question word is the word that  is stressed in speech. Pay attention to the intonation in these examples and  notice how the highlighted question words bear the stress in these  interrogative sentences.<span dir="RTL"> </span></p>
+      
+<p align="right" class="arabic_lg" dir="rtl">۱- <span style="color: blue">ماذا</span> يِعمل محمّد؟</span> <a href="#" onclick="play('sounds/m1v1 ycml m7md.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">What does Muhammad do?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">۲- <span style="color: blue">أين</span> تسكن مها؟</span> <a href="#" onclick="play('sounds/;yn tskn mh1.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Where does Maha live?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">۳- مع <span style="color: blue">مَن</span> تدرس؟</span> <a href="#" onclick="play('sounds/mc man tdrs.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">With whom do you study?</td></tr></table></span></span></p>
+
+<p dir="ltr" align="left">Notice how in example number 3 the  stress is put on the question word<span class="arabic_lg" style="color: blue">مَن</span> even though it is preceded by the accompanying  preposition <span class="arabic_lg" dir="RTL">مَعَ</span>.  The same applies to <span class="arabic_lg" style="color: blue">أينَ</span> and <span class="arabic_lg" style="color: blue">أيّ</span><span class="arabic_lg" dir="LTR"></span>     in          <span class="arabic_lg" dir="RTL">مِن أينَ</span><span class="arabic_lg" dir="LTR"></span>     and <span class="arabic_lg" dir="RTL">في</span> <span class="arabic_lg" dir="RTL">أيّ</span>. </p>
+      <p dir="ltr" align="left"><strong>Practice</strong></p>
+      <p dir="ltr" align="left"><span dir="ltr">Listen to questions 1-10 and practice asking them     aloud, several times, making sure to put the stress on  the question word. Click to check your answers and practice some more. </span></p>
+
+<p align="right" class="arabic_lg" dir="rtl">۱- <span style="color: blue">ماذا</span> تعمل ماجدة؟</span> <a href="#" onclick="play('sounds/m1v1 tcmlu m1jd0.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">What does Majida do?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">۲- <span style="color: blue">مَن</span> هذا؟</span> <a href="#" onclick="play('sounds/man hv1.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Who is that?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">۳- <span style="color: blue">كَيفَ</span> حالك؟</span> <a href="#" onclick="play('sounds/kyfa 71lka.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">How is it going?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">٤- <span style="color: blue">ما</span> اسم والد مها؟</span> <a href="#" onclick="play('sounds/m1 ;smu w1ld mh1.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">What is Maha's father's name?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">٥- مِن <span style="color: blue">أيّ</span> مدينة أنتِ؟</span> <a href="#" onclick="play('sounds/mn ;y mdyn0 ;nti.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Which city are you from?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">٦- في <span style="color: blue">أيّ</span> شارع يسكن سليم؟</span> <a href="#" onclick="play('sounds/fy y p1rc yskn slym.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">What street does Saleem live in?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">٧- <span style="color: blue">أينَ</span> تسكن والدة أحمد؟</span> <a href="#" onclick="play('sounds/;yn tskn w1ld0 ;7md.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Where does Ahmad's mother live?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">٨- مِن <span style="color: blue">أينَ</span> الأستاذة الجديدة؟</span> <a href="#" onclick="play('sounds/mn ;yn 1l;st1v0 1ljdyd0.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Where is the new (female) teacher from?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">٩- <span style="color: blue">متى</span> تدرس مها؟</span> <a href="#" onclick="play('sounds/mte tdrs mh1.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">When does Maha study?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">۱۰- <span style="color: blue">لماذا</span> تسكن مها في نيو يورك؟</span> <a href="#" onclick="play('sounds/lm1v1 tskn mh1 fy nyw ywrk.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Why does Maha live in New York?</td></tr></table></span></span></p>
+          
+<p dir="ltr" align="left"><strong>Speak to Your Instructor</strong><br>
+      Practice listening and saying the following sentences in preparation for the   chat session where you will be asked to read them aloud to your instructor.</p>
+
+<p align="right" class="arabic_lg" dir="rtl">۱- ماذا يعمل علي؟</span> <a href="#" onclick="play('sounds/m1v1 ycml cly.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">What does Ali do?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">۲- في أيّ جامعة تدرس مها؟</span> <a href="#" onclick="play('sounds/fy ;y j1mc0 tdrs mh1.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">What university does Maha go to?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">۳- أين الأستاذ العراقيّ؟</span> <a href="#" onclick="play('sounds/;yn 1l;st1v 1lcr1qy.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Where is the Iraqi teacher?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">٤- مِن أين فاطمة؟</span> <a href="#" onclick="play('sounds/mn ;yn f16m0.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Where is Fatima from?</td></tr></table></span></span><br />
+<span class="arabic_lg" dir="rtl">٥- مع مَن تسكن مها؟</span> <a href="#" onclick="play('sounds/mc man tskn mh1.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> <span class="tooltip"><small>meaning</small><span class="tooltip_text"><table><tr><td align="center" dir="ltr">Who does Maha live with?</td></tr></table></span></span></p>
+
+    </td>
+</tr>
+   
+      </tr>
+    </table>
+
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+<!-- End Main Content --><!-- End Main Content --><!-- End Main Content -->
+
+</div> <!-- End content -->
+<div id="footer">
+<p>&copy; 2004 UC Consortium for Language Learning and Teaching. All rights reserved.</p>
+
+</div> <!-- End Footer -->
+</div> <!-- End Main Content -->
+
+<!-- Flash Sound Player -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="1" height="1" id="playSound" align="middle">
+  <param name="allowScriptAccess" value="sameDomain" />
+  <param name="allowFullScreen" value="false" />
+  <param name="movie" value="../course_toolkit/flash_movies/playSound.swf" />
+  <param name="quality" value="high" />
+  <param name="bgcolor" value="#ffffff" />
+  <embed src="../course_toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+
+</body>
+
+</html>

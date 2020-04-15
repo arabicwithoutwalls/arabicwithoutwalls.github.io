@@ -1,0 +1,40 @@
+Vocabulary
+	AK Drills
+		AK 1 Drill 2 ## ak1drill2.html
+		AK 1 Drill 4 ## ak1drill4.html
+		AK 1 Drill 14 ## ak1drill14.html
+		AK 1 Drill 17 ## ak1drill17.html
+	Vocabulary Practice
+		Vocabulary Exercise ## vocab_ex1.html
+		Vocabulary Practice ## ak1_flashcards.html
+		AK 1 Drill 13 Answer Key ## ak1drill13.html
+	DVD Story Comprehension ## video_ex1.html
+Grammar
+	AK Drills
+		AK 1 Drill 8 ## ak1drill8.html
+		AK 1 Drill 10 ## ak1drill10.html
+		AK 1 Drill 12 ## ak1drill12.html
+	Grammar Practice
+		Grammar Note ## grammar_note.html
+		Grammar Exercise ## grammar_exercise1.html
+		Verb Practice ## verbs.html
+Listening and Culture
+	AK Video Comprehension
+		Video Comprehension: AK 1 Drill 5 ## ak1drill5.html
+		DVD Story Comprehension ## chap1.html
+	Interviews
+		Omar introduces himself ## ana_ismi.html
+		Rumooz introduces herself ## sij1.html
+		Dina and Mohammad introduce themselves ## getting_to_know_others.html
+	Culture: Did You Know? 
+		Modern History of the Arab World ## didyouknow.html
+		Culture Vocabulary ## cult_glossary.html
+		Reading Exercise 1 ## ex1.html
+		Reading Excercise 2 ## ex2.html
+Speaking and Writing
+	Pronunciation Tip ## pronunciation_1.html
+	Personalized Practice ## ps_1.html
+	Chat Activity ## chat_activity1.html
+	Writing Activity ## writing_ex1.html
+Quizzes
+	Listening Quiz ## video_quiz.html

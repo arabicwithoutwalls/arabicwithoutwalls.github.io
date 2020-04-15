@@ -1,0 +1,54 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Arabic Without Walls</title>
+<script language="JavaScript">
+	
+	function showAnswers(){
+		popup_1();
+		popup_2();
+		popup_3();
+		popup_4();
+		popup_5();
+
+
+</script>
+
+<!--#include virtual="/aww/toolkit/includes/chap1_header.html"-->
+      <style type="text/css">
+<!--
+-->
+      </style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><tr>
+        <th width="20" scope="row">&nbsp;</th>
+        <td width="608">&nbsp;</td>
+        <td width="20">&nbsp;</td>
+      </tr>
+      <tr>
+        <th width="20" scope="row">&nbsp;</th>
+        <td width="608"><span class="header1">Diacritics Test Page
+</span>
+          <table>
+		   <tr>
+              <td width="608" height="1" bgcolor="#FF9900"></td>
+          </tr>
+	   </table>
+          <table width="379" cellpadding="0" cellspacing="10">
+            <tr>
+              <td valign="top"><p>With forced direction :
+                <p style="margin-left:10px">
+<span class='arabic_lg' dir='rtl'>نَّي</span>: shadda with fatha<br><br>
+<span class='arabic_lg' dir='rtl'>نِّي</span>: shadda with kasra<br><br>
+<span dir='rtl' style='font-size:36px'>نُّي</span>: shadda with waaw<br></p>
+<br>
+              </p></td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+        </td>
+        <td width="20">&nbsp;</td>
+      </tr>
+    </table></th>
+  </tr>
+
+<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->

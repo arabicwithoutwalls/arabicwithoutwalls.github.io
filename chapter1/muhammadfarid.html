@@ -1,0 +1,96 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/aww/toolkit/aww.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+
+    function vidplay() {
+       var video = document.getElementById("muhammad-intro");
+       var button = document.getElementById("play");
+       if (video.paused) {
+          video.play();
+          button.textContent = "Pause Video";
+       } else {
+          video.pause();
+          button.textContent = "Play Video";
+       }
+    }
+
+    function restart() {
+        var video = document.getElementById("muhammad-intro");
+        video.currentTime = 0;
+    }
+
+    function response1(value) {
+        var video = document.getElementById("muhammad-intro");
+   			video.currentTime = 2;
+   			video.play();
+    } 
+    
+    function response2(value) {
+        var video = document.getElementById("muhammad-intro");
+   			video.currentTime = 8;
+   			video.play();
+    }   
+    
+       
+</script>
+</head>
+<title></title>
+</head>
+<body bottommargin="0" topmargin="0" leftmargin="0" rightmargin="0" bgcolor="#CEDBEB">
+	<table cellpadding="0" cellspacing="0" border="0" width="450">
+	<tr>
+		<td align="center" width="48%">
+			<video id="muhammad-intro" width="250" height="200" controls>
+		  		<source src="video/muhammad-intro.mp4" type="video/mp4">
+			</video>
+			</td>
+			<td width="48%">
+				<p align="right">
+					<span class="arabic_lg" onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="response1();"><u>ما اسمك؟</u></span>
+					<br>
+					<span class="arabic_lg" onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="response2();"><u>ماذا تعمل؟</u></span>
+					<br>
+					<br><span id="play" onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="vidplay();" style="text-decoration:underline; font-size:12px">Play Video</span>
+				</p>
+				<p align="right">
+					<a onClick="parent.resetPics();return false;" onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" style="text-decoration:underline; font-size:16px">Back</a>
+				</p>
+				</td>
+				<td align="center" width="4%">
+					&nbsp;
+				</td>	  
+		</tr>		
+	</table>
+</body>
+</html>
+
+
+
+	
+	
+<!--
+		<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" width="250" height="200" codebase="http://www.apple.com/qtactivex/qtplugin.cab" id="theMovie">
+                  <param name="SRC" value="video/muhammad-intro.mp4">
+                  <param name="AUTOPLAY" value="false">
+                  <param name="CONTROLLER" value="true">
+                  <embed src="video/muhammad-intro.mp4" width="250" height="200" autoplay="false" controller="true" pluginspage="http://www.apple.com/quicktime/download/" enablejavascript="true" name="theMovie"></embed>
+          </object>
+          
+          <p align="right">
+					<span class="arabic_lg" onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="theMovie.Stop();theMovie.SetEndTime(18000);theMovie.SetStartTime(6000);theMovie.Play();"><u>ما اسمك؟</u></span>
+					<br>
+					<span class="arabic_lg" onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="theMovie.Stop();theMovie.SetEndTime(50000);theMovie.SetStartTime(32500);theMovie.Play();"><u>ماذا تعمل؟</u></span>
+					<br>
+					<br><span onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" onClick="theMovie.Stop();theMovie.SetEndTime(100000);theMovie.SetStartTime(0);theMovie.Play();" style="text-decoration:underline; font-size:12px">Watch Movie</span>
+				</p>
+				<p align="right">
+					<a onClick="parent.resetPics();return false;" onMouseOver="this.style.cursor='pointer'" onMouseOut="this.style.cursor='auto'" style="text-decoration:underline; font-size:16px">Back</a>
+				</p>
+ -->
+
+
+
+

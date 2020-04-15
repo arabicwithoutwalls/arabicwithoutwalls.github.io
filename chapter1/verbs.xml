@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CHAPTER xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://arclite.byu.edu/aww/xml/aww.xsd" NUM="10">
+	<VERB FORM="I">
+		<INFINITIVE>
+			<ARABIC>سَكَنَ - يَسْكُنُ</ARABIC>
+			<ENGLISH>to live</ENGLISH>
+		</INFINITIVE>
+		<PAST><CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND="sakanotu.mp3">سَكَنْتُ</ARABIC>
+				<ENGLISH>I lived</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="sakanota.mp3"> سَكَنْتَ </ARABIC>
+				<ENGLISH>you (masc. sing.) lived</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="sakanoti.mp3"> سَكَنْتِ </ARABIC>
+				<ENGLISH>you (fem. sing.) lived</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="sakana.mp3"> سَكَنَ </ARABIC>
+				<ENGLISH>he lived</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="sakanato.mp3"> سَكَنَتْ </ARABIC>
+				<ENGLISH>she lived</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="sakanon1.mp3"> سَكَنْنا </ARABIC>
+				<ENGLISH>we lived</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="sakanotumo.mp3"> سَكَنْتُمْ </ARABIC>
+				<ENGLISH>you (m. pl.) lived</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="sakanw1.mp3"> سَكَنوا </ARABIC>
+				<ENGLISH>they (m. pl.) lived</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";asokunu.mp3"> أَسْكُنُ </ARABIC>
+				<ENGLISH>I live</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tasokunu.mp3"> تَسْكُنُ </ARABIC>
+				<ENGLISH>you (m. sg.) live</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tasokunyna.mp3"> تَسْكُنينَ </ARABIC>
+				<ENGLISH>you (f. sg.) live</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yasokunu.mp3">يَسْكُنُ</ARABIC>
+				<ENGLISH>he lives</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tasokunu.mp3"> تَسْكُنُ </ARABIC>
+				<ENGLISH>she lives</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nasokunu.mp3"> نَسْكُنُ </ARABIC>
+				<ENGLISH>we live</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="tasokunwna.mp3"> تَسْكُنونَ </ARABIC>
+				<ENGLISH>you (m. pl.) live</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yasokunuwna.mp3"> يَسْكُنُونَ </ARABIC>
+				<ENGLISH>they (m. pl.) live</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+	<VERB FORM="I">
+		<INFINITIVE>
+			<ARABIC> دَرَسَ - يَدْرُسُ </ARABIC>
+			<ENGLISH>to study</ENGLISH>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND="darasotu.mp3">دَرَسْتُ</ARABIC>
+				<ENGLISH>I studied</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="darasota.mp3"> دَرَسْتَ </ARABIC>
+				<ENGLISH>you (m. sg.) studied</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="darasoti.mp3">دَرَسْتِ</ARABIC>
+				<ENGLISH>you (f. sg.) studied</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="darasa.mp3">دَرَسَ</ARABIC>
+				<ENGLISH>he studied</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="darasato.mp3">دَرَسَتْ</ARABIC>
+				<ENGLISH>she studied</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="darason1.mp3">دَرَسْنا</ARABIC>
+				<ENGLISH>we studied</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="darasotumo.mp3">دَرَسْتُمْ</ARABIC>
+				<ENGLISH>you (m. pl.) studied</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="darasw1.mp3">دَرَسوا</ARABIC>
+				<ENGLISH>they (m. pl.) studied</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";adorusu.mp3">أَدْرُسُ</ARABIC>
+				<ENGLISH>I study</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tadorusu.mp3">تَدْرُسُ</ARABIC>
+				<ENGLISH>you (m. sg.) study</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tadorusyna.mp3">تَدْرُسينَ</ARABIC>
+				<ENGLISH>you (f. sg.) study</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yadorusu.mp3">يَدْرُسُ</ARABIC>
+				<ENGLISH>he studies</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tadorusu.mp3"> تَدْرُسُ </ARABIC>
+				<ENGLISH>she studies</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nadorusu.mp3">نَدْرُسُ</ARABIC>
+				<ENGLISH>we study</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="tadoruswna.mp3">تَدْرُسونَ</ARABIC>
+				<ENGLISH>you (m. pl.) study</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yadorusuwna.mp3">يَدْرُسُونَ</ARABIC>
+				<ENGLISH>they (m. pl.) study</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+	<VERB FORM="I">
+		<INFINITIVE>
+			<ARABIC> عَمِلَ - يَعْمَلُ </ARABIC>
+			<ENGLISH>to work</ENGLISH>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND="camilotu.mp3"> عَمِلْتُ </ARABIC>
+				<ENGLISH>I worked</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="camilota.mp3"> عَمِلْتَ </ARABIC>
+				<ENGLISH>you (m. sg.) worked</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="camiloti.mp3">عَمِلْتِ</ARABIC>
+				<ENGLISH>you (f. sg.) worked</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="camila.mp3"> عَمِلَ </ARABIC>
+				<ENGLISH>he worked</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="camilato.mp3">عَمِلَتْ</ARABIC>
+				<ENGLISH>she worked</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="camilon1.mp3">عَمِلْنا</ARABIC>
+				<ENGLISH>we worked</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="camilotumo.mp3">عَمِلْتُمْ</ARABIC>
+				<ENGLISH>you (m. pl.) worked</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="camilw1.mp3">عَمِلوا</ARABIC>
+				<ENGLISH>they (m. pl.) worked</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";acomalu.mp3">أَعْمَلُ</ARABIC>
+				<ENGLISH>I work</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tacomalu.mp3">تَعْمَلُ</ARABIC>
+				<ENGLISH>you (m. sg.) work</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tacomalyna.mp3">تَعْمَلينَ</ARABIC>
+				<ENGLISH>you (f. sg.) work</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yacomalu.mp3">يَعْمَلُ</ARABIC>
+				<ENGLISH>he works</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tacomalu.mp3">تَعْمَلُ</ARABIC>
+				<ENGLISH>she works</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nacomalu.mp3">نَعْمَلُ</ARABIC>
+				<ENGLISH>we work</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="tacomalwna.mp3">تَعْمَلونَ</ARABIC>
+				<ENGLISH>you (m. pl.) work</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yacomaluwna.mp3">يَعْمَلُونَ</ARABIC>
+				<ENGLISH>they (m. pl.) work</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+</CHAPTER>
+
