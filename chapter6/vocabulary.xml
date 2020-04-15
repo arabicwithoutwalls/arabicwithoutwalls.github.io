@@ -1,0 +1,89 @@
+﻿<chapter num="6">
+	<word arabic="لأن" english="Because" sound="sounds/because.mp3" />
+	<word arabic="بسبب" english="Because Of" sound="sounds/becauseof.mp3" />
+	<word arabic="الفطور" english="Breakfast" sound="sounds/breakfast.mp3" />
+	<word arabic="إدارة الأعمال" english="Business Administration" sound="sounds/businessadm.mp3" />
+	<word arabic="دجاج" english="Chicken" sound="sounds/chicken.mp3" />
+	<word arabic="التجارة" english="Commerce" sound="sounds/commerce.mp3" />
+	<word arabic="يوم" english="Day" sound="sounds/day.mp3" />
+	<word arabic="أيام" english="Days" sound="sounds/days.mp3" />
+	<word arabic="عشاء" english="Dinner" sound="sounds/dinner.mp3" />
+	<word arabic="دبلوم" english="Diploma" sound="sounds/diploma.mp3" />
+	<word arabic="الشعور بـ" english="Feeling" sound="sounds/feeling.mp3" />
+	<word arabic="سمك" english="Fish" sound="sounds/fish.mp3" />
+	<word arabic="الجمعة" english="Friday" sound="sounds/Friday.mp3" />
+	<word arabic="فواكه" english="Fruit" sound="sounds/fruit.mp3" />
+	<word arabic="ثوم" english="Garlic" sound="sounds/garlic.mp3" />
+	<word arabic="الذهاب إلى" english="Going To" sound="sounds/goingto.mp3" />
+	<word arabic="التخرج" english="Graduating" sound="sounds/graduating.mp3" />
+	<word arabic="أذهب إلى" english="I Go To" sound="sounds/IGoTo.mp3" />
+	<word arabic="تخرجت" english="I Graduated" sound="sounds/Igraduated.mp3" />
+	<word arabic="لـ" english="In Order To" sound="sounds/inorderto.mp3" />
+	<word arabic="المعرفة" english="Knowing" sound="sounds/knowing.mp3" />
+	<word arabic="المعرفة" english="Knowledge" sound="sounds/knowledge.mp3" />
+	<word arabic="محاضرة" english="Lecture" sound="sounds/lecture.mp3" />
+	<word arabic="محاضرات" english="Lectures" sound="sounds/lectures.mp3" />
+	<word arabic="مكتبة" english="Library" sound="sounds/library.mp3" />
+	<word arabic="الاستماع الى" english="Listening To" sound="sounds/listeningto.mp3" />
+	<word arabic="السكن" english="Living" sound="sounds/living.mp3" />
+	<word arabic="الحب" english="Love" sound="sounds/love.mp3" />
+	<word arabic="غداء" english="Lunch" sound="sounds/lunch.mp3" />
+	<word arabic="لحم" english="Meat" sound="sounds/meat.mp3" />
+	<word arabic="الحفظ" english="Memorizing" sound="sounds/memorizing.mp3" />
+	<word arabic="التذكر" english="Memory" sound="sounds/memory.mp3" />
+	<word arabic="وزارة" english="Ministry" sound="sounds/ministry.mp3" />
+	<word arabic="الإثنين" english="Monday" sound="sounds/Monday.mp3" />
+	<word arabic="الحصول على" english="Obtaining" sound="sounds/obtaining.mp3" />
+	<word arabic="زيت" english="Oil" sound="sounds/oil.mp3" />
+	<word arabic="بصل" english="Onions" sound="sounds/onions.mp3" />
+	<word arabic="فقط" english="Only" sound="sounds/only.mp3" />
+	<word arabic="برنامج" english="Program" sound="sounds/program.mp3" />
+	<word arabic="برامج" english="Programs" sound="sounds/programs.mp3" />
+	<word arabic="الحفظ" english="Protection" sound="sounds/protection.mp3" />
+	<word arabic="القراءة" english="Reading" sound="sounds/reading.mp3" />
+	<word arabic="التذكر" english="Remembering" sound="sounds/remembering.mp3" />
+	<word arabic="مطعم" english="Restaurant" sound="sounds/restaurant.mp3" />
+	<word arabic="مطاعم" english="Restaurants" sound="sounds/restaurants.mp3" />
+	<word arabic="أرز" english="Rice" sound="sounds/rice.mp3" />
+	<word arabic="سلطة" english="Salad" sound="sounds/salad.mp3" />
+	<word arabic="السبت" english="Saturday" sound="sounds/Saturday.mp3" />
+	<word arabic="شوربة" english="Soup" sound="sounds/soup.mp3" />
+	<word arabic="الكلام" english="Speaking" sound="sounds/speaking.mp3" />
+	<word arabic="الدراسة" english="Studying" sound="sounds/studying.mp3" />
+	<word arabic="الأحد" english="Sunday" sound="sounds/Sunday.mp3" />
+	<word arabic="معيد" english="T A" sound="sounds/TA.mp3" />
+	<word arabic="معيدون" english="T As" sound="sounds/TAS.mp3" />
+	<word arabic="التدريس" english="Teaching" sound="sounds/teaching.mp3" />
+	<word arabic="ذلك" english="That" sound="sounds/that.mp3" />
+	<word arabic="تلك" english="That(F)" sound="sounds/thatfem.mp3" />
+	<word arabic="لذلك" english="Therefore" sound="sounds/therefore.mp3" />
+	<word arabic="الخميس" english="Thursday" sound="sounds/Thursday.mp3" />
+	<word arabic="اليوم" english="Today" sound="sounds/today.mp3" />
+	<word arabic="ذهب - يذهب" english="To Go" sound="sounds/togo.mp3" />
+	<word arabic="تخرج - يتخرج" english="To Graduate" sound="sounds/tograduate.mp3" />
+	<word arabic="طماطم" english="Tomato" sound="sounds/tomato.mp3" />
+	<word arabic="الحصول على" english="To Obtain (Vn)" sound="sounds/toobtainVN.mp3" />
+	<word arabic="تكلم - يتكلم" english="To Talk" sound="sounds/totalk.mp3" />
+	<word arabic="السفر الى" english="Traveling" sound="sounds/traveling.mp3" />
+	<word arabic="الثلاثاء" english="Tuesday" sound="sounds/Tuesday.mp3" />
+	<word arabic="منذ سنتين" english="Two Years Ago" sound="sounds/twoyearsago.mp3" />
+	<word arabic="خضار" english="Vegetables" sound="sounds/vegetables.mp3" />
+	<word arabic="المصدر" english="Verbal Noun" sound="sounds/verbalnoun.mp3" />
+	<word arabic="المشاهدة" english="Watching" sound="sounds/watching.mp3" />
+	<word arabic="الأربعاء" english="Wednesday" sound="sounds/Wednesday.mp3" />
+	<word arabic="أسبوع" english="Week" sound="sounds/week.mp3" />
+	<word arabic="أسابيع" english="Weeks" sound="sounds/weeks.mp3" />
+	<word arabic="متى" english="When" sound="sounds/when.mp3" />
+	<word arabic="أي" english="Which" sound="sounds/which.mp3" />
+	<word arabic="لماذا" english="Why" sound="sounds/why.mp3" />
+	<word arabic="المشاهدة" english="Witnessing" sound="sounds/witnessing.mp3" />
+	<word arabic="العمل" english="Work" sound="sounds/work.mp3" />
+	<word arabic="العمل" english="Working" sound="sounds/working.mp3" />
+	<word arabic="الكتابة" english="Writing" sound="sounds/writing.mp3" />
+	<word arabic="سنة" english="Year" sound="sounds/year.mp3" />
+	<word arabic="سنوات" english="Years" sound="sounds/years.mp3" />
+
+
+
+</chapter>
+

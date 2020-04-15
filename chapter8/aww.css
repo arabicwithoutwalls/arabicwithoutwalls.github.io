@@ -1,0 +1,101 @@
+﻿.arChoice {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-size: 27pt;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	word-spacing: 1px;
+} 
+
+.macArChoice {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-size: 24pt;
+	FONT-FAMILY: Tahoma;
+	word-spacing: 1px;
+} 
+
+.enChoice {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	word-spacing: 1px;
+} 
+
+.arDrag {
+	background-color: #FFFFFF;
+	color: #000066;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 21pt;
+	word-spacing: 1px;
+	text-align: center;
+} 
+
+.arDrop {
+	background-color: #FFFFFF;
+	color: #000066;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	word-spacing: 1px;
+	font-weight: bold;
+	text-align:center;
+} 
+
+.enDrop {
+	background-color: #FFFFFF;
+	color: #000066;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+	word-spacing: .5px;
+	font-weight: bold;
+	text-align:center;
+} 
+
+.arPrompt {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 31pt;
+	word-spacing: 1px;
+	font-weight: bold;	
+} 
+
+.fcArPrompt {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 40pt;
+	word-spacing: 1px;
+	font-weight: bold;	
+	text-align:center;
+} 
+.fcEnPrompt {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 27pt;
+	word-spacing: 1px;
+	font-weight: bold;
+	text-align:center;	
+} 
+
+.arLetter {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 36pt;
+	word-spacing: 1px;
+}
+
+.arCorrectLetter {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 72pt;
+	word-spacing: 1px;
+}
+
+.enOptionText {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	word-spacing: 1px;
+}

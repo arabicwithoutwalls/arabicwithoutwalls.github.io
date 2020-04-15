@@ -1,0 +1,37 @@
+Vocabulary
+	AK Drills
+		AK 8 Drill 1 ## ak8drill1.html
+	Vocabulary Practice
+		Vocabulary Flashcards ## ak8_flashcards.html
+		Vocabulary Exercise ## Vocab_ex8.html
+Grammar
+	AK Drills
+		AK 8 Drill 6 ## ak8drill6.html
+		AK 8 Drill 9 ## ak8drill9.html
+		AK 8 Drill 10 ## ak8drill10.html
+		AK 8 Drill 11 ## ak8drill11.html
+		AK 8 Drill 12 Answer Key ## ak8_answerkeys.html
+		AK 8 Drill 19 ## ak8drill19.html
+	Grammar Practice
+		Grammar Note ## grammar_note8.html
+		Grammar Exercise 1 ## grammar_exercise8.html
+		Grammar Exercise 2 ## grammar_exercise82.html
+		Verb Practice ## verbs.html
+Listening and Culture
+	AK Video Comprehension
+		DVD Story Comprehension ## chap8.html
+		Video Comprehension: AK 8 Drill 4 ## ak8drill4.html
+		Video Comprehension: AK 8 Drill 16 ## ak8_drill_16.html
+		AK 8 Drill 21 ## ak8drill21.html
+	Interviews
+		Elias talks about his siblings ## elias_siblings_revisited.html
+		Wahid talks about his family ## blueshirt_family.html
+		Rumooz talks about her studies ## sij8.html
+Speaking and Writing
+	Pronunciation Tip ## pronunciation_8.html
+	Personalized Practice ## ps_8.html
+	Chat Activity ## chat_activity8.html
+	Writing Activity ## writing_ex8.html
+Quizzes
+	Grammar Quiz ## ch8grammar_quiz.html
+	Listening Quiz ## listening_quiz.html

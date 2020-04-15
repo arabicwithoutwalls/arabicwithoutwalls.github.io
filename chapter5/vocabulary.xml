@@ -1,0 +1,35 @@
+﻿<chapter num="1">
+	<word arabic="من أصل" english="of...descent" sound="sounds/ofdescent.mp3" />
+	<word arabic="بارد" english="cold(adj)" sound="sounds/coldchilly.mp3" />
+	<word arabic="جدا" english="very" sound="sounds/very.mp3" />
+	<word arabic="الطقس" english="weather"  sound="sounds/weather1.mp3"/>
+	<word arabic="احب" english="I like, love" sound="sounds/ILove.mp3" />
+	<word arabic="حار" english="hot(adj)" sound="sounds/hot.mp3" />
+	<word arabic="أحسن" english="the best..." sound ="sounds/better.mp3" />
+	<word arabic="أحيانا" english="sometimes" sound="sounds/occasionally.mp3" />
+	<word arabic="الخريف" english="autumn" sound="sounds/autumn.mp3" />
+	<word arabic="درجة" english="degree" sound="sounds/degree.mp3" />
+	<word arabic="ربيع" english="spring(season)" sound="sounds/spring.mp3" />
+	<word arabic="الرطوبة" english="humidity" sound="sounds/humidity.mp3" />
+	<word arabic="الإزدحام" english="crowding" sound="sounds/crowdedness.mp3" />
+	<word arabic="بسبب" english="because of" sound="sounds/becauseof.mp3" />
+	<word arabic="الشتاء" english="winter" sound="sounds/winter.mp3" />
+	<word arabic="أشعر ب" english="I feel" sound="sounds/Ifeel.mp3" />
+	<word arabic="الصيف" english="summer" sound="sounds/summer.mp3" />
+	<word arabic="عالي" english="high" sound="sounds/high.mp3" />
+	<word arabic="فصل" english="season" sound="sounds/season.mp3" />
+	<word arabic="فقط" english="only" sound="sounds/only.mp3" />
+	<word arabic="كثيرا" english="a lot,much(adv)" sound="sounds/alotoften.mp3" />
+	<word arabic="بالنسبة لـ" english="as far as I'm concerned" sound="sounds/asfarasim.mp3" />
+	<word arabic="الوحدة" english="loneliness" sound="sounds/loneliness.mp3" />
+	<word arabic="صفة" english="adjective" sound="sounds/adjective.mp3" />
+	<word arabic="عاصمة" english="capital city" sound="sounds/capitalcity.mp3" />
+	<word arabic="عالية" english="high(f)" sound="sounds/high(f).mp3" />
+	<word arabic="اْسم" english="noun" sound="sounds/noun.mp3" />
+	<word arabic="مطر" english="rain" sound="sounds/rain.mp3" />
+	<word arabic="ثلج" english="snow" sound="sounds/snow.mp3" />
+	<word arabic="شمس" english="sun" sound="sounds/sun.mp3" />
+	<word arabic="الجو مشمس" english="sunny" sound="sounds/sunny.mp3" />
+	<word arabic="الجو" english="weather" sound="sounds/weather2.mp3" />
+</chapter>
+

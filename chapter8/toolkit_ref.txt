@@ -1,0 +1,92 @@
+ak8_drill_16.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ak8_drill_16.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ak8_drill_16.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ak8_drill_16.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ak8_drill_16.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ak8_drill_16.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ak8_drill_16.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ak8_drill_16.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ak8_drill_16.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ak8_drill_16.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ak8_drill_16.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ak8drill1.html:<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+ak8drill1.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+ak8drill11.html:<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+ak8drill11.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+ak8drill6.html:<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+ak8drill6.html:<!--#include virtual="/aww/toolkit/includes/footer.html"-->
+ch8grammar_quiz.html:<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+ch8grammar_quiz.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+chap8.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+chap8.html:<!--#include virtual="/aww/toolkit/includes/footer.html"-->
+chat_activity8.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+chat_activity8.html	<!--#include virtual="/aww/toolkit/includes/footer.html"-->
+elias_siblings_revisited.html:<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
+elias_siblings_revisited.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_exercise8.html:<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+grammar_exercise8.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_exercise82.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+grammar_exercise82.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+grammar_exercise82.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+grammar_exercise82.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+grammar_exercise82.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+grammar_exercise82.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+grammar_exercise82.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+grammar_exercise82.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+grammar_exercise82.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+grammar_exercise82.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+grammar_exercise82.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+grammar_note.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+grammar_note.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_note8.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+grammar_note8.html	<!--#include virtual="/aww/toolkit/includes/footer.html"-->
+index.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+index.html	<link href="../toolkit/aww.css" rel="stylesheet" type="text/css">
+index.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+listening_quiz.html:<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+listening_quiz.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+min_asl.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+min_asl.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+pronunciation_8.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+pronunciation_8.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+ps_8.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ps_8.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ps_8.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ps_8.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ps_8.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ps_8.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ps_8.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ps_8.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ps_8.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ps_8.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ps_8.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+sij8.html:<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+sij8.html:<!--#include virtual="/aww/toolkit/includes/footer.html"-->
+test1.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test1.html	<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
+test1.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+test2.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test2.html	<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
+test2.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+test3.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test3.html	<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
+test3.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+test4.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+test4.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+verbs.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+verbs.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+vocab_drill.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+vocab_drill.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+vocab_drill.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+vocab_drill.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+vocab_drill.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+vocab_drill.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+vocab_drill.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+vocab_drill.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+vocab_drill.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+vocab_drill.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+vocab_drill.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+vocab_ex8.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+vocab_ex8.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+writing_ex8.html	<!--#include virtual="/aww/toolkit/includes/chap8_header.html"-->
+writing_ex8.html	<!--#include virtual="/aww/toolkit/includes/footer.html"-->

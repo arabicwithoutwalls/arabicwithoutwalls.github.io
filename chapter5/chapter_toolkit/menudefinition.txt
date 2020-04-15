@@ -1,0 +1,54 @@
+Vocabulary
+	AK Drills
+		AK 5 Drill 1 ## ak5drill1.html
+	Vocabulary Practice
+		With Dr. Eissa (Part 1) ## min_asl.html
+		With Dr. Eissa (Part 2) ## vocab_practice.html
+		Vocabulary Exercise 1 ## vocab_ex1.html
+		Vocabulary Exercise 2 ## vocab_ex2.html
+		Vocabulary Flashcards ## ak5_flashcards.html
+Grammar
+	AK Drills
+		AK 5 Drill 5 ## ak5drill5.html
+		Ak 5 Drill 7 ## ak5drill7.html
+		AK 5 Drill 8 ## ak5drill8.html
+		AK 5 Drill 9 ## ak5drill9.html
+		AK 5 Drill 15 ## ak5drill15.html
+	Grammar Practice
+		Grammar Note 1 ## grammar_idaafa.html
+		Grammar Note 2 ## grammar_demonstrative.html
+		Grammar Exercise 1 ## noun_adj_ex1.html
+		Grammar Exercise 2 ## noun_adj_ex2.html
+		Grammar Exercise 3 ## noun_adj_ex3.html
+		Grammar Exercise 4 ## idaafa_adj_ex4.html
+		Grammar Exercise 5 ## demonstrative_ex5.html
+		Verb Practice ## verbs.html
+Listening and Culture
+	AK Video Comprehension
+		AK 5 Drill 3 ## ak5drill3.html
+		AK 5 Drill 11 ## ak5drill11.html
+		AK 5 Drill 16 ## ak5drill16.html
+		DVD Story Comprehension ## video_ex1.html
+	Interviews
+		A student talks about the weather in Amman ## sij5.html
+		Nabila and Wahid talk about the weather in different cities ## wahiidandnabila.html
+		Wafaa' talks about the weather in Michigan  ## wafaa.html
+		Ali Basha talks about the weather in the US and Sudan ## ali_basha.html
+	Culture: Did You Know? 
+		Natural Landscapes from the Arab World ## didyouknow.html
+		Map Reading Exercise 1 ## map_ex1.html
+		Map Reading Exercise 2 ## map_ex2.html
+		Vocabulary Glossary ## cult_glossary.html
+		Reading ## reading_ex.html
+		Culture: Feiruz ## ak5_culture.html
+Speaking and Writing
+	Pronunciation Tip ## pronunciation.html
+	Personalized Practice ## pers_practice.html
+	Chat Activity 1 ## chat_ex1.html
+	Chat Activity 2 ## chat_ex2.html
+	Writing Activity 1 ## writing_ex1.html
+	Writing Activity 2 ## writing_ex2.html
+Quizzes
+	Grammar Quiz ## ch5grammar_quiz.html
+	Listening Quiz ## listening_quiz.html
+	Vocabulary Quiz ## quiz.html
