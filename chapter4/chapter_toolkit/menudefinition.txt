@@ -1,0 +1,39 @@
+Vocabulary
+	AK Drills
+		AK 4 Drill 1 ## ak4drill1.html
+	Vocabulary Practice
+		Vocabulary Practice ## ak4_flashcards.html
+		Vocabulary Exercise ## vocab_ex4.html
+Grammar
+	AK Drills
+		AK 4 Drill 2 ## ak4drill2.html
+		AK 4 Drill 7 ## ak4drill7.html
+		AK 4 Drill 9 ## ak4drill9.html
+		AK 4 Drill 11 ## ak4drill11.html
+		AK 4 Drill 18 ## ak4drill18.html
+	Grammar Practice
+		Grammar Exercise ## grammar_exercise4.html
+		Grammar Note ## grammar_note4.html
+		Verb Practice ## verbs.html
+Listening and Culture
+	AK Video Comprehension
+		DVD Story Comprehension ## chap4.html
+		Video Comprehension: AK 4 Drill 5 ## ak4drill5.html
+		AK 4 Drill 8 ## ak4drill8.html
+		AK 4 Drill 13 ## ak4drill13.html
+		Video Comprehension: AK 4 Drill 14 ## ak4drill14.html
+		AK 4 Drill 19 ## ak4drill19.html
+	Interviews
+		Rumooz introduces her father's friends and family ## sij4.html
+		Nabila talks about family members ## nabila_extendedfam.html
+		Ghraith introduces himself ## intro_practice4.html
+		Ali talks about his family ## ali_family.html
+		Ali talks about his teaching occupation ## ali_studies.html
+Speaking and Writing
+	Pronunciation Tip ## pronunciation_4.html
+	Personalized Practice ## ps_4.html
+	Chat Activity ## chat_activity4.html
+	Writing Activity ## writing_ex4.html
+Quizzes
+	Grammar Quiz ## ch4grammar_quiz.html
+	Listening Quiz ## listening_quiz.html

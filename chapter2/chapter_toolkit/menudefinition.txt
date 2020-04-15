@@ -1,0 +1,32 @@
+Vocabulary
+	AK Drills
+		AK 2 Drill 14 ## ak2drill14.html
+	Vocabulary Practice
+		Vocabulary Practice ## ak2_flashcards.html
+		Vocabulary Exercise ## vocab_ex.html
+Grammar
+	AK Drills
+		AK 2 Drill 4 ## ak2drill4.html
+		AK 2 Drill 5 ## ak2drill5.html
+		AK 2 Drill 7 ## ak2drill7.html
+		AK 2 Drill 8a ## ak2drill8a.html
+	Grammar Practice
+		Grammar Note ## grammar_note.html
+		Grammar Exercise ## grammar_exercise2.html
+Listening and Culture
+	AK Video Comprehension
+		Video Comprehension: AK 2 Drill 3 ## ak2drill3.html
+		Video Comprehension: AK 2 Drill 10 ## ak2drill10.html
+		AK 2 Drill 15 ## ak2drill15.html
+		DVD Story Comprehension ## chap2.html
+	Interviews
+		Rumooz talks about family and friends ## sij2.html
+		Effat talks about her occupation ## effat_intro.html
+		Khalid introduces himself ## khalid_intro.html
+Speaking and Writing
+	Pronunciation Tip ## pronunciation_2.html
+	Personalized Practice ## ps_2.html
+	Chat Activity ## chat_activity2.html
+	Writing Activity ## writing_ex2.html
+Quizzes
+	Listening Quiz ## listening_quiz.html

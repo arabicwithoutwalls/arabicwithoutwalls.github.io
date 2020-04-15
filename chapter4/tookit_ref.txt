@@ -1,0 +1,305 @@
+ak4drill1.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ak4drill1.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ak4drill1.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ak4drill1.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ak4drill1.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ak4drill1.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ak4drill1.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ak4drill1.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ak4drill1.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ak4drill1.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ak4drill1.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ak4drill11.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ak4drill11.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ak4drill11.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ak4drill11.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ak4drill11.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ak4drill11.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ak4drill11.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ak4drill11.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ak4drill11.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ak4drill11.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ak4drill11.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ak4drill7.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ak4drill7.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ak4drill7.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ak4drill7.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ak4drill7.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ak4drill7.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ak4drill7.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ak4drill7.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ak4drill7.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ak4drill7.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ak4drill7.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ak4drill9.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ak4drill9.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ak4drill9.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ak4drill9.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ak4drill9.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ak4drill9.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ak4drill9.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ak4drill9.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ak4drill9.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ak4drill9.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ak4drill9.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ch4grammar_quiz.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ch4grammar_quiz.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ch4grammar_quiz.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ch4grammar_quiz.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ch4grammar_quiz.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ch4grammar_quiz.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ch4grammar_quiz.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ch4grammar_quiz.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ch4grammar_quiz.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ch4grammar_quiz.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ch4grammar_quiz.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+chap4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+chap4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+chap4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+chap4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+chap4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+chap4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+chap4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+chap4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+chap4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+chap4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+chap4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+chat_activity4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+chat_activity4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+chat_activity4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+chat_activity4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+chat_activity4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+chat_activity4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+chat_activity4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+chat_activity4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+chat_activity4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+chat_activity4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+chat_activity4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+grammar_exercise.html	<!--#include virtual="/aww/toolkit/includes/chap1_header.html"-->
+grammar_exercise.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_exercise4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+grammar_exercise4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+grammar_exercise4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+grammar_exercise4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+grammar_exercise4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+grammar_exercise4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+grammar_exercise4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+grammar_exercise4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+grammar_exercise4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+grammar_exercise4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+grammar_exercise4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+grammar_note.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+grammar_note.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+grammar_note.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+grammar_note.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+grammar_note.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+grammar_note.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+grammar_note.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+grammar_note.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+grammar_note.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+grammar_note.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+grammar_note.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+grammar_note4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+grammar_note4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+grammar_note4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+grammar_note4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+grammar_note4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+grammar_note4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+grammar_note4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+grammar_note4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+grammar_note4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+grammar_note4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+grammar_note4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+index.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+index.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+index.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+index.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+index.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+index.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+index.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+index.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+index.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+index.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+index.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+intro_practice4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+intro_practice4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+intro_practice4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+intro_practice4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+intro_practice4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+intro_practice4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+intro_practice4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+intro_practice4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+intro_practice4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+intro_practice4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+intro_practice4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+landscapes.html	<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
+landscapes.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+landscapesjw.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+landscapesjw.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+landscapesjw.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+landscapesjw.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+landscapesjw.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+landscapesjw.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+landscapesjw.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+landscapesjw.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+landscapesjw.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+landscapesjw.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+landscapesjw.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+listening_quiz.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+listening_quiz.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+listening_quiz.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+listening_quiz.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+listening_quiz.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+listening_quiz.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+listening_quiz.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+listening_quiz.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+listening_quiz.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+listening_quiz.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+listening_quiz.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+min_asl.html	<!--#include virtual="/aww/toolkit/includes/chap4_header.html"-->
+min_asl.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+nabila_extendedfam.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+nabila_extendedfam.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+nabila_extendedfam.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+nabila_extendedfam.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+nabila_extendedfam.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+nabila_extendedfam.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+nabila_extendedfam.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+nabila_extendedfam.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+nabila_extendedfam.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+nabila_extendedfam.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+nabila_extendedfam.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+pronunciation_4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+pronunciation_4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+pronunciation_4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+pronunciation_4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+pronunciation_4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+pronunciation_4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+pronunciation_4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+pronunciation_4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+pronunciation_4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+pronunciation_4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+pronunciation_4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+pronunciation_4B.html	<!--#include virtual="/aww/toolkit/includes/chap4_header.html"-->
+pronunciation_4B.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+ps_14.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ps_14.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ps_14.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ps_14.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ps_14.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ps_14.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ps_14.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ps_14.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ps_14.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ps_14.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ps_14.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ps_4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ps_4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ps_4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ps_4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ps_4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ps_4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ps_4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ps_4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ps_4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ps_4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ps_4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+sij4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+sij4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+sij4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+sij4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+sij4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+sij4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+sij4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+sij4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+sij4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+sij4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+sij4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+test1.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+test1.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+test1.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+test1.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+test1.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+test1.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+test1.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+test1.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+test1.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+test1.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+test1.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+test2.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+test2.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+test2.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+test2.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+test2.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+test2.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+test2.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+test2.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+test2.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+test2.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+test2.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+test3.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+test3.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+test3.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+test3.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+test3.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+test3.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+test3.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+test3.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+test3.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+test3.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+test3.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+test4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+test4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+test4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+test4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+test4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+test4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+test4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+test4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+test4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+test4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+test4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+verbs.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+verbs.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+verbs.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+verbs.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+verbs.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+verbs.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+verbs.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+verbs.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+verbs.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+verbs.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+verbs.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+vocab_drill.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+vocab_drill.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+vocab_drill.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+vocab_drill.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+vocab_drill.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+vocab_drill.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+vocab_drill.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+vocab_drill.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+vocab_drill.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+vocab_drill.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+vocab_drill.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+vocab_ex4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+vocab_ex4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+vocab_ex4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+vocab_ex4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+vocab_ex4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+vocab_ex4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+vocab_ex4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+vocab_ex4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+vocab_ex4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+vocab_ex4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+vocab_ex4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+writing_ex4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+writing_ex4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+writing_ex4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+writing_ex4.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+writing_ex4.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+writing_ex4.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+writing_ex4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+writing_ex4.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+writing_ex4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+writing_ex4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+writing_ex4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />

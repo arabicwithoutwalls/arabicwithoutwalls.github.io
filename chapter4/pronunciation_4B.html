@@ -1,0 +1,81 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<title>Arabic Without Walls</title>
+ <!--#include virtual="/aww/toolkit/includes/chap4_header.html"-->
+      <link href="../aww.css" rel="stylesheet" type="text/css">
+      <style type="text/css">
+<!--
+#ToolTip{position:absolute;top:0;left:0;background:#dee7f7;border-color:#FFFFFF;border-style:solid #336;border-width:1px 1px 1px 1px;visibility:hidden;} 
+.ToolTipTD {color:black;font-family:verdana;font-size:11} 
+div#tipDiv {
+  position:absolute; visibility:hidden; left:0; top:0; z-index:10000;
+  background-color:#dee7f7; border:1px solid #336; 
+  width:250px; padding:4px;
+  color:#000; font-size:11px; line-height:1.2;
+/* These are optional. They demonstrate how you can individually format tooltip content  */
+div.tp1 { font-size:12px; color:#336; font-style:italic }
+div.tp2 { font-weight:bolder; color:#337; padding-top:4px }
+.style8 {color: #0000FF}
+.style9 {font-size: 24px}
+-->
+      </style> <script src="js/dw_event.js" type="text/javascript"></script>
+<script src="js/dw_viewport.js" type="text/javascript"></script>
+<script src="js/dw_tooltip.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*************************************************************************
+  This code is from Dynamic Web Coding at dyn-web.com
+  Copyright 2003-5 by Sharon Paine 
+  See Terms of Use at http://www.dyn-web.com/bus/terms.html
+  regarding conditions under which you may use this code.
+  This notice must be retained in the code as is!
+*************************************************************************/
+
+function doTooltip(e, msg) {
+  if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+  Tooltip.show(e, msg);
+
+function hideTip() {
+  if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+  Tooltip.hide();
+	
+// variables for tooltip content 
+var tipRich = '<div class="tp1">This text is in a div with it\'s own class for different style specifications than the tooltip. </div>';
+var tipImg = '<div style="text-align:center"><img src="images/dot-com-btn.gif" width="176" height="30" alt="" border="0"></div>';
+var tipImgTxt = '<img src="images/sm-duck.gif" width="90" height="44" alt="" border="0"><div class="tp2">Images and text can go together in a tooltip.</div>';
+var tipTerms = "If you plan to use our code, please follow our terms. Thank you.";
+
+</script>
+<body onLoad="Tooltip.init()">
+<tr>
+        <th width="20" scope="row">&nbsp;</th>
+        <td width="608">&nbsp;</td>
+        <td width="20">&nbsp;</td>
+</tr>
+      <tr>
+        <th width="20" scope="row">&nbsp;</th>	<td width="608" valign="top"><p align="left" class="header1"> <strong><br></strong>
+<p class="header1"><strong>Negation of <span class="style9">الفعل المضارع</span> with <span class="style9" dir="RTL">لا</span></strong> </p>
+<p>In chapter 4, you have learned <span class="arabic_lg" dir="RTL">الفعل</span> <span class="arabic_lg" dir="RTL">المضارع</span><span class="arabic_lg" dir="LTR"></span>   and how to  negate it with the particle <span class="arabic_lg" dir="RTL">لا</span>. The intonation  of affirmative sentences in the present tense differs from that of sentences in  which the verb is negated. When the negation is introduced, the negation  particle<span class="arabic_lg">لا</span> bears the  stress. </p>
+<p><strong>Practice</strong><br>
+  Listen carefully to the following  examples and try to discern the difference in the intonation of the verb in  affirmative and negative sentences.   Practice saying these sentences aloud making sure to stress <span class="arabic_lg" dir="RTL">لا</span>.</p>
+<p>&nbsp;</p>
+<p align="right" class="arabic_lg"> <span dir="RTL"> <span class="arabic_lg" onMouseOver="doTooltip(event,'I go to school everyday.')" onMouseOut="hideTip()">۱- أنا أذهب إلى الجامعة كلّ يوم.</span></span><span class="arabic_lg"><br>
+<span dir="RTL">أنا </span></span><span class="style8" dir="RTL">لا</span><span class="arabic_lg"><span dir="RTL" onMouseOver="doTooltip(event,'I do not go to school everyday.')" onMouseOut="hideTip()"> أذهب إلى الجامعة كلّ يوم.</span></span>  </p>
+<p align="right" class="arabic_lg"><span class="arabic_lg" dir="RTL" onMouseOver="doTooltip(event,'She travels every year.')" onMouseOut="hideTip()">۲- هي تسافر كلّ سنة.</span><span class="arabic_lg"><br>
+</span><span dir="RTL" onMouseOver="doTooltip(event,' She doesn’t travel every year.')" onMouseOut="hideTip()">هي <span class="style8">لا</span> تسافركلّ سنة.</span>  </p>
+<p align="right" class="arabic_lg"><span class="arabic_lg" dir="RTL" onMouseOver="doTooltip(event,'I remember my childhood friends.')" onMouseOut="hideTip()">۳- أنا أتذكّر أصدقاء طفولتي.</span><span class="arabic_lg"><br>
+<span dir="RTL">أنا </span></span><span class="style8" dir="RTL" onMouseOver="doTooltip(event,' I do not remember my childhood friends.')" onMouseOut="hideTip()">لا</span><span class="arabic_lg" onMouseOver="doTooltip(event,' I do not remember my childhood friends.')" onMouseOut="hideTip()"><span dir="RTL"> أتذكّر أصدقاء طفولتي.</span></span></p>
+<p align="left"><strong>Speak to Your Instructor</strong><br>
+Practise listening and saying the following sentences in preparation for the   chat session where you will be asked to read them aloud to your instructor.</p>
+<p align="right"> <span dir="RTL"> <span class="arabic_lg">۱- </span></span><span class="arabic_lg" dir="RTL" onMouseOver="doTooltip(event,'My relatives do not live in the States.')" onMouseOut="hideTip()">أقاربي لا يعيشون في أمريكا.</span><span class="arabic_lg"><br>
+  <span dir="RTL" onMouseOver="doTooltip(event,'I do not know Souad, my uncle Massoud’s wife. ')" onMouseOut="hideTip()">۲- أنا لا أعرف سعاد زوجة خالي مسعود.</span></span> <span class="arabic_lg"><br>
+    <span dir="RTL" onMouseOver="doTooltip(event,'My father teaches at the university.')" onMouseOut="hideTip()"> ۳-  والدي يدرّس في الجامعة.</span><br>
+  <span dir="RTL" onMouseOver="doTooltip(event,'I do not know my aunts (maternal) very well.')" onMouseOut="hideTip()">٤- أنا لا أعرف خالاتي  جيّدًا.</span></span> <span class="arabic_lg"><br>
+    <span dir="RTL" onMouseOver="doTooltip(event,'I know my aunt (maternal) very well.')" onMouseOut="hideTip()"> ٥- أنا أعرف خالتي جيّدًا.</span></span> </p>
+<p align="left">&nbsp;</p>
+  <td width="20">&nbsp;</td>
+      </tr>
+    </table></th>
+  </tr>
+ <!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
