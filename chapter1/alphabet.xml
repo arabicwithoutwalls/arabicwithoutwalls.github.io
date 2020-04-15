@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SPECIAL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://arclite.byu.edu/aww/xml/aww.xsd">
+<SPECIAL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://arclite.byu.edu/xml/aww.xsd">
 	<LETTER ORDER="1" SOUND="sounds/'alif.mp3" CHAPTER="1">
 		<SEPARATE>ا</SEPARATE>
 		<INITIAL SAME="SEPARATE">ا</INITIAL>

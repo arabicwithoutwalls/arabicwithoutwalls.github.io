@@ -75,8 +75,8 @@ chat_activity4.html	<script type="text/javascript" language="javascript" src="to
 chat_activity4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 chat_activity4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 chat_activity4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-grammar_exercise.html	<!--#include virtual="/aww/toolkit/includes/chap1_header.html"-->
-grammar_exercise.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_exercise.html	<!--#include virtual="/toolkit/includes/chap1_header.html"-->
+grammar_exercise.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 grammar_exercise4.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 grammar_exercise4.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 grammar_exercise4.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -132,8 +132,8 @@ intro_practice4.html	<script type="text/javascript" language="javascript" src="t
 intro_practice4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 intro_practice4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 intro_practice4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-landscapes.html	<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-landscapes.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+landscapes.html	<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+landscapes.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 landscapesjw.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 landscapesjw.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 landscapesjw.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -156,8 +156,8 @@ listening_quiz.html	<script type="text/javascript" language="javascript" src="to
 listening_quiz.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 listening_quiz.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 listening_quiz.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-min_asl.html	<!--#include virtual="/aww/toolkit/includes/chap4_header.html"-->
-min_asl.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+min_asl.html	<!--#include virtual="/toolkit/includes/chap4_header.html"-->
+min_asl.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 nabila_extendedfam.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 nabila_extendedfam.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 nabila_extendedfam.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -180,8 +180,8 @@ pronunciation_4.html	<script type="text/javascript" language="javascript" src="t
 pronunciation_4.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 pronunciation_4.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 pronunciation_4.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-pronunciation_4B.html	<!--#include virtual="/aww/toolkit/includes/chap4_header.html"-->
-pronunciation_4B.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+pronunciation_4B.html	<!--#include virtual="/toolkit/includes/chap4_header.html"-->
+pronunciation_4B.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 ps_14.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 ps_14.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 ps_14.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>

@@ -117,56 +117,56 @@
               <tr>
                 <td height="41" align="center" class="tablecella">الدولة العثمانيّة</td>
                 <td align="center" class="tablecella">فرنسا</td>
-		<td height="45" align="right" class="tablecella">بريطانيا<img src="/aww/images/num_spacer.gif" width="28" height="20"></td>
+		<td height="45" align="right" class="tablecella">بريطانيا<img src="/images/num_spacer.gif" width="28" height="20"></td>
 		<td height="45" align="right" class="tablecella">&nbsp</td>
               </tr>
               <tr>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g1" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g1" type="radio" value="right"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g1" type="radio" value="wrong"></td>
-		      <td align="right" class="tablecellb">تونس<img src="/aww/images/num_spacer.gif" width="28" height="20"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g1" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g1" type="radio" value="right"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g1" type="radio" value="wrong"></td>
+		      <td align="right" class="tablecellb">تونس<img src="/images/num_spacer.gif" width="28" height="20"></td>
               </tr>
               <tr>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g2" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g2" type="radio" value="right"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g2" type="radio" value="wrong"></td>
-		      <td align="right" class="tablecellb">الجزائر<img src="/aww/images/num_spacer.gif" width="28" height="20"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g2" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g2" type="radio" value="right"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g2" type="radio" value="wrong"></td>
+		      <td align="right" class="tablecellb">الجزائر<img src="/images/num_spacer.gif" width="28" height="20"></td>
               </tr>
               <tr>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g3" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g3" type="radio" value="right"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g3" type="radio" value="wrong"></td>
-		      <td align="right" class="tablecellb">سوريا<img src="/aww/images/num_spacer.gif" width="28" height="20"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g3" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g3" type="radio" value="right"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g3" type="radio" value="wrong"></td>
+		      <td align="right" class="tablecellb">سوريا<img src="/images/num_spacer.gif" width="28" height="20"></td>
               </tr>
               <tr>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g4" type="radio" value="right"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g4" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g4" type="radio" value="wrong"></td>
-		      <td align="right" dir=RTL class="tablecellb"><img src="/aww/images/num_spacer.gif" width="28" height="20">مكّة والمدينة<br><img src="/aww/images/num_spacer.gif" width="28" height="20">(السعوديّة)</td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g4" type="radio" value="right"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g4" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g4" type="radio" value="wrong"></td>
+		      <td align="right" dir=RTL class="tablecellb"><img src="/images/num_spacer.gif" width="28" height="20">مكّة والمدينة<br><img src="/images/num_spacer.gif" width="28" height="20">(السعوديّة)</td>
               </tr>
               <tr>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g5" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g5" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g5" type="radio" value="right"></td>
-		      <td align="right" class="tablecellb">العراق<img src="/aww/images/num_spacer.gif" width="28" height="20"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g5" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g5" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g5" type="radio" value="right"></td>
+		      <td align="right" class="tablecellb">العراق<img src="/images/num_spacer.gif" width="28" height="20"></td>
               </tr>
               <tr>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g6" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g6" type="radio" value="right"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g6" type="radio" value="wrong"></td>
-		      <td align="right" class="tablecellb">لبنان<img src="/aww/images/num_spacer.gif" width="28" height="20"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g6" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g6" type="radio" value="right"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g6" type="radio" value="wrong"></td>
+		      <td align="right" class="tablecellb">لبنان<img src="/images/num_spacer.gif" width="28" height="20"></td>
               </tr>
               <tr>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g7" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g7" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g7" type="radio" value="right"></td>
-		      <td align="right" class="tablecellb">البحرين<img src="/aww/images/num_spacer.gif" width="28" height="20"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g7" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g7" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g7" type="radio" value="right"></td>
+		      <td align="right" class="tablecellb">البحرين<img src="/images/num_spacer.gif" width="28" height="20"></td>
               </tr>
               <tr>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g8" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g8" type="radio" value="wrong"></td>
-		      <td height="32" align="center" class="tablecellb"><img src="/aww/images/blank.gif" width="20"><input name="g8" type="radio" value="right"></td>
-		      <td align="right" class="tablecellb">مصر<img src="/aww/images/num_spacer.gif" width="28" height="20"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g8" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g8" type="radio" value="wrong"></td>
+		      <td height="32" align="center" class="tablecellb"><img src="/images/blank.gif" width="20"><input name="g8" type="radio" value="right"></td>
+		      <td align="right" class="tablecellb">مصر<img src="/images/num_spacer.gif" width="28" height="20"></td>
               </tr>
 	  <tr>
 	    <td height="32" colspan="4" align="center" class="tablecella"><input type="button" value="Check Answers" onClick="checkAnswers(this.form);"></td>

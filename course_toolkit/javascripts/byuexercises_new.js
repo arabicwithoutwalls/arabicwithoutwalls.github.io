@@ -32,7 +32,7 @@ checkboxes
 *********************************/
 
 // Root directory of our PHP/AJAX wrapper
-var byuScriptRoot = "http://arabicwithoutwalls.ucdavis.edu/aww/";
+var byuScriptRoot = "http://arabicwithoutwalls.ucdavis.edu/";
 var responses;
 parent.frameURL = document.URL;
 

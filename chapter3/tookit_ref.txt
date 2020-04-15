@@ -141,8 +141,8 @@ listening_quiz.html	<script type="text/javascript" language="javascript" src="to
 listening_quiz.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 listening_quiz.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 listening_quiz.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-min_asl.html	<!--#include virtual="/aww/toolkit/includes/chap3_header.html"-->
-min_asl.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+min_asl.html	<!--#include virtual="/toolkit/includes/chap3_header.html"-->
+min_asl.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 pronunciation_3.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 pronunciation_3.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 pronunciation_3.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>

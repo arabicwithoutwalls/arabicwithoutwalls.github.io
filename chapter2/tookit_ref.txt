@@ -99,8 +99,8 @@ grammar_exercise2.html	<div id="divider"><img src="toolkit/images/divider.gif" a
 grammar_exercise2.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 grammar_exercise2.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 grammar_exercise2jw.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
-grammar_exercise2jw.html:<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
-grammar_exercise2jw.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_exercise2jw.html:<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+grammar_exercise2jw.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 grammar_note.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 grammar_note.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 grammar_note.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -178,8 +178,8 @@ listening_quiz.html	<script type="text/javascript" language="javascript" src="to
 listening_quiz.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 listening_quiz.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 listening_quiz.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-min_asl.html	<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
-min_asl.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+min_asl.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+min_asl.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 pronunciation_2.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 pronunciation_2.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 pronunciation_2.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -281,7 +281,7 @@ wafaa.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 wafaa.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 wafaaold.html:<link rel="stylesheet" type="text/css" href="../toolkit/transmenu/transmenu.css">
 wafaaold.html:<script language="javascript" src="../toolkit/transmenu/transmenu.js"></script>
-wafaaold.html	<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
+wafaaold.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
 wafaaold.html:<script language="javascript" src="../toolkit/transmenu/chap5_menu.js"></script>
 wafaaold.html:<SCRIPT language="javascript" src="../toolkit/sitelib.js"></SCRIPT>
 wafaaold.html:<SCRIPT language="javascript" src="../toolkit/byuexercises.js"></SCRIPT>

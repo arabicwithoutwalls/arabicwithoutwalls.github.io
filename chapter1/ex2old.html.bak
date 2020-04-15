@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Arabic Without Walls</title>
-		<!--#include virtual="/aww/toolkit/includes/chap1_header.html"-->
+		<!--#include virtual="/toolkit/includes/chap1_header.html"-->
 		<tr>
 			<th width="20" scope="row">&nbsp;</th>
 			<td width="608">&nbsp;</td>
@@ -25,7 +25,7 @@
 
 						<!-- PLACEHOLDER FOR ARAB WORLD MAP WITH DATES -->
 						<td width="35%">
-							<a href="javascript:open_win('map1.html',747,772);"><img src="/aww/chapter5/images/map1_th.jpg"
+							<a href="javascript:open_win('map1.html',747,772);"><img src="/chapter5/images/map1_th.jpg"
 														 width="154"
 														 height="158"
 														 border="0"
@@ -63,7 +63,7 @@
 <option value="wrong">العراق والسعوديّة</option>
 <option value="wrong">موريتانيا وجيبوتي</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 										  </td>
 									  </tr>
 									  <tr class="tablecellb">
@@ -75,7 +75,7 @@
 <option value="wrong">العراق والسعوديّة</option>
 <option value="wrong">موريتانيا وجيبوتي</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 										  </td>
 									  </tr>
 									  <tr class="tablecellb">
@@ -87,7 +87,7 @@
 <option value="wrong">العراق والسعوديّة</option>
 <option value="wrong">موريتانيا وجيبوتي</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 										  </td>
 									  </tr>
 									  <tr class="tablecellb">
@@ -99,7 +99,7 @@
 <option value="wrong">العراق والسعوديّة</option>
 <option value="wrong">موريتانيا وجيبوتي</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 										  </td>
 									  </tr>
 									  <tr class="tablecellb">
@@ -111,7 +111,7 @@
 <option value="wrong">العراق والسعوديّة</option>
 <option value="wrong">موريتانيا وجيبوتي</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 										  </td>
 									  </tr>
 								  </table>
@@ -129,7 +129,7 @@
 <option value="right">العراق والسعوديّة</option>
 <option value="wrong">موريتانيا وجيبوتي</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -137,7 +137,7 @@
 						<td valign="top">2.</td>
 						<td valign="top">The three neighboring countries that gained independence in the 1940’s were</td>
 						<td align="right">
-						</select style='font-size: 22px;'><img src="/aww/images/blank.gif" width="20"> 
+						</select style='font-size: 22px;'><img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -155,7 +155,7 @@
 <option value="wrong">سوريا</option>
 <option value="wrong">المغرب</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -169,7 +169,7 @@
 <option value="right">تونس والمغرب والسودان ومصر</option>
 <option value="wrong">ليبيا والسعوديّة وقطر وموريتانيا</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -183,7 +183,7 @@
 <option value="wrong">تونس والجزائر والمغرب وليبيا</option>
 <option value="right">عُمان وقطر والبحرين والإمارات</option>
 </select>
-						<img src="/aww/images/blank.gif" width="20"> 
+						<img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -198,4 +198,4 @@
 			</tr>
 	</table></th>
 </tr>
-<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+<!--#include virtual="/toolkit/includes/chap5_footer.html"-->

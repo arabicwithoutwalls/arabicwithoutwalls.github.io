@@ -14,7 +14,7 @@
 
 </script>
 
-<!--#include virtual="/aww/toolkit/includes/chap1_header.html"-->
+<!--#include virtual="/toolkit/includes/chap1_header.html"-->
       <style type="text/css">
 <!--
 -->
@@ -51,4 +51,4 @@
     </table></th>
   </tr>
 
-<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+<!--#include virtual="/toolkit/includes/chap5_footer.html"-->

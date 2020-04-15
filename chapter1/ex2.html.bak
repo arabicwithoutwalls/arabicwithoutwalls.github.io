@@ -92,7 +92,7 @@
 
 						<!-- PLACEHOLDER FOR ARAB WORLD MAP WITH DATES -->
 						<td width="35%">
-							<a href="javascript:open_win('map1.html',747,772);"><img src="/aww/chapter1/images/map1_th.jpg"
+							<a href="javascript:open_win('map1.html',747,772);"><img src="/chapter1/images/map1_th.jpg"
 														 width="154"
 														 height="158"
 														 border="0"
@@ -122,7 +122,7 @@
 <option value="right">العراق والسعوديّة</option>
 <option value="wrong">موريتانيا وجيبوتي</option>
 </select>
-						</span><img src="/aww/images/blank.gif" width="20"> 
+						</span><img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -136,7 +136,7 @@
 <option value="right">لبنان وسوريا والأردن</option>
 <option value="wrong">السعوديّة والسودان والبحرين</option>
 </select>
-						</span><img src="/aww/images/blank.gif" width="20"> 
+						</span><img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -150,7 +150,7 @@
 <option value="wrong">سوريا</option>
 <option value="wrong">المغرب</option>
 </select>
-						</span><img src="/aww/images/blank.gif" width="20"> 
+						</span><img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -164,7 +164,7 @@
 <option value="right">تونس والمغرب والسودان ومصر</option>
 <option value="wrong">ليبيا والسعوديّة وقطر وموريتانيا</option>
 </select>
-						</span><img src="/aww/images/blank.gif" width="20"> 
+						</span><img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 
@@ -178,7 +178,7 @@
 <option value="wrong">تونس والجزائر والمغرب وليبيا</option>
 <option value="right">عُمان وقطر والبحرين والإمارات</option>
 </select>
-						</span><img src="/aww/images/blank.gif" width="20"> 
+						</span><img src="/images/blank.gif" width="20"> 
 						</td>
 						</tr>
 

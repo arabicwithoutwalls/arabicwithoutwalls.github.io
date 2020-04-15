@@ -95,8 +95,8 @@
 <option value="wrong" valign="right">مصريّ</option>
 <option value="right" valign="right">محمد</option>
 </select>
-                    <img src="/aww/images/spacer.gif" width="10" height="1"> </span></td>
-                  <td width="56%" height="40" align="right"><span dir="rtl" class="arabic_lg">۱- ما إسم والد مها؟</span> <img src="/aww/images/blank.gif" width="20"></td>
+                    <img src="/images/spacer.gif" width="10" height="1"> </span></td>
+                  <td width="56%" height="40" align="right"><span dir="rtl" class="arabic_lg">۱- ما إسم والد مها؟</span> <img src="/images/blank.gif" width="20"></td>
                 </tr>
                 <tr class="tablecellb">
                   <td height="40"><div align="right"><span class="arabic_lg"><p align="right" class="arabic_lg">
@@ -106,8 +106,8 @@
 <option value="right">نيويورك</option>
 <option value="wrong">كاليفورنيا</option>
 </select>
-                      <img src="/aww/images/spacer.gif" width="10" height="1"> </span></div></td>
-                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">۲- في أيّ مدينة تسكن مها؟</span> <img src="/aww/images/blank.gif" width="20"></div></td>
+                      <img src="/images/spacer.gif" width="10" height="1"> </span></div></td>
+                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">۲- في أيّ مدينة تسكن مها؟</span> <img src="/images/blank.gif" width="20"></div></td>
                 </tr>
                 <tr class="tablecellb">
                   <td height="40"><div align="right"><span class="arabic_lg"><p align="right" class="arabic_lg">
@@ -117,8 +117,8 @@
 <option value="wrong">برونكس</option>
 <option value="wrong">منهاتن</option>
 </select>
-                      <img src="/aww/images/spacer.gif" width="10" height="1"> </span></div></td>
-                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">۳- في أيّ منطقة تسكن مها؟</span> <img src="/aww/images/blank.gif" width="20"></div></td>
+                      <img src="/images/spacer.gif" width="10" height="1"> </span></div></td>
+                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">۳- في أيّ منطقة تسكن مها؟</span> <img src="/images/blank.gif" width="20"></div></td>
                 </tr>
                 <tr class="tablecellb">
                   <td height="40"><div align="right"><span class="arabic_lg"><p align="right" class="arabic_lg">
@@ -128,8 +128,8 @@
 <option value="right">من فلسطين</option>
 <option value="wrong">من الولايات المتحدّة</option>
 </select>
-                      <img src="/aww/images/spacer.gif" width="10" height="1"> </span></div></td>
-                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">٤- من أين والدة مها؟</span> <img src="/aww/images/blank.gif" width="20"></div></td>
+                      <img src="/images/spacer.gif" width="10" height="1"> </span></div></td>
+                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">٤- من أين والدة مها؟</span> <img src="/images/blank.gif" width="20"></div></td>
                 </tr>
                 <tr class="tablecellb">
                   <td height="40"><div align="right"><span class="arabic_lg"><p align="right" class="arabic_lg">
@@ -139,8 +139,8 @@
 <option value="wrong">من فلسطين</option>
 <option value="right">من مصر</option>
 </select>
-                      <img src="/aww/images/spacer.gif" width="10" height="1"> </span></div></td>
-                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">٥- من أيّ بلد والد مها؟</span> <img src="/aww/images/blank.gif" width="20"></div></td>
+                      <img src="/images/spacer.gif" width="10" height="1"> </span></div></td>
+                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">٥- من أيّ بلد والد مها؟</span> <img src="/images/blank.gif" width="20"></div></td>
                 </tr>
                 <tr class="tablecellb">
                   <td height="40"><div align="right"><span class="arabic_lg"><p align="right" class="arabic_lg">
@@ -150,12 +150,12 @@
 <option value="wrong">في جامعة نيو يورك</option>
 <option value="wrong">في جامعة القاهرة</option>
 </select>
-                      <img src="/aww/images/spacer.gif" width="10" height="1"> </span></div></td>
-                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">٦- أين يعمل والد مها؟</span> <img src="/aww/images/blank.gif" width="20"></div></td>
+                      <img src="/images/spacer.gif" width="10" height="1"> </span></div></td>
+                  <td height="40"><div align="right"><span dir="rtl" class="arabic_lg">٦- أين يعمل والد مها؟</span> <img src="/images/blank.gif" width="20"></div></td>
                 </tr>
                 <tr class="tablecella">
                   <td height="60" align="right" valign="middle"><input type="button" value="Check Answers" onClick="checkAnswers(this.form);">
-                      <span class="arabic_lg"><img src="/aww/images/spacer.gif" width="11" height="8"></span></td>
+                      <span class="arabic_lg"><img src="/images/spacer.gif" width="11" height="8"></span></td>
                   <td height="60">&nbsp;</td>
                 </tr>
             </table></th>
