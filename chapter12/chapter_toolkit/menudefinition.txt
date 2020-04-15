@@ -1,0 +1,36 @@
+Vocabulary
+	AK Drills
+		AK 12 Drill 2 ## ak12drill2.html
+	Vocabulary Practice
+		Vocabulary Exercise ## Vocab_ex12.html
+		Vocabulary Flashcards ## ak12_flashcards.html
+Grammar
+	AK Drills
+		AK 12 Drill 1 ## ak12drill1.html
+		AK 12 Drill 8 ## ak12drill8.html
+		AK 12 Drill 11 ## ak12drill11.html
+		AK 12 Drill 12 ## ak12_drill_12.html
+		AK 12 Drill 18 ## ak12drill18.html
+		AK 12 Drill 19 ## ak12drill19.html
+	Grammar Practice
+		Grammar Note 1 ## grammar_note12.html
+		Grammar Note 2 ## grammar_note122.html
+		Verb Practice ## verbs.html
+Listening and Culture
+	AK Video Comprehension
+		AK 12 Drill 6 ## ak12drill6.html
+		AK 12 Drill 16 ## ak12_drill_16.html
+		AK 12 Drill 17 ## ak12drill17.html
+		AK 12 Drill 20 ## ak12drill20.html
+		AK 12 Drill 21 ## ak12drill21.html
+	Interviews
+		Khalid talks about marriage ## traditional_marriage.html
+		Jordanian food ## jordanian_cooking.html
+Speaking and Writing
+	Pronunciation Tip ## pronunciation_12.html
+	Personalized Practice ## ps_12.html
+	Chat Activity ## chat_activity12.html
+	Writing Activity ## writing_ex12.html
+Quizzes
+	Grammar Quiz ## ch12grammar_quiz.html
+	Listening Quiz ## listening_quiz.html

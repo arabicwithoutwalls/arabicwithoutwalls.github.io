@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>/
+<CHAPTER xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://arclite.byu.edu/aww/xml/aww.xsd" NUM="10">
+	<VERB FORM="IV">
+		<INFINITIVE>
+			<ARABIC> أَصْبَحَ - يُصْبِحُ  </ARABIC>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND=";a8oba7a.mp3"> أَصْبَحَ </ARABIC>
+				<ENGLISH>he became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND=";a8oba71.mp3"> أَصْبَحا </ARABIC>
+				<ENGLISH>they (two, m) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND=";a8oba7w1.mp3"> أَصْبَحوا </ARABIC>
+				<ENGLISH>they became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND=";a8oba7ato.mp3"> أَصْبَحَتْ </ARABIC>
+				<ENGLISH>she became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND=";a8oba7at1.mp3"> أَصْبَحَتا </ARABIC>
+				<ENGLISH>they (two, f) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND=";a8oba7ona.mp3"> أَصْبَحْنَ </ARABIC>
+				<ENGLISH>they (f) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND=";a8oba7ota.mp3"> أَصْبَحْتَ </ARABIC>
+				<ENGLISH>you (m) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND=";a8oba7otum1.mp3"> أَصْبَحْتُما </ARABIC>
+				<ENGLISH>you (two, m) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND=";a8oba7otumo.mp3"> أَصْبَحْتُمْ </ARABIC>
+				<ENGLISH>you (pl.) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND=";a8oba7oti.mp3"> أَصْبَحْتِ </ARABIC>
+				<ENGLISH>you (f) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND=";a8oba7otum1.mp3"> أَصْبَحْتُما </ARABIC>
+				<ENGLISH>you (two, f) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND=";a8oba7otuna~.mp3"> أَصْبَحْتُنَّ </ARABIC>
+				<ENGLISH>you (pl., f) became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";a8oba7otu.mp3"> أَصْبَحْتُ </ARABIC>
+				<ENGLISH>I became</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND=";a8oba7on1.mp3"> أَصْبَحْنا </ARABIC>
+				<ENGLISH>we became</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yu8obi7u.mp3"> يُصْبِحُ </ARABIC>
+				<ENGLISH>he becomes</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="yu8obi7a1ni.mp3"> يُصْبِحَانِ </ARABIC>
+				<ENGLISH>they (two, m) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yu8obi7uwna.mp3"> يُصْبِحُونَ </ARABIC>
+				<ENGLISH>they become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tu8obi7u.mp3"> تُصْبِحُ </ARABIC>
+				<ENGLISH>she becomes</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="tu8obi71ni.mp3"> تُصْبِحانِ </ARABIC>
+				<ENGLISH>they (two, f) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="yu8obi7ona.mp3"> يُصْبِحْنَ </ARABIC>
+				<ENGLISH>they (f) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tu8obi7u.mp3"> تُصْبِحُ </ARABIC>
+				<ENGLISH>you (m) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tu8obi71ni.mp3"> تُصْبِحانِ </ARABIC>
+				<ENGLISH>you (two, m) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tu8obi7wna.mp3"> تُصْبِحونَ </ARABIC>
+				<ENGLISH>you (pl.) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tu8obi7yna.mp3"> تُصْبِحينَ </ARABIC>
+				<ENGLISH>you (f) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tu8obi71ni.mp3"> تُصْبِحانِ </ARABIC>
+				<ENGLISH>you (two, f) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tu8obi7ona.mp3"> تُصْبِحْنَ </ARABIC>
+				<ENGLISH>you (pl., f) become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";u8obi7u.mp3"> أُصْبِحُ </ARABIC>
+				<ENGLISH>I become</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nu8obi7u.mp3"> نُصْبِحُ </ARABIC>
+				<ENGLISH>we become</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+	<VERB FORM="IV">
+		<INFINITIVE>
+			<ARABIC> أَقْامَ - يُقِيمُ  </ARABIC>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND=";aqo1ma.mp3"> أَقْامَ </ARABIC>
+				<ENGLISH>he stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND=";aqo1m1.mp3"> أَقْاما </ARABIC>
+				<ENGLISH>they (two, m) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND=";aqo1mw1.mp3"> أَقْاموا </ARABIC>
+				<ENGLISH>they stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND=";aqo1mato.mp3"> أَقْامَتْ </ARABIC>
+				<ENGLISH>she stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND=";aqo1mat1.mp3"> أَقْامَتا </ARABIC>
+				<ENGLISH>they (two, f) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND=";aqama~.mp3"> أَقَمَّ </ARABIC>
+				<ENGLISH>they (f) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND=";aqamota.mp3"> أَقَمْتَ </ARABIC>
+				<ENGLISH>you (m) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND=";aqamotum1.mp3"> أَقَمْتُما </ARABIC>
+				<ENGLISH>you (two, m) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND=";aqamotumo.mp3"> أَقَمْتُمْ </ARABIC>
+				<ENGLISH>you (pl.) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND=";aqamoti.mp3"> أَقَمْتِ </ARABIC>
+				<ENGLISH>you (f) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND=";aqamotum1.mp3"> أَقَمْتُما </ARABIC>
+				<ENGLISH>you (two, f) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND=";aqamotuna~.mp3"> أَقَمْتُنَّ </ARABIC>
+				<ENGLISH>you (pl., f) stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";aqamotu.mp3"> أَقَمْتُ </ARABIC>
+				<ENGLISH>I stayed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND=";aqamon1.mp3"> أَقَمْنا </ARABIC>
+				<ENGLISH>we stayed</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yuqiymu.mp3"> يُقِيمُ </ARABIC>
+				<ENGLISH>he stays</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="yuqiyma1ni.mp3"> يُقِيمَانِ </ARABIC>
+				<ENGLISH>they (two, m) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yuqiymuwna.mp3"> يُقِيمُونَ </ARABIC>
+				<ENGLISH>they stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tuqiymu.mp3"> تُقِيمُ </ARABIC>
+				<ENGLISH>she stays</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="tuqiym1ni.mp3"> تُقِيمانِ </ARABIC>
+				<ENGLISH>they (two, f) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="yuqimona.mp3"> يُقِمْنَ </ARABIC>
+				<ENGLISH>they (f) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tuqiymu.mp3"> تُقِيمُ </ARABIC>
+				<ENGLISH>you (m) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tuqiym1ni.mp3"> تُقِيمانِ </ARABIC>
+				<ENGLISH>you (two, m) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tuqiymwna.mp3"> تُقِيمونَ </ARABIC>
+				<ENGLISH>you (pl.) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tuqiymyna.mp3"> تُقِيمينَ </ARABIC>
+				<ENGLISH>you (f) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tuqiym1ni.mp3"> تُقِيمانِ </ARABIC>
+				<ENGLISH>you (two, f) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tuqimona.mp3"> تُقِمْنَ </ARABIC>
+				<ENGLISH>you (pl., f) stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";uqiymu.mp3"> أُقِيمُ </ARABIC>
+				<ENGLISH>I stay</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nuqiymu.mp3"> نُقِيمُ </ARABIC>
+				<ENGLISH>we stay</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+	<VERB FORM="X">
+		<INFINITIVE>
+			<ARABIC> اِسْتَمْتَعَ - يَسْتَمْتِعُ بِ  </ARABIC>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="1isotamotaca.mp3"> اِسْتَمْتَعَ </ARABIC>
+				<ENGLISH>he enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="1isotamotac1.mp3"> اِسْتَمْتَعا </ARABIC>
+				<ENGLISH>they (two, m) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="1isotamotacw1.mp3"> اِسْتَمْتَعوا </ARABIC>
+				<ENGLISH>they enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="1isotamotacato.mp3"> اِسْتَمْتَعَتْ </ARABIC>
+				<ENGLISH>she enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="1isotamotacat1.mp3"> اِسْتَمْتَعَتا </ARABIC>
+				<ENGLISH>they (two, f) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="1isotamotacona.mp3"> اِسْتَمْتَعْنَ </ARABIC>
+				<ENGLISH>they (f) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="1isotamotacota.mp3"> اِسْتَمْتَعْتَ </ARABIC>
+				<ENGLISH>you (m) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="1isotamotacotum1.mp3"> اِسْتَمْتَعْتُما </ARABIC>
+				<ENGLISH>you (two, m) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="1isotamotacotumo.mp3"> اِسْتَمْتَعْتُمْ </ARABIC>
+				<ENGLISH>you (pl.) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="1isotamotacoti.mp3"> اِسْتَمْتَعْتِ </ARABIC>
+				<ENGLISH>you (f) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="1isotamotacotum1.mp3"> اِسْتَمْتَعْتُما </ARABIC>
+				<ENGLISH>you (two, f) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="1isotamotacotuna~.mp3"> اِسْتَمْتَعْتُنَّ </ARABIC>
+				<ENGLISH>you (pl., f) enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND="1isotamotacotu.mp3"> اِسْتَمْتَعْتُ </ARABIC>
+				<ENGLISH>I enjoyed</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="1isotamotacon1.mp3"> اِسْتَمْتَعْنا </ARABIC>
+				<ENGLISH>we enjoyed</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yasotamoticu.mp3"> يَسْتَمْتِعُ </ARABIC>
+				<ENGLISH>he enjoys</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="yasotamotica1ni.mp3"> يَسْتَمْتِعَانِ </ARABIC>
+				<ENGLISH>they (two, m) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yasotamoticuwna.mp3"> يَسْتَمْتِعُونَ </ARABIC>
+				<ENGLISH>they enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tasotamoticu.mp3"> تَسْتَمْتِعُ </ARABIC>
+				<ENGLISH>she enjoys</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="tasotamotic1ni.mp3"> تَسْتَمْتِعانِ </ARABIC>
+				<ENGLISH>they (two, f) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="yasotamoticona.mp3"> يَسْتَمْتِعْنَ </ARABIC>
+				<ENGLISH>they (f) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tasotamoticu.mp3"> تَسْتَمْتِعُ </ARABIC>
+				<ENGLISH>you (m) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tasotamotic1ni.mp3"> تَسْتَمْتِعانِ </ARABIC>
+				<ENGLISH>you (two, m) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tasotamoticwna.mp3"> تَسْتَمْتِعونَ </ARABIC>
+				<ENGLISH>you (pl.) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tasotamoticyna.mp3"> تَسْتَمْتِعينَ </ARABIC>
+				<ENGLISH>you (f) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tasotamotic1ni.mp3"> تَسْتَمْتِعانِ </ARABIC>
+				<ENGLISH>you (two, f) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tasotamoticona.mp3"> تَسْتَمْتِعْنَ </ARABIC>
+				<ENGLISH>you (pl., f) enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";asotamoticu.mp3"> أَسْتَمْتِعُ </ARABIC>
+				<ENGLISH>I enjoy</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nasotamoticu.mp3"> نَسْتَمْتِعُ </ARABIC>
+				<ENGLISH>we enjoy</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+	<VERB FORM="I">
+		<INFINITIVE>
+			<ARABIC> صَحَا - يَصْحُو  </ARABIC>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="8a7a1.mp3"> صَحَا </ARABIC>
+				<ENGLISH>he woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="8a7awa1.mp3"> صَحَوَا </ARABIC>
+				<ENGLISH>they (two, m) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="8a7awo1.mp3"> صَحَوْا </ARABIC>
+				<ENGLISH>they woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="8a7ato.mp3"> صَحَتْ </ARABIC>
+				<ENGLISH>she woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="8a7ata1.mp3"> صَحَتَا </ARABIC>
+				<ENGLISH>they (two, f) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="8a7awona.mp3"> صَحَوْنَ </ARABIC>
+				<ENGLISH>they (f) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="8a7awota.mp3"> صَحَوْتَ </ARABIC>
+				<ENGLISH>you (m) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="8a7awotum1.mp3"> صَحَوْتُما </ARABIC>
+				<ENGLISH>you (two, m) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="8a7awotumo.mp3"> ْصَحَوْتُم </ARABIC>
+				<ENGLISH>you (pl.) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="8a7awoti.mp3"> صَحَوْتِ </ARABIC>
+				<ENGLISH>you (f) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="8a7awotuma1.mp3"> صَحَوْتُمَا </ARABIC>
+				<ENGLISH>you (two, f) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="8a7awotuna~.mp3"> صَحَوْتُنَّ </ARABIC>
+				<ENGLISH>you (pl., f) woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND="8a7awotu.mp3"> صَحَوْتُ </ARABIC>
+				<ENGLISH>I woke up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="8a7awon1.mp3"> صَحَوْنا </ARABIC>
+				<ENGLISH>we woke up</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="ya8o7uw.mp3"> يَصْحُو </ARABIC>
+				<ENGLISH>he wakes up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="ya8o7uwa1ni.mp3"> يَصْحُوَانِ </ARABIC>
+				<ENGLISH>they (two, m) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="ya8o7uwna.mp3"> يَصْحُونَ </ARABIC>
+				<ENGLISH>they wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="ta8o7uw.mp3"> تَصْحُو </ARABIC>
+				<ENGLISH>she wakes up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="ta8o7uwa1n~.mp3"> تَصْحُوَانّ </ARABIC>
+				<ENGLISH>they (two, f) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="ya8o7uwna.mp3"> يَصْحُونَ </ARABIC>
+				<ENGLISH>they (f) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="ta8o7uw.mp3"> تَصْحُو </ARABIC>
+				<ENGLISH>you (m) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="ta8o7uwa1ni.mp3"> تَصْحُوَانِ </ARABIC>
+				<ENGLISH>you (two, m) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="ta8o7uwna.mp3"> تَصْحُونَ </ARABIC>
+				<ENGLISH>you (pl.) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="ta8o7iyna.mp3"> تَصْحِينَ </ARABIC>
+				<ENGLISH>you (f) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="ta8o7uwa1ni.mp3"> تَصْحُوَانِ </ARABIC>
+				<ENGLISH>you (two, f) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="ta8o7uwna.mp3"> تَصْحُونَ </ARABIC>
+				<ENGLISH>you (pl., f) wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";a8o7uw.mp3"> أَصْحُو </ARABIC>
+				<ENGLISH>I wake up</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="na8o7uw.mp3"> نَصْحُو </ARABIC>
+				<ENGLISH>we wake up</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+	<VERB FORM="X">
+		<INFINITIVE>
+			<ARABIC> فَهِمَ - يَفْهَمُ  </ARABIC>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="fahima.mp3"> فَهِمَ </ARABIC>
+				<ENGLISH>he understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="fahim1.mp3"> فَهِما </ARABIC>
+				<ENGLISH>they (two, m) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="fahimw1.mp3"> فَهِموا </ARABIC>
+				<ENGLISH>they understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="fahimato.mp3"> فَهِمَتْ </ARABIC>
+				<ENGLISH>she understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="fahimat1.mp3"> فَهِمَتا </ARABIC>
+				<ENGLISH>they (two, f) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="fahimona.mp3"> فَهِمْنَ </ARABIC>
+				<ENGLISH>they (f) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="fahimota.mp3"> فَهِمْتَ </ARABIC>
+				<ENGLISH>you (m) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="fahimotum1.mp3"> فَهِمْتُما </ARABIC>
+				<ENGLISH>you (two, m) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="fahimotumo.mp3"> فَهِمْتُمْ </ARABIC>
+				<ENGLISH>you (pl.) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="fahimoti.mp3"> فَهِمْتِ </ARABIC>
+				<ENGLISH>you (f) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="fahimotum1.mp3"> فَهِمْتُما </ARABIC>
+				<ENGLISH>you (two, f) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="fahimotuna~.mp3"> فَهِمْتُنَّ </ARABIC>
+				<ENGLISH>you (pl., f) understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND="fahimotu.mp3"> فَهِمْتُ </ARABIC>
+				<ENGLISH>I understood</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="fahimon1.mp3"> فَهِمْنا </ARABIC>
+				<ENGLISH>we understood</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yafohamu.mp3"> يَفْهَمُ </ARABIC>
+				<ENGLISH>he understands</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="yafohama1ni.mp3"> يَفْهَمَانِ </ARABIC>
+				<ENGLISH>they (two, m) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yafohamuwna.mp3"> يَفْهَمُونَ </ARABIC>
+				<ENGLISH>they understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tafohamu.mp3"> تَفْهَمُ </ARABIC>
+				<ENGLISH>she understands</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="tafoham1ni.mp3"> تَفْهَمانِ </ARABIC>
+				<ENGLISH>they (two, f) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="yafohamona.mp3"> يَفْهَمْنَ </ARABIC>
+				<ENGLISH>they (f) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tafohamu.mp3"> تَفْهَمُ </ARABIC>
+				<ENGLISH>you (m) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tafoham1ni.mp3"> تَفْهَمانِ </ARABIC>
+				<ENGLISH>you (two, m) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tafohamwna.mp3"> تَفْهَمونَ </ARABIC>
+				<ENGLISH>you (pl.) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tafohamyna.mp3"> تَفْهَمينَ </ARABIC>
+				<ENGLISH>you (f) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tafoham1ni.mp3"> تَفْهَمانِ </ARABIC>
+				<ENGLISH>you (two, f) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tafohamona.mp3"> تَفْهَمْنَ </ARABIC>
+				<ENGLISH>you (pl., f) understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";afohamu.mp3"> أَفْهَمُ </ARABIC>
+				<ENGLISH>I understand</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nafohamu.mp3"> نَفْهَمُ </ARABIC>
+				<ENGLISH>we understand</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+	<VERB FORM="I">
+
+		<INFINITIVE>
+
+			<ARABIC> جاءَ - يَجيءُ </ARABIC>
+
+		</INFINITIVE>
+
+		<PAST>
+
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+
+				<ARABIC SOUND="j1’a.mp3"> جاءَ </ARABIC>
+
+				<ENGLISH>he expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+
+				<ARABIC SOUND="j1’1.mp3"> جاءا </ARABIC>
+
+				<ENGLISH>they (two, m) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+
+				<ARABIC SOUND="j1’w1.mp3"> جاءوا </ARABIC>
+
+				<ENGLISH>they expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+
+				<ARABIC SOUND="j1’ato.mp3"> جاءَتْ </ARABIC>
+
+				<ENGLISH>she expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+
+				<ARABIC SOUND="j1’t1.mp3"> جاءتا </ARABIC>
+
+				<ENGLISH>they (two, f) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+
+				<ARABIC SOUND="ji}oona.mp3"> جِئْْنَ </ARABIC>
+
+				<ENGLISH>they (f) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+
+				<ARABIC SOUND="ji}oota.mp3"> جِئْْتَ </ARABIC>
+
+				<ENGLISH>you (m) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+
+				<ARABIC SOUND="ji}ootum1.mp3"> جِئْْتُما </ARABIC>
+
+				<ENGLISH>you (two, m) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+
+				<ARABIC SOUND="ji}ootumo.mp3"> جِئْْتُمْ </ARABIC>
+
+				<ENGLISH>you (pl.) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+
+				<ARABIC SOUND="ji}ooti.mp3"> جِئْْتِ </ARABIC>
+
+				<ENGLISH>you (f) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+
+				<ARABIC SOUND="ji}ootum1.mp3"> جِئْْتُما </ARABIC>
+
+				<ENGLISH>you (two, f) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+
+				<ARABIC SOUND="ji}ootuna~.mp3"> جِئْْتُنَّ </ARABIC>
+
+				<ENGLISH>you (pl., f) expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+
+				<ARABIC SOUND="ji}ootu.mp3"> جِئْْتُ </ARABIC>
+
+				<ENGLISH>I expressed</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+
+				<ARABIC SOUND="ji}oon1.mp3"> جِئْْنا </ARABIC>
+
+				<ENGLISH>we expressed</ENGLISH>
+
+			</CONJUGATION>
+
+		</PAST>
+
+		<PRESENT MOOD="PAUSE">
+
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+
+				<ARABIC SOUND="yajy’u.mp3"> يَجيءُ </ARABIC>
+
+				<ENGLISH>he expresses</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+
+				<ARABIC SOUND="yajy}1ni.mp3"> يَجيئانِ </ARABIC>
+
+				<ENGLISH>they (two, m) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+
+				<ARABIC SOUND="yajy}wna.mp3"> يَجيئونَ </ARABIC>
+
+				<ENGLISH>they express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+
+				<ARABIC SOUND="tajy’u.mp3"> تَجيءُ </ARABIC>
+
+				<ENGLISH>she expresses</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+
+				<ARABIC SOUND="tajy}1ni.mp3"> تَجيئانِ </ARABIC>
+
+				<ENGLISH>they (two, f) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+
+				<ARABIC SOUND="yaji}ona.mp3"> يَجِئْنَ </ARABIC>
+
+				<ENGLISH>they (f) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+
+				<ARABIC SOUND="tajy’u.mp3"> تَجيءُ </ARABIC>
+
+				<ENGLISH>you (m) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+
+				<ARABIC SOUND="tajy}1ni.mp3"> تَجيئانِ </ARABIC>
+
+				<ENGLISH>you (two, m) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="MASC" NUMBER="PLURAL" PERSON="SECOND">
+
+				<ARABIC SOUND="tajy}wna.mp3"> تَجيئونَ </ARABIC>
+
+				<ENGLISH>you (pl.) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+
+				<ARABIC SOUND="tajy}yna.mp3"> تَجيئينَ </ARABIC>
+
+				<ENGLISH>you (f) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="SECOND">
+
+				<ARABIC SOUND="tajy}1ni.mp3"> تَجيئانِ </ARABIC>
+
+				<ENGLISH>you (two, f) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+
+				<ARABIC SOUND="taji}ona.mp3"> تَجِئْنَ </ARABIC>
+
+				<ENGLISH>you (pl., f) express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+
+				<ARABIC SOUND=";ajy’u.mp3"> أَجيءُ </ARABIC>
+
+				<ENGLISH>I express</ENGLISH>
+
+			</CONJUGATION>
+
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+
+				<ARABIC SOUND="najy’u.mp3"> نَجيءُ </ARABIC>
+
+				<ENGLISH>we express</ENGLISH>
+
+			</CONJUGATION>
+
+		</PRESENT>
+
+	</VERB>
+
+	<VERB FORM="I">
+		<INFINITIVE>
+			<ARABIC> نَامَ - يَنامُ  </ARABIC>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="na1ma.mp3"> نَامَ </ARABIC>
+				<ENGLISH>he slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="na1m1.mp3"> نَاما </ARABIC>
+				<ENGLISH>they (two, m) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="na1mw1.mp3"> نَاموا </ARABIC>
+				<ENGLISH>they slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="na1mato.mp3"> نَامَتْ </ARABIC>
+				<ENGLISH>she slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="na1mat1.mp3"> نَامَتا </ARABIC>
+				<ENGLISH>they (two, f) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="nimona.mp3"> نِمْنَ </ARABIC>
+				<ENGLISH>they (f) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="nimota.mp3"> نِمْتَ </ARABIC>
+				<ENGLISH>you (m) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="nimotum1.mp3"> نِمْتُما </ARABIC>
+				<ENGLISH>you (two, m) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="nimotumo.mp3"> نِمْتُمْ </ARABIC>
+				<ENGLISH>you (pl.) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="nimoti.mp3"> نِمْتِ </ARABIC>
+				<ENGLISH>you (f) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="nimotum1.mp3"> نِمْتُما </ARABIC>
+				<ENGLISH>you (two, f) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="nimotuna~.mp3"> نِمْتُنَّ </ARABIC>
+				<ENGLISH>you (pl., f) slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND="nimotu.mp3"> نِمْتُ </ARABIC>
+				<ENGLISH>I slept</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nimon1.mp3"> نِمْنا </ARABIC>
+				<ENGLISH>we slept</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yan1mu.mp3"> يَنامُ </ARABIC>
+				<ENGLISH>he sleeps</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="yan1ma1ni.mp3"> يَنامَانِ </ARABIC>
+				<ENGLISH>they (two, m) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yan1muwna.mp3"> يَنامُونَ </ARABIC>
+				<ENGLISH>they sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tan1mu.mp3"> تَنامُ </ARABIC>
+				<ENGLISH>she sleeps</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="tan1m1ni.mp3"> تَنامانِ </ARABIC>
+				<ENGLISH>they (two, f) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="yanimona.mp3"> يَنِمْنَ </ARABIC>
+				<ENGLISH>they (f) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tan1mu.mp3"> تَنامُ </ARABIC>
+				<ENGLISH>you (m) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tan1m1ni.mp3"> تَنامانِ </ARABIC>
+				<ENGLISH>you (two, m) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tan1mwna.mp3"> تَنامونَ </ARABIC>
+				<ENGLISH>you (pl.) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tan1myna.mp3"> تَنامينَ </ARABIC>
+				<ENGLISH>you (f) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tan1m1ni.mp3"> تَنامانِ </ARABIC>
+				<ENGLISH>you (two, f) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tanimona.mp3"> تَنِمْنَ </ARABIC>
+				<ENGLISH>you (pl., f) sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";an1mu.mp3"> أَنامُ </ARABIC>
+				<ENGLISH>I sleep</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nan1mu.mp3"> نَنامُ </ARABIC>
+				<ENGLISH>we sleep</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+	<VERB FORM="I">
+		<INFINITIVE>
+			<ARABIC> سَهِرَ - يَسْهَرُ  </ARABIC>
+		</INFINITIVE>
+		<PAST>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="sahira.mp3"> سَهِرَ </ARABIC>
+				<ENGLISH>he stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="sahir1.mp3"> سَهِرا </ARABIC>
+				<ENGLISH>they (two, m) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="sahirw1.mp3"> سَهِروا </ARABIC>
+				<ENGLISH>they stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="sahirato.mp3"> سَهِرَتْ </ARABIC>
+				<ENGLISH>she stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="sahirat1.mp3"> سَهِرَتا </ARABIC>
+				<ENGLISH>they (two, f) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="sahirona.mp3"> سَهِرْنَ </ARABIC>
+				<ENGLISH>they (f) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="sahirota.mp3"> سَهِرْتَ </ARABIC>
+				<ENGLISH>you (m) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="sahirotum1.mp3"> سَهِرْتُما </ARABIC>
+				<ENGLISH>you (two, m) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="SECOND" GENDER="MASC">
+				<ARABIC SOUND="sahirotumo.mp3"> سَهِرْتُمْ </ARABIC>
+				<ENGLISH>you (pl.) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="sahiroti.mp3"> سَهِرْتِ </ARABIC>
+				<ENGLISH>you (f) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="sahirotum1.mp3"> سَهِرْتُما </ARABIC>
+				<ENGLISH>you (two, f) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="sahirotuna~.mp3"> سَهِرْتُنَّ </ARABIC>
+				<ENGLISH>you (pl., f) stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND="sahirotu.mp3"> سَهِرْتُ </ARABIC>
+				<ENGLISH>I stayed up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="sahiron1.mp3"> سَهِرْنا </ARABIC>
+				<ENGLISH>we stayed up late</ENGLISH>
+			</CONJUGATION>
+		</PAST>
+		<PRESENT MOOD="PAUSE">
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="yasoharu.mp3"> يَسْهَرُ </ARABIC>
+				<ENGLISH>he stays up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="yasohara1ni.mp3"> يَسْهَرَانِ </ARABIC>
+				<ENGLISH>they (two, m) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="THIRD" GENDER="MASC">
+				<ARABIC SOUND="yasoharuwna.mp3"> يَسْهَرُونَ </ARABIC>
+				<ENGLISH>they stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="THIRD">
+				<ARABIC SOUND="tasoharu.mp3"> تَسْهَرُ </ARABIC>
+				<ENGLISH>she stays up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="THIRD">
+				<ARABIC SOUND="tasohar1ni.mp3"> تَسْهَرانِ </ARABIC>
+				<ENGLISH>they (two, f) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="THIRD">
+				<ARABIC SOUND="yasoharona.mp3"> يَسْهَرْنَ </ARABIC>
+				<ENGLISH>they (f) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tasoharu.mp3"> تَسْهَرُ </ARABIC>
+				<ENGLISH>you (m) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tasohar1ni.mp3"> تَسْهَرانِ </ARABIC>
+				<ENGLISH>you (two, m) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="MASC" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tasoharwna.mp3"> تَسْهَرونَ </ARABIC>
+				<ENGLISH>you (pl.) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="SING" PERSON="SECOND">
+				<ARABIC SOUND="tasoharyna.mp3"> تَسْهَرينَ </ARABIC>
+				<ENGLISH>you (f) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="DUAL" PERSON="SECOND">
+				<ARABIC SOUND="tasohar1ni.mp3"> تَسْهَرانِ </ARABIC>
+				<ENGLISH>you (two, f) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION GENDER="FEM" NUMBER="PLURAL" PERSON="SECOND">
+				<ARABIC SOUND="tasoharona.mp3"> تَسْهَرْنَ </ARABIC>
+				<ENGLISH>you (pl., f) stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="SING" PERSON="FIRST">
+				<ARABIC SOUND=";asoharu.mp3"> أَسْهَرُ </ARABIC>
+				<ENGLISH>I stay up late</ENGLISH>
+			</CONJUGATION>
+			<CONJUGATION NUMBER="PLURAL" PERSON="FIRST">
+				<ARABIC SOUND="nasoharu.mp3"> نَسْهَرُ </ARABIC>
+				<ENGLISH>we stay up late</ENGLISH>
+			</CONJUGATION>
+		</PRESENT>
+	</VERB>
+</CHAPTER>
+
+
+
+
+
+
+
+
+

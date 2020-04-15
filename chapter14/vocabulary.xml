@@ -1,0 +1,43 @@
+<chapter num="14">
+	<word arabic="شَقّة" english="apartment" sound="sounds/apartment.mp3" />
+	<word arabic="شِقَق / شُقَق" english="apartments" sound="sounds/apartments.mp3" />
+	<word arabic="حَمّام" english="bathroom" sound="sounds/bathroom.mp3" />
+	<word arabic="حَمّامات" english="bathrooms"  sound="sounds/bathrooms.mp3"/>
+	<word arabic="راحة" english="comfort" sound="sounds/comfort.mp3" />
+	<word arabic="السُّفرة" english="dining (room)" sound="sounds/dining(room).mp3" />
+	<word arabic="طابِق" english="floor / story" sound="sounds/floor_story.mp3" />
+	<word arabic="طَوابِق" english="floors / stories" sound ="floors_stories.mp3" />
+	<word arabic="حَديقة" english="garden / park" sound="sounds/garden_park.mp3" />
+	<word arabic="حَدائق" english="gardens / parks" sound="sounds/gardens_parks.mp3" />
+	<word arabic="أتَمَنَّى أنْ" english="I hope" sound="sounds/Ihope.mp3" />
+	<word arabic="أَذْكُرْ" english="I recall / mention" sound="sounds/Irecall_mention.mp3" />
+	<word arabic="ذَكَرْتُ" english="I recalled / mentioned" sound="sounds/Irecalled_mentioned.mp3" />
+	<word arabic="يَتَكَوَّن من" english="it consists of" sound="sounds/itconsistsof.mp3" />
+	<word arabic="مَطبَخ" english="kitchen" sound="sounds/kitchen.mp3" />
+	<word arabic="مَطابِخ" english="kitchens" sound="sounds/kitchens.mp3" />
+	<word arabic="الاِنتِقال" english="moving" sound="sounds/moving.mp3" />
+	<word arabic="الاِنتِقال إلى" english="moving to" sound="sounds/movingto.mp3" />
+	<word arabic="حَديقة" english="public park" sound="sounds/publicpark.mp3" />
+	<word arabic="حَدائق" english="public parks" sound="sounds/publicparks.mp3" />
+	<word arabic="مَكان" english="place" sound="sounds/place.mp3" />
+	<word arabic="أماكِن" english="places" sound="sounds/places.mp3" />
+	<word arabic="الإعْداد" english="preparation" sound="sounds/preparation.mp3" />
+	<word arabic="مِن قَبل" english="previously / before" sound="sounds/previously_before.mp3" />
+	<word arabic="الاِسْتِقبال" english="receiving" sound="sounds/receiving.mp3" />
+	<word arabic="الاِستِئْجار" english="renting" sound="sounds/renting.mp3" />
+	<word arabic="غُرفة" english="room" sound="sounds/room.mp3" />
+	<word arabic="غُرَف" english="rooms" sound="sounds/rooms.mp3" />
+	<word arabic="حَمّام سِباحة" english="swimming pool" sound="sounds/swimmingpool.mp3" />
+	<word arabic="حَدَثَ، يَحْدُث" english="to happen" sound="sounds/tohappen.mp3" />
+	<word arabic="أعَدَّ، يُعِدّ" english="to prepare" sound="sounds/toprepare.mp3" />
+	<word arabic="اِسْتَقبَلَ، يَستَقبِل" english="to receive / welcome" sound="sounds/toreceive_welcome.mp3" />
+	<word arabic="نَتْرُكْ" english="we leave" sound="sounds/weleave.mp3" />
+	<word arabic="تَرَكْنا" english="we left" sound="sounds/weleft.mp3" />
+	<word arabic="اِنْتَقَلنا إلى" english="we moved to" sound="sounds/wemovedto.mp3" />
+	<word arabic="نَنْتَقِلْ إلى" english="we move to" sound="sounds/wemoveto.mp3" />
+	<word arabic="نَسْتَئجِر" english="we rent" sound="sounds/werent.mp3" />
+	<word arabic="اِستَئجَرنا" english="we rented" sound="sounds/werented.mp3" />
+	
+	
+</chapter>
+

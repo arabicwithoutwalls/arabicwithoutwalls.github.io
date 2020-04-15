@@ -1,0 +1,42 @@
+﻿<chapter num="12">
+	<word arabic="جَميعاً" english="all together" sound="sounds/alltogether.mp3" />
+	<word arabic="إجازة" english="day off" sound="sounds/dayoff.mp3" />
+	<word arabic="إجازات" english="days off" sound="sounds/daysoff.mp3" />
+	<word arabic="وَفاة" english="death" sound="sounds/death.mp3" />
+	<word arabic="قَرار" english="decision"  sound="sounds/decision.mp3"/>
+	<word arabic="قَرارات" english="decisions" sound="sounds/decisions.mp3" />
+	<word arabic="سَ سَوفَ" english="future marker" sound="sounds/futuremarker.mp3" />
+
+	<word arabic="مِنحة" english="grant" sound="sounds/grant.mp3" />
+	<word arabic="مِنَح" english="grants" sound="sounds/grants.mp3" />
+	<word arabic="بَقِيَ" english="he stayed" sound ="sounds/he stayed.mp3" />
+	<word arabic="هُنا" english="here" sound="sounds/here.mp3" />
+	<word arabic="قَرَّرتُ أن" english="I decided to" sound="sounds/Idecidedto.mp3" />
+	<word arabic="أُقَرِّرْ" english="I decide to" sound="sounds/Idecideto.mp3" />
+	<word arabic="عَلِمتُ" english="I learned of" sound="sounds/Ilearnedof.mp3" />
+	<word arabic="أعَلَم ب" english="I learn of" sound="sounds/Ilearnof.mp3" />
+	<word arabic="بِالإضافة إلى" english="in addition to" sound="sounds/inadditionto.mp3" />
+	<word arabic="أَزور" english="I visit" sound="sounds/Ivisit.mp3" />
+	<word arabic="زُرتُ" english="I visited" sound="sounds/Ivisited.mp3" />
+	<word arabic="عُيِّنتُ" english="I was appointed" sound="sounds/Iwasappointed.mp3" />
+	<word arabic="آخِر" english="last" sound="sounds/last.mp3" />
+	<word arabic="الحَياة" english="life" sound="sounds/life.mp3" />
+	<word arabic="طَبْعاً" english="of course" sound="sounds/ofcourse.mp3" />
+	<word arabic="البَقاء" english="remaining" sound="sounds/remaining.mp3" />
+	<word arabic="ما سافرَتْ" english="she did not travel" sound="sounds/shedidnottravel.mp3" />
+	<word arabic="تَتَغَيَّب عن" english="she is absent from" sound="sounds/sheisabsentfrom.mp3" />
+	<word arabic="تَغَيَّبَت عن" english="she was absent from" sound="sounds/shewasabsentfrom.mp3" />
+	
+	<word arabic="لم تَسافر" english="she did not travel" sound="sounds/shedidnottravel.mp3" />
+	<word arabic="أصْعَب" english="the most difficult" sound="sounds/themostdifficult.mp3" />
+	<word arabic="بَقِيَ، يَبْقى" english="to stay" sound="sounds/tostay.mp3" />
+	<word arabic="إجازة" english="vacation" sound="sounds/vacation.mp3" />
+	<word arabic="إجازات" english="vacations" sound="sounds/vacations.mp3" />
+	<word arabic="الزِّيارة" english="visit" sound="sounds/visit.mp3" />
+	<word arabic="نَقْضي" english="we spend (time)" sound="sounds/wespend(time).mp3" />
+	<word arabic="قَضَينا" english="we spent (time)" sound="sounds/wespent(time).mp3" />
+	<word arabic="نَأخُذ" english="we take" sound="sounds/wetake.mp3" />
+	<word arabic="أَخَذنا" english="we took" sound="sounds/wetook.mp3" />
+
+</chapter>
+

@@ -1,0 +1,32 @@
+<!-- Top Header Layout -->
+<table width="800" height="100%" border="1" cellpadding="0" cellspacing="0">
+  <tr>
+    <th height="160" colspan="2" align="left" valign="top" scope="row"><a href="../index.html"><img src="../images/aww_logo.gif" width="800" height="160" border="0"></a></th>
+  </tr>
+  <tr>
+    <th height="23" colspan="2" align="left" valign="top" scope="row"><table width="800" height="23" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <th width="130" scope="row"><a href="../coursecontent.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','../images/coursecontent_btn_on.gif',1)"><img src="../images/coursecontent_btn_off.gif" name="Image2" width="130" height="23" border="0"></a></th>
+          <td width="75"><a href="../syllabus.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','../images/syllabus_btn_on.gif',1)"><img src="../images/syllabus_btn_off.gif" name="Image3" width="75" height="23" border="0"></a></td>
+          <td width="50"><a href="http://ucdavis.horizonwimba.com/ucdavis/voicedirect?action=display&rid=6-1096514545775" target="_blank" onMouseOver="MM_swapImage('Image4','','../images/chat_btn_on.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../images/chat_btn_off.gif" name="Image4" width="50" height="23" border="0"></a></td>
+          <td width="70"><a href="http://ucdavis.horizonwimba.com/ucdavis/board?action=display&rid=1-1096608873137" target="_blank" onMouseOver="MM_swapImage('Image5','','../images/forums_btn_on.gif',1)" onMouseOut="MM_swapImgRestore()"><img src="../images/forums_btn_off.gif" name="Image5" width="70" height="23" border="0"></a></td>
+          <td width="100"><a href="../resources.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','../images/resources_btn_on.gif',1)"><img src="../images/resources_btn_off.gif" name="Image6" width="100" height="23" border="0"></a></td>
+          <td height="23" align="right" background="../images/nav_blue_bg.gif"><table height="23" border="0" cellpadding="0" cellspacing="0">
+              <tr>
+                <th width="50" height="23" scope="row">&nbsp;</th>
+                <th width="266" align="left" class="sublink" scope="row"><a href="../requirements.html"> Requirements</a> | <a href="mailto:shiri@socrates.berkeley.edu?subject=%22contact%20from%20AWW%20Web%20site%22">Email Instructor </a>|<a href="../aboutaww.html"> About AWW </a></th>
+                <th width="10" scope="row">&nbsp;</th>
+              </tr>
+          </table></td>
+        </tr>
+    </table></th>
+  </tr>
+<!-- Sidebar Table Layout -->
+  <tr>
+    <th width="152" height="100%" align="left" valign="top" background="../images/tile_bg.gif" scope="row"><table width="152" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <th height="28" align="left" valign="top" scope="row"><a href="index.html"><img src="../images/alifbaa_header.gif" width="152" height="28" border="0"></a></th>
+      </tr>
+  <tr>
+    <th align="left" valign="top" scope="row" bgcolor="#3A5A8C">
+

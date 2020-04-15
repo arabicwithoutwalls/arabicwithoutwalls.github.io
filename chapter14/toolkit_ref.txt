@@ -1,0 +1,47 @@
+ak14drill1.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ak14drill1.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ak14drill1.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ak14drill1.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ak14drill1.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ak14drill1.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ak14drill1.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ak14drill1.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ak14drill1.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ak14drill1.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ak14drill1.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ak14drill17.html:<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+ak14drill17.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+chap14.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+chap14.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+chat_activity14.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+chat_activity14.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+grammar_note14.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+index.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+index.html	<link href="../toolkit/aww.css" rel="stylesheet" type="text/css">
+index.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+min_asl.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+min_asl.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+pronunciation_14.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+pronunciation_14.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ps_14.html:<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+ps_14.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test1.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test1.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test1.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test2.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test2.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test2.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test3.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test3.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test3.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test4.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+test4.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+verbs.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+verbs.html	<script src="../toolkit/AC_OETags.js" type="text/javascript"></script>
+verbs.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+vocab_drill.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+vocab_drill.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+vocab_ex14.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+vocab_ex14.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+writing_ex14.html	<!--#include virtual="/toolkit/includes/chap14_header.html"-->
+writing_ex14.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
