@@ -1,15 +1,15 @@
-ak7drill2.html:<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-ak7drill2.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-ak7drill5.html:<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-ak7drill5.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-ch7grammar_quiz.html:<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-ch7grammar_quiz.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-chap7.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-chap7.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-chat_activity7.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-chat_activity7.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-grammar_exercise.html	<!--#include virtual="/aww/toolkit/includes/chap1_header.html"-->
-grammar_exercise.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+ak7drill2.html:<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+ak7drill2.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ak7drill5.html:<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+ak7drill5.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ch7grammar_quiz.html:<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+ch7grammar_quiz.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+chap7.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+chap7.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+chat_activity7.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+chat_activity7.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+grammar_exercise.html	<!--#include virtual="/toolkit/includes/chap1_header.html"-->
+grammar_exercise.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 grammar_exercise7.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 grammar_exercise7.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 grammar_exercise7.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -21,14 +21,14 @@ grammar_exercise7.html	<script type="text/javascript" language="javascript" src=
 grammar_exercise7.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 grammar_exercise7.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 grammar_exercise7.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-grammar_exercise72.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-grammar_exercise72.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-grammar_note.html	<!--#include virtual="/aww/toolkit/includes/chap1_header.html"-->
-grammar_note.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-grammar_note71.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-grammar_note71.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-grammar_note72.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-grammar_note72.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+grammar_exercise72.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+grammar_exercise72.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+grammar_note.html	<!--#include virtual="/toolkit/includes/chap1_header.html"-->
+grammar_note.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+grammar_note71.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+grammar_note71.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+grammar_note72.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+grammar_note72.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 grammar_note73.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 grammar_note73.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 grammar_note73.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -51,15 +51,15 @@ grammar_note74.html	<script type="text/javascript" language="javascript" src="to
 grammar_note74.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 grammar_note74.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 grammar_note74.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-index.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
+index.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
 index.html	<link href="../toolkit/aww.css" rel="stylesheet" type="text/css">
-index.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-listening_quiz.html:<!--#include virtual="/aww/toolkit/includes/chap13_header.html"-->
-listening_quiz.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-min_asl.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-min_asl.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-nabila_family.html:<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-nabila_family.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+index.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+listening_quiz.html:<!--#include virtual="/toolkit/includes/chap13_header.html"-->
+listening_quiz.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+min_asl.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+min_asl.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+nabila_family.html:<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+nabila_family.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 pronunciation_7.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
 pronunciation_7.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
 pronunciation_7.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
@@ -71,26 +71,26 @@ pronunciation_7.html	<script type="text/javascript" language="javascript" src="t
 pronunciation_7.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
 pronunciation_7.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
 pronunciation_7.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
-ps_7.html:<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-ps_7.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-sij7.html:<!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
-sij7.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+ps_7.html:<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+ps_7.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+sij7.html:<!--#include virtual="/toolkit/includes/chap5_header.html"-->
+sij7.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 test1.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
-test1.html	<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
-test1.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+test1.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test1.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 test2.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
-test2.html	<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
-test2.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+test2.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test2.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
 test3.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
-test3.html	<!--#include virtual="/aww/toolkit/includes/chap2_header.html"-->
-test3.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-test4.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-test4.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-verbs.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-verbs.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-vocab_drill.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-vocab_drill.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-vocab_ex7.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-vocab_ex7.html:<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
-writing_ex7.html	<!--#include virtual="/aww/toolkit/includes/chap7_header.html"-->
-writing_ex7.html	<!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
+test3.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test3.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test4.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+test4.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+verbs.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+verbs.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+vocab_drill.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+vocab_drill.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+vocab_ex7.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+vocab_ex7.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+writing_ex7.html	<!--#include virtual="/toolkit/includes/chap7_header.html"-->
+writing_ex7.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->

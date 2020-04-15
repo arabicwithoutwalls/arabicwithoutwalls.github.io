@@ -1,0 +1,66 @@
+ak9_drill_11.html	<link href="toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+ak9_drill_11.html	<link href="toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+ak9_drill_11.html	<script type="text/javascript" src="toolkit/javascripts/chapter_vars.js"></script>
+ak9_drill_11.html	<script type="text/javascript" src="toolkit/javascripts/menu.js"></script>
+ak9_drill_11.html	<script type="text/javascript" src="toolkit/javascripts/ie_menu_adjustment.js"></script>
+ak9_drill_11.html	<script type="text/javascript" src="toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+ak9_drill_11.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/playsound.js"></script>
+ak9_drill_11.html	<script type="text/javascript" language="javascript" src="toolkit/javascripts/byuexercises.js"></script>
+ak9_drill_11.html	<div id="divider"><img src="toolkit/images/divider.gif" alt="divider_graphic" /></div>
+ak9_drill_11.html	<param name="movie" value="toolkit/flash_movies/playSound.swf" />
+ak9_drill_11.html	<embed src="toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ak9drill1.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+ak9drill1.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ak9drill15.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+ak9drill15.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ak9drill16.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+ak9drill16.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ak9drill2.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+ak9drill2.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ak9drill4.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+ak9drill4.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+chap9.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+chap9.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+chat_activity9.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+chat_activity9.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+didyouknow.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+didyouknow.html	<link href="../toolkit/aww.css" rel="stylesheet" type="text/css">
+didyouknow.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+grammar_exercise9.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+grammar_exercise9.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+grammar_note.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+grammar_note.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+grammar_note9.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+grammar_note9.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+index.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+index.html	<link href="../toolkit/aww.css" rel="stylesheet" type="text/css">
+index.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+min_asl.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+min_asl.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+nabila_hobbies.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+nabila_hobbies.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+pronunciation_9.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+pronunciation_9.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+ps_9.html:<!--#include virtual="/toolkit/includes/chap9_header.html"--><link href="../aww.css" rel="stylesheet" type="text/css">
+ps_9.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+sij9.html:<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+sij9.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test1.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test1.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test1.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test2.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test2.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test2.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test3.html:<link href="toolkit/aww.css" rel="stylesheet" type="text/css">
+test3.html	<!--#include virtual="/toolkit/includes/chap2_header.html"-->
+test3.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+test4.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+test4.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+verbs.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+verbs.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+vocab_drill.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+vocab_drill.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+vocab_ex9.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+vocab_ex9.html:<!--#include virtual="/toolkit/includes/chap5_footer.html"-->
+writing_ex9.html	<!--#include virtual="/toolkit/includes/chap9_header.html"-->
+writing_ex9.html	<!--#include virtual="/toolkit/includes/chap5_footer.html"-->

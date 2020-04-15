@@ -1,0 +1,38 @@
+Vocabulary
+	AK Drills
+		AK 9 Drill 2 ## ak9drill2.html
+		AK 9 Drill 15 ## ak9drill15.html
+		AK 9 Drill 17 ## ak9drill17.html
+	Vocabulary Practice
+		Vocabulary Exercise ## vocab_ex9.html
+		Vocabulary Flashcards ## ak9_flashcards.html
+Grammar
+	AK Drills
+		AK 9 Drill 1 ## ak9drill1.html
+		Ak 9 Drill 6 ## ak9drill6.html
+		AK 9 Drill 16 ## ak9drill16.html
+		Answer Keys for Selected Drills ## ak9_answerkeys.html
+	Grammar Practice
+		Grammar Note - Telling time ## grammar_note9.html
+		Grammar Exercise ## grammar_exercise9.html
+		Verb Practice ## verbs.html
+Listening and Culture
+	AK Video Comprehension
+		AK 9 Drill 4 Part 2 ## ak9drill4.html
+		AK 9 Drill 11 ## ak9_drill_11.html
+		AK 9 Drill 18 ## ak9drill18.html
+		DVD Story Comprehension ## chap9.html
+	Interviews
+		Rumooz talks about her daily schedule ## sij9.html
+		Nabila describes her hobbies ## nabiila_hobbies.html
+		Diyana talks about her career goals ## diana_career.html
+	Culture: Did You Know?
+		The Story of Coffee ## didyouknow.html
+Speaking and Writing
+	Pronunciation Tip ## pronunciation_9.html
+	Personalized Practice ## ps_9.html
+	Chat Activity ## chat_activity9.html
+	Writing Activity ## writing_ex9.html
+Quizzes
+	Grammar Quiz ## ch9grammar_quiz.html
+	Listening Quiz ## listening_quiz.html

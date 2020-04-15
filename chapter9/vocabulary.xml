@@ -1,0 +1,80 @@
+﻿<chapter num="9">
+<word arabic="بعد الظهر" english="afternoon" sound="sounds/afternoon.mp3" />
+<word arabic="حوالي" english="approximately" sound="sounds/approximately.mp3" />
+<word arabic="أما فـ" english="as for" sound="sounds/asfor.mp3" />
+<word arabic="في أي ساعة" english="at what time" sound="sounds/atwhattime.mp3" />
+<word arabic="الفطور" english="breakfast" sound="sounds/breakfast.mp3" />
+<word arabic="قناة" english="channel" sound="sounds/channel.mp3" />
+<word arabic="الشطرنج" english="chess" sound="sounds/chess.mp3" />
+<word arabic="نادي" english="club" sound="sounds/club.mp3" />
+<word arabic="نوادي" english="clubs" sound="sounds/clubs.mp3" />
+<word arabic="الخروج" english="departure" sound="sounds/departure.mp3" />
+<word arabic="الشرب" english="drink" sound="sounds/drink.mp3" />
+<word arabic="عين" english="eye" sound="sounds/eye.mp3" />
+<word arabic="عيون" english="eyes" sound="sounds/eyes.mp3" />
+<word arabic="بعيد عن" english="far from" sound="sounds/farFrom.mp3" />
+<word arabic="قليلاً" english="few" sound="sounds/few.mp3" />
+<word arabic="نصف" english="half" sound="sounds/half.mp3" />
+<word arabic="ينزل" english="he leaves (the house)" sound="sounds/heleaves(thehouse).mp3" />
+<word arabic="نزل" english="he left (the house)" sound="sounds/heleft(thehouse).mp3" />
+<word arabic="ساعة" english="hour" sound="sounds/hour.mp3" />
+<word arabic="ساعات" english="hours" sound="sounds/hours.mp3" />
+<word arabic="فطرت" english="I ate breakfast" sound="sounds/Iatebreakfast.mp3" />
+<word arabic="استطيع" english="I can" sound="sounds/Ican.mp3" />
+<word arabic="شربت" english="I drank" sound="sounds/Idrank.mp3" />
+<word arabic="اشرب" english="I drink" sound="sounds/Idrink.mp3" />
+<word arabic="افطر" english="I eat breakfast" sound="sounds/IeatBreakfast.mp3" />
+<word arabic="اخرج" english="I leave" sound="sounds/Ileave.mp3" />
+<word arabic="خرجت" english="I left" sound="sounds/Ileft.mp3" />
+<word arabic="اعود" english="I return" sound="sounds/Ireturn.mp3" />
+<word arabic="عدت" english="I returned" sound="sounds/Ireturned.mp3" />
+<word arabic="جلست" english="I sat" sound="sounds/Isat.mp3" />
+<word arabic="اجلس" english="I sit" sound="sounds/Isit.mp3" />
+<word arabic="ادخن" english="I smoke" sound="sounds/Ismoke.mp3" />
+<word arabic="دخنت" english="I smoked" sound="sounds/Ismoked.mp3" />
+<word arabic="بدأت" english="It began" sound="sounds/itbegan.mp3" />
+<word arabic="تبدأ" english="It begins" sound="sounds/itbegins.mp3" />
+<word arabic="استطعت" english="I was able to" sound="sounds/Iwasableto.mp3" />
+<word arabic="إلا" english="less" sound="sounds/less.mp3" />
+<word arabic="مكتبات" english="libraries" sound="sounds/libraries.mp3" />
+<word arabic="مكتبة" english="library" sound="sounds/library.mp3" />
+<word arabic="غداء" english="lunch" sound="sounds/lunch.mp3" />
+<word arabic="ني" english="me (object of verb)" sound="sounds/me(objectOfVerb).mp3" />
+<word arabic="دقيقة" english="minute" sound="sounds/minute.mp3" />
+<word arabic="دقائق" english="minutes" sound="sounds/minutes.mp3" />
+<word arabic="أخبار" english="news" sound="sounds/news.mp3" />
+<word arabic="جريدة" english="newspaper" sound="sounds/newspaper.mp3" />
+<word arabic="جرائد" english="newspapers" sound="sounds/newspapers.mp3" />
+<word arabic="ليلة" english="night" sound="sounds/night.mp3" />
+<word arabic="ربع" english="one quarter" sound="sounds/onequarter.mp3" />
+<word arabic="أو" english="or" sound="sounds/or.mp3" />
+<word arabic="آخر" english="other" sound="sounds/other.mp3" />
+<word arabic="أخرى" english="other (fem)" sound="sounds/otherfem.mp3" />
+<word arabic="المفضل" english="preference" sound="sounds/preference.mp3" />
+<word arabic="العودة" english="return" sound="sounds/return.mp3" />
+<word arabic="توقظ" english="she wakes (someone) up" sound="sounds/shewakes(s.o.mp3" />
+<word arabic="سادس" english="sixth" sound="sounds/sixth.mp3" />
+<word arabic="سادسة" english="sixth (fem)" sound="sounds/sixthfem.mp3" />
+<word arabic="التدخين" english="smoking" sound="sounds/smoking.mp3" />
+<word arabic="بعض" english="some" sound="sounds/some.mp3" />
+<word arabic="خاص" english="special" sound="sounds/special.mp3" />
+<word arabic="ثم" english="then" sound="sounds/then.mp3" />
+<word arabic="الدنيا" english="the world" sound="sounds/theworld.mp3" />
+<word arabic="ثلث" english="one third" sound="sounds/third.mp3" />
+<word arabic="استطاع - يستطيع" english="to be able to" sound="sounds/tobeableto.mp3" />
+<word arabic="بدأ - يبدأ" english="to begin" sound="sounds/tobegin.mp3" />
+<word arabic="نزل ينزل" english="to descend" sound="sounds/todescend.mp3" />
+<word arabic="شرب - يشرب" english="to drink" sound="sounds/todrink.mp3" />
+<word arabic="أكل - يأكل" english="to eat" sound="sounds/toeat.mp3" />
+<word arabic="فطر - يفطر" english="to eat breakfast" sound="sounds/toeatbreakfast.mp3" />
+<word arabic="خرج - يخرج" english="to leave" sound="sounds/toleave.mp3" />
+<word arabic="لعب - يلعب" english="to play" sound="sounds/toplay.mp3" />
+<word arabic="جلس - يجلس" english="to sit" sound="sounds/tosit.mp3" />
+<word arabic="دخن - يدخن" english="to smoke" sound="sounds/tosmoke.mp3" />
+<word arabic="وقظ - يوقظ" english="to wake (someone) up" sound="sounds/towakeup.mp3" />
+<word arabic="نلعب" english="we play" sound="sounds/weplay.mp3" />
+<word arabic="لعبنا" english="we played" sound="sounds/weplayed.mp3" />
+<word arabic="كم الساعة" english="what time Is It" sound="sounds/whattimeisit.mp3" />
+<word arabic="متى" english="when" sound="sounds/when.mp3" />
+</chapter>
+
