@@ -1,0 +1,801 @@
+/* CHANGELOG:
+ *-------------------------------------------------------------------------
+ * 11/02/07: Changed font for tablecella and tablecellb to match that of
+ *           arabic_lg, since font chosen for tables used to be quite ugly.
+ *           It will still be ugly if the necessary fonts aren't found, but
+ *           it won't be sans-serif.
+ *
+ *           Also added rule for select tags - their fonts are now exactly
+ *           like arabic_lg.
+ *
+ * 01/24/08: Added header3 class for non-blue, non-italic headers.
+ *
+ * 07/01/08: Finished media selectors for screen/print styles. We don't need
+ *           those silly PDFs anymore. Just let them print the page as it is.
+ *           The menu will automatically hide, and the content will stretch.
+ *-------------------------------------------------------------------------
+ */
+
+.arabic_med {
+	font-family: "Times New Roman", Times, serif; /* Verdana, Helvetica, sans-serif; */
+	font-size: 18px;
+	font-weight: normal;
+	/* color: #000000; Should inhert the parent's color. */
+        font-style: normal;
+}
+
+.arabic_sm {
+	font-family: "Times New Roman", Times, serif; /* Verdana, Helvetica, sans-serif; */
+	font-size: 12px;
+	font-weight: normal;
+	/* color: #000000; Should inhert the parent's color. */
+        font-style: normal;
+}
+
+/* Added from fix provided by Aaron */
+.answerCSS {
+	font-size:35px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	visibility:visible;
+	text-align:center;
+}
+
+.answer_link, answer_link:visited {
+	color: #00f;
+}
+
+.answer_link:hover, .answer_link:visited:hover {
+	color: #f90;
+	cursor: pointer;
+}
+
+body {
+  margin: 0px;
+  background-image: url('../images/bg2.gif'); 
+  font-size: 12px;
+}
+
+p, td {
+	font-family: Arial, Helvetica;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	line-height: 21px;
+}
+
+.eng_text {
+	font-size: 12px;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+.credits {
+	font-size: 8px;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+img {
+  border: 0px;
+}
+
+/**** HEADER ****/
+
+@media screen {
+
+	#header {
+	  position: absolute;
+	  top: 0px;
+	  left: 0px;
+	  background-color: #34598A;
+	  width: 800px;
+	  height: 179px;
+	  font-family: sans-serif;
+	  font-size: 12px;
+	  padding: 0px;
+	}
+
+	#logo {
+	  background-image: url('../images/aww_logo.gif');
+	  background-color: #FFFFFF;
+	  width: 800px;
+	  height: 160px;
+	}
+
+	#horizontal_menu {
+	  position: absolute;
+	  top: 160px;
+	  left: 0px;
+	  width: 800px;
+	  margin-left: 4px;
+	}
+
+	#header #horizontal_menu #white_links {
+	  background: white;
+	  width: 440px;
+	  height: 16px;
+	  border-bottom: 1px solid #7698C8;
+	}
+
+	#header #horizontal_menu #white_links a {
+	  font-family: Arial, Helvetica;
+	  font-size: 12px;
+	  background-color: #FFFFFF;
+	  color: #000000;
+	  text-decoration: none;
+	  border-right: 1px solid #C4C4C4;
+	  /*border-bottom: 1px solid #7698C8;*/
+	  padding-left: 11px;
+	  padding-right: 11px;
+	  margin-left: 0px;
+	  margin-right: -3px;
+	}
+
+	#header #horizontal_menu #white_links a:hover {
+	  color: #F7941D;
+	}
+
+	#header #horizontal_menu #blue_links {
+	  position: absolute;
+	  top: 0px;
+	  right: 10px;
+	}
+
+	#header #horizontal_menu #blue_links a {
+	  font-family: Arial, Helvetica;
+	  font-size: 12px;
+	  /*background-color: #34598A;*/
+	  color: #FFFFFF;
+	  text-decoration: none;
+	  border-right: 1px solid #C4C4C4;
+	  padding-left: 11px;
+	  padding-right: 11px;
+	  margin-left: 0px;
+	}
+
+	#header #horizontal_menu #blue_links a:hover {
+	  color: #51BBFF;
+	}
+
+	#header #horizontal_menu #divider {
+	  position: absolute;
+	  top: 0px;
+	  left: 420px;
+	}
+
+	/**** SIDEBAR ****/
+
+	#sidebar {
+	  position: absolute;
+	  z-index: 1000;
+	  top: 179px;
+	  left: 0px;
+	  width: 152px;
+	  background-color: #34598A;
+	}
+
+	#sidebar #chapter_title {
+	  text-align: center;
+	  margin-top: 2px;
+	  padding-top: 3px;
+	  padding-bottom: 0px;
+	  border-top: 1px solid #7698C8;
+	}
+
+	#sidebar #chapter_title a {
+	  font-family: sans-serif;
+	  font-weight: bold;
+	  color: #84A5C5;
+	  text-align: center;
+	  margin-top: 0px;
+	  padding-bottom: 0px;
+	  text-decoration: none;
+	}
+
+	#sidebar #chapter_title a:hover {
+	  color: #FFFFFF;
+	}
+
+	#sidebar #top {
+	  width: 152px;
+	  height: 28px;
+	  background-image: url('../images/tile_top.gif');
+	}
+
+	#sidebar #filler {
+	  background-image: url('../images/tile_bg.gif');
+	  height: 500px;
+	  width: 152px;
+	}
+
+	#sidebar #bottom {
+	  background-image: url('../images/tile_btm.gif');
+	  position: absolute;
+	  bottom: 0px;
+	  width: 152px;
+	  height: 14px;
+	}
+
+	/**** MAIN CONTENT ****/
+
+	#main_content {
+	  position: absolute;
+	/*  background-color: #FFFFFF; */
+	  width: 648px;
+	  height: 200px;
+	  left: 152px;
+	  top: 179px;
+	}
+
+	#main_content #content {
+	  padding-top: 10px;
+	  padding-left: 20px;
+	  padding-right: 20px;
+	}
+
+	#main_content #footer p {
+	  color: #37588A;
+	  font-family: sans-serif;
+	  font-size: 8pt;
+	  text-align: center;
+	  margin-top:100px;
+	}
+
+	#main_content #content ol {
+	  font-family: Arial, Helvetica, sans-serif;
+	  font-size: 12px;
+	  margin-bottom: 15px
+	}
+
+	#main_content #content li {
+	  font-family: Arial, Helvetica, sans-serif;
+	  font-size: 12px;
+	  margin-bottom: 10px
+	}
+}
+
+table.display {
+    width: 600px;
+    border-color: #34598A;
+    border-width: 0px 0px 1px 1px;
+    border-style: solid;
+}
+
+table.display td {
+    width: 300px;
+    text-align: center;
+    border-color: #34598A;
+    border-width: 1px 1px 0px 0px;
+    border-style: solid;
+    margin: 0;
+    padding: 0px;
+    background-color: #FFFFFF;
+}
+
+.sup {
+  vertical-align: super;
+}
+
+.translit {
+  font-style: italic;
+}
+
+/* Tooltips */
+
+span.tooltip {
+  font-family: Arial, Helvetica;
+  font-size: 12px;
+  font-weight: normal;
+  color: #000000;
+  line-height: 21px;
+  border-bottom: 1px dashed #0000FF;
+  color: #0000FF;
+}
+
+span.tooltip span.tooltip_text {
+  position: absolute;
+  left: 10px;
+  margin-top: 10px;
+  color: #000000;
+  border: 1px dashed #34589A;
+  background: #7698C8;
+  padding: 10px;
+  width: 300px;
+  display: none;
+  text-decoration: none;
+  cursor: default;
+  text-align: left;
+}
+
+span.tooltip:hover {
+  cursor: pointer;
+}
+
+span.tooltip:hover span.tooltip_text {
+  display: block;
+}
+
+/* Popups */
+
+span.popup {
+  color: #000000;
+  border: 2px solid #0066cf;
+  padding: 3px;
+  
+}
+
+span.popup span.popup_text {
+  position: absolute;
+  left: 25px;
+  color: #000000;
+  margin-top: -25px;
+  border-top: 2px solid #0066cf;
+  border-left: 2px solid #0066cf;
+  border-right: 2px solid #003366;
+  border-bottom: 2px solid #003366;
+  background: #FFFFFF;
+  padding: 10px;
+  width: 580px;
+  display: none;
+  text-decoration: none;
+  cursor: default;
+
+}
+
+span.popup:hover {
+  cursor: pointer;
+}
+
+span.popup:hover span.popup_text {
+  display: block;
+}
+
+/* Hidden Texts */
+.hidden {
+  display: none;
+}
+
+/* Hide the vocab list in the quizzes. */
+#vocab_list {
+  display: none;
+}
+
+/**** Font Formatting ****/
+/* (Copied from alifbaa/aww.css) *.
+
+.arChoice {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-size: 27pt;
+	FONT-FAMILY: "Geeza Pro","Simplified Arabic", "Arabic Transparent", "Traditional Arabic", "Arial (Arabic)", "Times New Roman (Arabic)", "AGA Arabesque", "NaskhTT", "Akhbar MT", "Courir New (Arabic)", "Decotype Naskh",  "Mudir MT",  "Simplified Arabic fixed", "Tahoma (Arabic)", "Andalus", "Monotype Koufi", "Decotype Naskh Extension", "Decotype Naskh Special", "Decotype Naskh Swashed", "Decotype Naskh Variants", "Decotype Naskh Thuluth", "Simplified Arabic backslanted", "Traditional Arabic Backslanted", Tahoma, Arial,Helvetica,sans-serif;
+	word-spacing: 1px;
+} 
+
+.enChoice {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+	word-spacing: 1px;
+} 
+
+.arDrag {
+	background-color: #FFFFFF;
+	color: #000066;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 21pt;
+	word-spacing: 1px;
+} 
+
+.arDrop {
+	background-color: #FFFFFF;
+	color: #000066;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	word-spacing: 1px;
+	font-weight: bold;
+} 
+
+.enDrop {
+	background-color: #FFFFFF;
+	color: #000066;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+	word-spacing: .5px;
+	font-weight: bold;
+} 
+
+.arPrompt {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 31pt;
+	word-spacing: 1px;
+	font-weight: bold;	
+} 
+
+.fcArPrompt {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 40pt;
+	word-spacing: 1px;
+	font-weight: bold;	
+} 
+.fcEnPrompt {
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 27pt;
+	word-spacing: 1px;
+	font-weight: bold;	
+} 
+
+.arLetter {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 36pt;
+	word-spacing: 1px;
+}
+
+.arCorrectLetter {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 72pt;
+	word-spacing: 1px;
+}
+
+.enOptionText {
+	color: #000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	word-spacing: 1px;
+}
+
+/* This was copied from /aww/toolkit/aww.css */
+
+.left{
+text-align:left;
+}
+
+.sublink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.sublink a:link {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.sublink a:visited {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.sublink a:hover {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #66CCFF;
+	text-decoration: none;
+}
+.sublink a:active {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+
+.sublink2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+}
+.sublink2 a:link {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+
+.sublink2 a:visited {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+
+.sublink2 a:hover {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #F79618;
+	text-decoration: none;
+}
+.sublink a:active {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #37588A;
+}
+.designtext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8px;
+	font-weight: normal;
+	color: #91A8C1;
+}
+.ProphegyLogotext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+	color: #91A8C1;
+}
+.homeheader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #F9C512;
+}
+
+.hometext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+	line-height:14px;
+}
+
+.hometext a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #66CCff;
+	text-decoration: none;
+	line-height:15px;
+}
+
+.hometext a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFCC66;
+	line-height:15px;
+}
+
+.hometext a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #66CCFF;
+	line-height:15px;
+}
+
+.meaning {
+	font-size: 12px;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-weight: normal;
+        font-style: normal;
+}
+
+select#flashcard_select {
+	font-size: 12px;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-weight: normal;
+        font-style: normal;
+}
+
+/* Changed to match arabic_lg */
+select {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	/*font-weight: normal;*/ /* Commented out to allow easy bold Arabic */
+	line-height: 25px;
+        font-style: normal;
+}
+
+
+.arabic_lg {
+	font-family: "Times New Roman", Times, serif; /* Verdana, Helvetica, sans-serif; */
+	font-size: 24px;
+	/*font-weight: normal;*/ /* Commented out to allow easy bold Arabic */
+	/* color: #000000; Should inhert the parent's color. */
+	line-height: 25px;
+        font-style: normal;
+}
+
+p .arabic_lg {
+	margin: 0;
+	text-align: right;
+}
+
+.header1 {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #003366;
+        border-bottom: 2px solid #FF9900;
+	display: block;
+        padding-bottom: 2px;
+}
+
+.header2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #003366;
+}
+.header2 {
+	font-style: italic;
+}
+
+.header3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.homelink a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #66CCFF;
+}
+
+.homelink a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFCC66;
+}
+
+.homelink a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #66CCFF;
+}
+.directiontext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFFFF;
+	line-height: 16px;
+}
+
+
+table.newtable {
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+	border-spacing: 0;
+	border-collapse: collapse;
+	margin: 0 auto;
+}
+
+table.newtable td {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+
+/*	color: black;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 25px;
+        font-style: normal;*/
+}
+
+table.newtable .tablecella {
+	background-color: #7697C0;
+}
+
+table.newtable .tablecellb {
+	background-color: #CEDBEB;
+}
+
+/* 
+Use only is the cell has only Arabic text.
+If there is Enligshm use tablecella_english or tablecellb_english.
+Ugly as sin, but reverse-compatible.
+*/
+.tablecella {
+
+	/* Added from arabic_lg */
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 25px;
+        font-style: normal;
+	/************************/
+
+	/*font-family: Verdana, Helvetica, sans-serif;
+	font-size:24px;*/
+	color:#000000;
+	background-color:#7697C0;
+	border:0px;
+}
+
+.tablecella_english {
+	font-family: Verdana, Helvetica, sans-serif;
+	color:#000000;
+	background-color:#7697C0;
+	border:0px;
+	font-size:12px;
+}
+
+.tablecellb {
+	/* Added from arabic_lg */
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 25px;
+        font-style: normal;
+	/************************/
+
+	/*font-family: Verdana, Helvetica, sans-serif;
+	font-size: 24px;*/
+	color:#000000;
+	background-color:#CEDBEB;
+	border:0px;
+}
+
+.tablecellb_english {
+	color:#000000;
+	background-color:#CEDBEB;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	border:0px;
+}
+
+.arFeedback {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	color: #000066;
+}
+.enFeedback {
+	font-family: Verdana, Helvetica, sans-serif;
+	color: #000066;
+}
+
+.arabic_textbox{
+font-size: 16px;
+
+}
+
+@media print {
+	#header { display: none; }
+	#sidebar { display: none; }
+	#maincontent_content { width: 100%; }
+}
+
+
