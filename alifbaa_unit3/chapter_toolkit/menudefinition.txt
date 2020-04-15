@@ -1,0 +1,44 @@
+Alif Baa Units
+	AB Unit 1 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit1/
+	AB Unit 2 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit2/
+	AB Unit 3 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit3/
+	AB Unit 4 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit4/
+	AB Unit 5 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit5/
+	AB Unit 6 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit6/
+	AB Unit 7 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit7/
+	AB Unit 8 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit8/
+	AB Unit 9 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit9/
+	AB Unit 10 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit10/
+Unit Guide ## ab_syllabus.html
+Alphabet
+	Writing Tip 1 ## writing_pre_tip1.html
+	Alphabet Tip 2 ## writing_pre_tip2.html
+	Alphabet Tip 5 ## writing_pre_tip5.html
+	Mindful Typing: Practice 1 ## writing_practice1.html
+Vocabulary & Phrases
+	Phrases and Vocabulary ## ab3_phrases_vocab.html
+	Language Highlights ## ab3_highlights.html
+	AB 3 Drill 4 ## ABU03Dr04.html
+	AB 3 Drill 5 ## ab3drill5.html
+	AB 3 Drill 8 ## ab3drill8.html
+	AB 3 Drill 9 ## ABU03Dr09.html
+	Script ## ab3_script.html
+	Vocabulary Drill ## ab3_vocab.html
+	Electronic flashcards ## ab3_flashcards.html
+Culture
+	Culture: How are you? How is your family? ## ab3_culture.html
+	Culture Reading: Activity 1 ## lesson1culture1.html
+	Culture Reading: Activity 2 ## lesson1culture2.html
+	Culture Reading: Activity 3 ## lesson2culture3.html
+Listening & Speaking
+	Listening: Dialogue A ## ab3_dialogue_a.html
+	Listening: Dialogue B ## ab3_dialogue_b.html
+	Listening: Dialogue C ## ab3_dialogue_c.html
+	Chat ## ab3_chat.html
+	Chat Directions ## ab3_chat_directions.html
+	DVD Comprehension: Unit 3 Scene 3 ## dvd_u3s3.html
+	DVD Comprehension: Unit 3 Scene 4 ## dvd_u3s4.html
+Quizzes
+	Oral Quiz ## ab3_quiz.html
+	Vocabulary Quiz ## ab3_vocab_quiz.html
+Typing: Aktub ## http://aktub.com/applet/aktub.html

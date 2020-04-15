@@ -1,0 +1,46 @@
+Alif Baa Units
+	AB Unit 1 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit1/
+	AB Unit 2 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit2/
+	AB Unit 3 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit3/
+	AB Unit 4 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit4/
+	AB Unit 5 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit5/
+	AB Unit 6 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit6/
+	AB Unit 7 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit7/
+	AB Unit 8 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit8/
+	AB Unit 9 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit9/
+	AB Unit 10 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit10/
+Unit Guide ## ab_syllabus.html
+Alphabet
+	Alphabet Tip 3 ## writing_pre_tip3.html
+	Mindful Typing: Practice 3 ## writing_practice3.html
+Vocabulary & Phrases
+	AB 5 Drill 4 ## ABU05Dr04.html
+	AB 5 Drill 9 ## ABU05Dr09.html
+	AB 5 Drill 12 ## ABU05Dr12.html
+	AB 5 Drill 13 ## ABU05Dr13.html
+	AB 5 Drill 15 ## ab5drill15.html
+	AB 5 Drill 16 ## ab5drill16.html
+	AB 5 Drill 18 ## ABU05Dr18.html
+	AB 5 Drill 19 ## ab5drill19.html
+	AB 5 Drill 91 ## ABU05Dr91.html
+	Personal Practice ## ab4-5_personal_practice.html
+	Phrases and Vocabulary ## ab4-5_phrases_vocab.html
+	Language Highlights ## ab4-5_highlights.html
+	Electronic Flashcards ## ab5_flashcards.html
+	Supplement: Continents and Countries ## ab4-5_supplement.html
+Grammar
+	Describing in the Present ## ab4-5_present_tense.html
+	Asking Yes/No Questions ## ab4-5_hal.html
+	Personal Practice: Idaafa 3 ## ab4-5_idaafa_practice3.html
+Culture
+	Culture Reading ## lesson2culture1.html
+	Culture Reading: Map Activity ## lesson2culture2.html
+	Culture Reading: Map Activity ## lesson2culture3.html
+Listening and Speaking
+	Chat ## AB4-5_chat.html
+	DVD Comprehension: Unit 5 Scene 7 ## dvd_u5s7.html
+	Listening and Speaking: Dialogue B ## ab4-5_dialogue_b.html
+Quizzes
+	AB 5 Oral Quiz ## ab5_quiz.html
+	Vocabulary Quiz ## ab4-5_vocab_quiz.html
+Typing: Aktub ## http://www.aktub.com

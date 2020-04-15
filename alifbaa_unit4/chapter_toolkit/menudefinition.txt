@@ -1,0 +1,41 @@
+Alif Baa Units
+	AB Unit 1 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit1/
+	AB Unit 2 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit2/
+	AB Unit 3 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit3/
+	AB Unit 4 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit4/
+	AB Unit 5 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit5/
+	AB Unit 6 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit6/
+	AB Unit 7 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit7/
+	AB Unit 8 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit8/
+	AB Unit 9 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit9/
+	AB Unit 10 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit10/
+Unit Guide ## ab_syllabus.html
+Vocabulary & Phrases
+	AB 4 Drill 2 ## ab4drill2.html
+	AB 4 Drill 7 ## ABU04Dr07.html
+	AB 4 Drill 9 ## ab4drill9.html
+	AB 4 Drill 12 ## ABU04Dr12.html
+	AB 4 Drill 14 ## ab4drill14.html
+	AB 4 Drill 16 ## ab4drill16.html
+	AB 4 Drill 17 ## ABU04Dr17.html
+	AB 4 Drill 96 ## ab4drill96.html
+	AB 4 Vocabulary Drill ## ab4_vocab.html
+Grammar
+	Showing Relationship Between Nouns ## ab4-5_idaafa.html
+	Pronouncing al-'iDaafa ## ab4-5_pro_idaafa.html
+	Personal Practice: 'iDaafa 2 ## ab4-5_idaafa_practice2.html
+Culture
+	Culture: Nonverbal "Yes" and "No" ## ab4-5_culture.html
+Listening & Speaking
+	Chat Activity: Units 3 and 4 ## chat_activityu34.html
+	Listening: Monologue A ## AB4-5_monologue_a.html
+	Listening: Dialogue A ## ab4-5_dialogue_a.html
+	DVD Comprehension: Unit 4 Scene 5 ## dvd_u4s5.html
+	DVD Comprehension: Unit 4 Scene 6 ## dvd_u4s6.html
+	Comprehensive Interview ## ab4-5_comp_interview.html
+	Comprehensive Interview: Instructor Notes ## ab4-5_instructor.html
+	Personal Practice: Speaking ## ab4-5_speaking.html
+	Personal Practice: Pseudo-conversation ## ab4-5_pseudo_conv.html
+Quizzes
+	AB 4 Oral Quiz ## ab4_quiz.html
+Typing: Aktub ## http://aktub.com/applet/aktub.html

@@ -1,0 +1,45 @@
+Alif Baa Units
+	AB Unit 1 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit1/
+	AB Unit 2 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit2/
+	AB Unit 3 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit3/
+	AB Unit 4 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit4/
+	AB Unit 5 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit5/
+	AB Unit 6 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit6/
+	AB Unit 7 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit7/
+	AB Unit 8 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit8/
+	AB Unit 9 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit9/
+	AB Unit 10 ## http://arabicwithoutwalls.ucdavis.edu/alifbaa_unit10/
+Unit Guide ## ab_syllabus.html
+Vocabulary & Phrases
+	Language Highlights ## ab2_language_highlights.html
+	AB 2 Drill 6 ## ABU02Dr06.html
+	AB 2 Drill 9 ## ABU02Dr09.html
+	AB 2 Drill 10 ## ab2drill10.html
+	AB 2 Drill 11 ## ab2drill11.html
+	AB 2 Drill 44 ## abu02drill44.html
+	AB 2 Drill 110 ## abu02drill110.html
+	Vocabulary Drill ## ab2_vocab.html
+	Phrases and Vocabulary ## ab2_phrases_vocab.html
+	Electronic flashcards ## ab2_flashcards.html
+	Script ## ab2_script.html
+Grammar
+	Connecting Words with <span class="arabic_lg">و</span> ## ab2_connecting_words.html
+Culture
+	Culture: Arabic Names ## ab2_culture.html
+	Supplement: Common Arabic Names ## ab2_supplement.html
+	Culture Reading: Activity 1 ## lesson2culture1.html
+Listening & Speaking
+	Chat Activity ## chat_activityu2s2.html
+	Personal Practice: Speaking ## ab2_speaking.html
+	DVD Comprehension ## dvd_u2s2.html
+	Listening: Dialogue A ## ab2_dialogue_a.html
+	Listening: Dialogue B ## ab2_dialogue_b.html
+	Listening: Dialogue C ## ab2_dialogue_c.html
+	Conversation A ## ab2_pseudo_conv_a.html
+	Conversation B ## ab2_pseudo_conv_b.html
+	Chat ## ab2_chat.html
+	Comprehensive Interview ## ab2_comp_interview.html
+Quizzes
+	Oral Quiz ## ab2_quiz.html
+	Vocabulary Quiz ## ab2_vocab_quiz.html
+Typing: Aktub ## http://aktub.com/applet/aktub.html

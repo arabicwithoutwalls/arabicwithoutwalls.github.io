@@ -1,0 +1,211 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Arabic Without Walls</title>
+
+<!-- Stylesheets Area -->
+	<link href="chapter_toolkit/content_header.css" rel="stylesheet" type="text/css" />
+  <link href="../course_toolkit/stylesheets/css_layout.css" rel="stylesheet" type="text/css" />
+  <link href="../course_toolkit/stylesheets/menu_style.css" rel="stylesheet" type="text/css" />
+
+<!-- JavaScript Area -->
+  <script type="text/javascript" src="chapter_toolkit/chapter_vars.js"></script>
+
+  <!-- This script is what shows the menu. -->
+  <script type="text/javascript" src="../course_toolkit/javascripts/menu.js"></script>
+  <!-- IE doesn't display the CSS menu correctly. This script fixes it. -->
+  <script type="text/javascript" src="../course_toolkit/javascripts/ie_menu_adjustment.js"></script>
+
+  <!-- The Flash sound player needs these. -->
+  <script type="text/javascript" language="javascript">AC_FL_RunContent = 0;</script>
+  <script type="text/javascript" src="../course_toolkit/javascripts/AC_RunActiveContent.js" language="javascript"></script>
+  <script type="text/javascript" language="javascript" src="../course_toolkit/javascripts/playsound.js"></script>
+
+  <!-- This scores the JavaScript activities. -->
+  <script type="text/javascript" language="javascript" src="../course_toolkit/javascripts/byuexercises.js"></script>
+
+</head>
+<body>
+
+<div id="header">
+  <div id="logo"></div>
+  <div id="horizontal_menu">
+    <div id="white_links">
+      <!-- We use a JavaScript here because the URLs are stored in an external file. -->
+      <script type="text/javascript">
+        document.writeln(format_link(course_content_url,'Course Content'));
+        document.writeln(format_link(syllabus_url,'Syllabus'));
+        document.writeln(format_link(chat_url,'Chat'));
+        document.writeln(format_link(forums_url,'Forums'));
+        document.writeln(format_link(resources_url,'Resources'));
+      </script>
+    </div>
+    <div id="divider"><img src="../course_toolkit/images/divider.gif" alt="divider_graphic" /></div>
+    <div id="blue_links">
+      <script type="text/javascript">
+        document.writeln(format_link(requirements_url,'Requirements'));
+        document.writeln(format_link(instructor_email_url,'Email Instructor'));
+        document.writeln(format_link(about_aww_url,'About AWW'));
+      </script>
+    </div>
+  </div> <!-- End Horizontal Menu -->
+</div> <!-- End Header -->
+
+<div id="sidebar">
+<div id="chapter_title">
+  <script type="text/javascript">document.writeln(format_link('index.html',chapter_title));</script>
+</div>
+
+<!-- In order for the menu to work, it must be a child of <body> -->
+<!-- Start ABD Menu -->
+<div id="abdmenu">
+</div>
+<script type="text/javascript" language="javascript">show_menu();</script>
+<!-- End ABD Menu -->
+
+<div id="filler">
+<div id="top"></div>
+<div id="bottom"></div>
+</div>
+</div> <!-- End Sidebar -->
+
+<div id="main_content">
+<div id="content_header"></div>
+<div id="content">
+
+<!-- Main Content Goes Here -->
+
+<p class="header1">Personal Practice</p>
+
+<p class="header2">Speaking (More <span class="translit">al-'iDaafa</span> <span class="arabic_lg">الإضافة</span> Practice)</p>
+
+<p>In this exercise, you are to do as you did in a <a href="../alifbaa_unit4/ab4-5_idaafa_practice2.html">similar drill</a> in Unit 4, that is, translate the following items aloud.  This time, however, the items are not so easily arranged.</p>
+
+<p>If you miss two items, do not continue wth the exercise; rather, return to the vocabulary section and grammar sections about the <span class="translit">al-'iDaafa</span> <span class="arabic_lg">الإضافة</span> to review the principles neccessary to more accurately complete this exercise.</p>
+
+<p><span class="popup">Vocabulary Review<span class="popup_text">
+<table width="250" border="1" cellpadding="2" cellspacing="0" align="center">
+	<tr><td>
+		<p align="center">
+			<span class="arabic_lg">بَيْت</span>&nbsp;<a href="#" title="" onclick="play('sounds/AB4-5bait2.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a><br />
+			house
+		</p>
+
+	</td></tr>
+	<tr><td>
+		<p align="center">
+			<span class="arabic_lg">واجِب</span>&nbsp;<a href="#" title="" onclick="play('sounds/AB4-5wajib2.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a><br />
+			homework
+		</p>
+	</td></tr>
+	<tr><td>
+		<p align="center">
+
+			<span class="arabic_lg">حَبيب</span>&nbsp;<a href="#" title="" onclick="play('sounds/AB4-5habib2.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a><br />
+			dear one (male)<br />
+		</p>
+	</td></tr>
+</table>
+</span></span></p>
+
+<!-- 
+  This hidden text trick is pretty simple. 
+  The first thing in the LI tag (it should also work with span, P, or any other tag) is the hidden text.
+  It's in a span tag of class="hidden," which is declared as not displayed in the stylesheet.
+  Somewhere in the LI tag is a link. The JavaScript in this link copies the innerHTML of the hidden span
+  and appends it to the innerHTML of the link's parent element (LI in this case).
+
+  One warning: There can be no whitespace (spaces or new lines) between the LI tage and the hidden span tag.
+
+  If you think that it woul dbe more intuitive to put the hidden span at the end and simply change its 
+  style.display attribute, you're right. However, because IE counts nodes incorrectly, the hidden span's place
+  in the LI's childNodes array will be different than in Firefox.
+-->
+
+<ol>
+
+<li><span class="hidden"><br /><span class="arabic_lg">بيت روبرت</span></span>
+  Robert's house 
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5bait_robert.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a> 
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">ولاية منسوطة</span></span>
+  the state of Minnesota	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5wilayat_minnisota.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">مدينة سان فرانسسكو</span></span>
+  The city of San Fransisco 	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5medinat_sanfransisco.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">حبيب فاطمة</span></span>
+  Fatima's dear one (male)	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5habib_fatima.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">بيت عبد الله</span></span>
+  Abdallah's house	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5bait_abdullah.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">ولاية كانسس</span></span>
+  the state of Kansas	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5wilayat_kansas.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">مدينة برتتلند</span></span>
+  the city of Portand	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5medinat_portland.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">ولاية واشنطون</span></span>
+  the state of Washington	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5wilayat_washington 1.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">واجب سالي</span></span>
+  Sally's homework	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5wajib_sally.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+<li><span class="hidden"><br /><span class="arabic_lg">مدينة أستن</span></span>
+  the city of Austin	
+  <a href="#" onclick="this.parentNode.innerHTML+=this.parentNode.childNodes[0].innerHTML; return false;">Answer</a> 
+  <a href="#" onclick="play('sounds/AB4-5medinat_austin.mp3'); return false;"><img src="sounds/spkrwh.jpg" alt="Speaker Icon"/></a>
+</li>
+
+</ol>
+
+<!-- End Main Content -->
+
+</div> <!-- End content -->
+<div id="footer">
+<p>&copy; 2004 UC Consortium for Language Learning and Teaching. All rights reserved.</p>
+
+</div> <!-- End Footer -->
+</div> <!-- End Main Content -->
+
+<!-- Flash Sound Player -->
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="1" height="1" id="playSound" align="middle">
+  <param name="allowScriptAccess" value="sameDomain" />
+  <param name="allowFullScreen" value="false" />
+  <param name="movie" value="../course_toolkit/flash_movies/playSound.swf" />
+  <param name="quality" value="high" />
+  <param name="bgcolor" value="#ffffff" />
+  <embed src="../course_toolkit/flash_movies/playSound.swf" quality="high" bgcolor="#ffffff" width="1" height="1" name="playSound" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+</object>
+
+</body>
+
+</html>

@@ -1,0 +1,479 @@
+<HTML><!-- InstanceBegin template="/Templates/SoundPrise.dwt" codeOutsideHTMLIsLocked="true" -->
+<HEAD>
+
+<!-- InstanceBeginEditable name="doctitle" -->
+
+<TITLE>VIMAS Technologies - Mp3 Recording Applet SDK </TITLE>
+
+<!-- InstanceEndEditable -->
+<meta name="Description" content="software development company specializing in: applications development 
+based on the voice, audio and image digital signal processing algorithms;
+general applications development; outsourcing."> 
+<meta name="Keywords" content="VIMAS Technologies, Web, WEB, SDK, audio, web audio recorder, mp3, Mp3, 
+mp3 recorder, mp3 recording applet, recording applet, voice recording 
+applet, voice chat, web voice chat, voice mail,  Java, applet,  imaging, 
+JPEG, Photoshop, plug-in, streaming, Singing Tutor, VoIP, Web designer, 
+develpoment tool, music,  image, image guru,  processing, compression, 
+codec,  encryption, custom software, development, multimedia,  album, 
+photo, voice, mail, audio streaming,  audio comment, singing, rhythm, 
+custom development"> 
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1251">
+<script language="JavaScript">
+
+<!--
+function mmLoadMenus() {
+var am3;
+  if (window.mm_menu_0529165434_0) return;
+                      window.mm_menu_0529165434_0 = new Menu("root",194,18,"Arial, Helvetica, sans-serif",12,"#30509B","#30509B","#FFFFFF","#EAEAEA","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0529165434_0.addMenuItem("Voice&Audio&nbsp;on&nbsp;the&nbsp;web","location='tech_audio.htm'");
+  mm_menu_0529165434_0.addMenuItem("Image&nbsp;Processing","location='ve_imm.htm'");
+   mm_menu_0529165434_0.hideOnMouseOut=true;
+   mm_menu_0529165434_0.bgColor='#CCCCCC';
+   mm_menu_0529165434_0.menuBorder=2;
+   mm_menu_0529165434_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0529165434_0.menuBorderBgColor='#FFFFFF';
+    window.mm_menu_0601120001_0_1 = new Menu("Voice&audio&nbsp;on&nbsp;the&nbsp;web",238,18,"Arial, Helvetica, sans-serif",12,"#30509B","#30509B","#FFFFFF","#EAEAEA","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+    mm_menu_0601120001_0_1.addMenuItem("Web&nbsp;Voice&nbsp;Chat","location='wvchat.htm'");
+	mm_menu_0601120001_0_1.addMenuItem("Web&nbsp;Call&nbsp;Center","location='callCenter.php'");
+    mm_menu_0601120001_0_1.addMenuItem("WAV&nbsp;Recording&nbsp;Applet&nbsp;SDK","location='wav.php'");
+    mm_menu_0601120001_0_1.addMenuItem("MP3&nbsp;Recording&nbsp;Applet&nbsp;SDK","location='mp3.php'");
+    mm_menu_0601120001_0_1.addMenuItem("Voice&nbsp;Recording&nbsp;Applet&nbsp;SDK","location='ve_record_applet_sdk.htm'");
+    mm_menu_0601120001_0_1.addMenuItem("Web&nbsp;Voice&nbsp;Mail","location='ve_voice_mail.php'");
+    mm_menu_0601120001_0_1.addMenuItem("Web&nbsp;Audio&nbsp;Comment&nbsp;System","location='comments.htm'");
+     mm_menu_0601120001_0_1.hideOnMouseOut=true;
+     mm_menu_0601120001_0_1.bgColor='#CCCCCC';
+     mm_menu_0601120001_0_1.menuBorder=2;
+     mm_menu_0601120001_0_1.menuLiteBgColor='#FFFFFF';
+     mm_menu_0601120001_0_1.menuBorderBgColor='#FFFFFF';
+    window.mm_menu_0601120001_0_2 = new Menu("Image",139,18,"Arial, Helvetica, sans-serif",12,"#30509B","#30509B","#FFFFFF","#EAEAEA","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+    mm_menu_0601120001_0_2.addMenuItem("Web&nbsp;Image&nbsp;Guru","location='ve_guru.htm'");    					    mm_menu_0601120001_0_2.addMenuItem("Vimas&nbsp;Imaging&nbsp;SDK","location='ve_image_sdk.htm'");
+     mm_menu_0601120001_0_2.hideOnMouseOut=true;
+     mm_menu_0601120001_0_2.bgColor='#CCCCCC';
+     mm_menu_0601120001_0_2.menuBorder=2;
+     mm_menu_0601120001_0_2.menuLiteBgColor='#FFFFFF';
+     mm_menu_0601120001_0_2.menuBorderBgColor='#FFFFFF';
+    window.mm_menu_0601120001_0_3 = new Menu("Music&nbsp;software",116,18,"Arial, Helvetica, sans-serif",12,"#30509B","#30509B","#FFFFFF","#EAEAEA","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+    mm_menu_0601120001_0_3.addMenuItem("Singing&nbsp;Tutor","location='ve_str.htm'");
+    mm_menu_0601120001_0_3.addMenuItem("Rhythm&nbsp;Tutor","location='ve_rtr.htm'");
+     mm_menu_0601120001_0_3.hideOnMouseOut=true;
+     mm_menu_0601120001_0_3.bgColor='#CCCCCC';
+     mm_menu_0601120001_0_3.menuBorder=2;
+     mm_menu_0601120001_0_3.menuLiteBgColor='#FFFFFF';
+     mm_menu_0601120001_0_3.menuBorderBgColor='#FFFFFF';
+  window.mm_menu_0601120001_0 = new Menu("root",194,18,"Arial, Helvetica, sans-serif",12,"#30509B","#30509B","#FFFFFF","#EAEAEA","left","middle",3,0,1000,3,7,true,true,true,0,true,true);
+  mm_menu_0601120001_0.addMenuItem(mm_menu_0601120001_0_1);
+  mm_menu_0601120001_0.addMenuItem(mm_menu_0601120001_0_2);
+  mm_menu_0601120001_0.addMenuItem(mm_menu_0601120001_0_3);
+   mm_menu_0601120001_0.hideOnMouseOut=true;
+   mm_menu_0601120001_0.childMenuIcon="arrows.gif";
+   mm_menu_0601120001_0.bgColor='#CCCCCC';
+   mm_menu_0601120001_0.menuBorder=2;
+   mm_menu_0601120001_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0601120001_0.menuBorderBgColor='#FFFFFF';
+window.mm_menu_0601121708_0 = new Menu("root",138,18,"Arial, Helvetica, sans-serif",12,"#30509B","#30509B","#FFFFFF","#EAEAEA","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0601121708_0.addMenuItem("Forum","location='http://www.vimas.com/ipb/index.php'");
+  mm_menu_0601121708_0.addMenuItem("Audio&nbsp;Guest&nbsp;Book","location='audio_guest_book.php'");      					mm_menu_0601121708_0.addMenuItem("Contact&nbsp;us","location='contact.php'");
+   mm_menu_0601121708_0.hideOnMouseOut=true;
+   mm_menu_0601121708_0.bgColor='#CCCCCC';
+   mm_menu_0601121708_0.menuBorder=2;
+   mm_menu_0601121708_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0601121708_0.menuBorderBgColor='#FFFFFF';
+  window.mm_menu_0601121816_0 = new Menu("root",85,18,"Arial, Helvetica, sans-serif",12,"#30509B","#30509B","#FFFFFF","#EAEAEA","left","middle",3,0,1000,-5,7,true,true,true,0,true,true);
+  mm_menu_0601121816_0.addMenuItem("About&nbsp;us","location='about.php'");
+  mm_menu_0601121816_0.addMenuItem("News","location='news.php'");
+   mm_menu_0601121816_0.hideOnMouseOut=true;
+   mm_menu_0601121816_0.bgColor='#CCCCCC';
+   mm_menu_0601121816_0.menuBorder=2;
+   mm_menu_0601121816_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0601121816_0.menuBorderBgColor='#FFFFFF';
+
+mm_menu_0601121816_0.writeMenus();
+} // mmLoadMenus()
+//-->
+</script>
+<script language="JavaScript" src="mm_menu.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<style type="text/css">
+<!--
+.style1 {
+	color: #5E70BC;
+	font-weight: bold;
+.style2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-weight: bold;
+.style4 {
+	color: #000066;
+	font-size: 12px;
+.style5 {
+color: #333333;
+font-size:12px;
+-->
+</style>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</HEAD>
+<BODY BGCOLOR=#FFFFFF LEFTMARGIN=0 TOPMARGIN=5 MARGINWIDTH=0 MARGINHEIGHT=0>
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<TABLE WIDTH=948 BORDER=0 CELLPADDING=0 CELLSPACING=0>
+ 
+  <TR>
+    <TD width="271" COLSPAN=2> <a href="index.php"><img src="images/menu_02.gif" alt="" width=271 height=53 border="0"></a></TD>
+    <TD width="135"> <a href="index.php"><IMG SRC="images/111.gif" ALT="" WIDTH=135 HEIGHT=53 border="0"></a></TD>
+
+    <TD width="136"> <a href="javascript:;" onMouseOver="MM_showMenu(window.mm_menu_0529165434_0,0,40,null,'tech')" onMouseOut="MM_startTimeout();"><IMG SRC="images/menu_04.gif" ALT="" name="tech" WIDTH=136 HEIGHT=53 border="0" id="tech"></a></TD>
+    <TD width="135"> <a href="javascript:;" onMouseOver="MM_showMenu(window.mm_menu_0601120001_0,0,40,null,'Prod')" onMouseOut="MM_startTimeout();"><IMG SRC="images/menu_05.gif" ALT="" name="Prod" WIDTH=135 HEIGHT=53 border="0" id="Prod"></a></TD>
+    <TD width="136"> <a href="javascript:;" onMouseOver="MM_showMenu(window.mm_menu_0601121708_0,15,40,null,'sup')" onMouseOut="MM_startTimeout();"><IMG SRC="images/menu_06.gif" ALT="" name="sup" WIDTH=136 HEIGHT=53 border="0" id="sup"></a></TD>
+    <TD width="135"> <a href="javascript:;" onMouseOver="MM_showMenu(window.mm_menu_0601121816_0,0,40,null,'comp')" onMouseOut="MM_startTimeout();"><IMG SRC="images/menu_07.gif" ALT="" name="comp" WIDTH=135 HEIGHT=53 border="0" id="comp"></a></TD>
+  </TR>
+ <TR>
+     
+    
+    <TD colspan="8"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+
+        <tr>
+          <td width="266" height="45" align="right" valign="top"><img src="images/menu1_02.gif" width="266" height="43"></td>
+          <td width="43" height="45" align="left" valign="top"><p><img src="images/menu1_03.gif" width="83"  height="43"></p>          </td>
+          <td valign="bottom" height="45" align="center">
+            <!-- InstanceBeginEditable name="EditRegion1" -->
+
+            <font class="style1"> <font class="style2">Mp3 Recording Applet SDK </font></font>
+
+          <!-- InstanceEndEditable --></td>
+        </tr>
+      </table>
+      <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="229" valign="top" background="images/images/menu__02.gif"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="30" valign="bottom" bgcolor="#FFFFFF"><img src="images/images/menu__01.gif" width="229" height="22"></td>
+            </tr>
+
+            <tr>
+              <td background="images/images/menu__02.gif" valign="top"> 
+                <table width="100%"  border="0" cellspacing="15" cellpadding="0">
+                  <tr>
+                    <td>
+<div align="center"> <span class="abzac" style="color:#333333; font-size:12px">Version</span><span class="abzac" style="color:#333333; font-size:12px"><!-- InstanceBeginEditable name="Version" --> 1.3<!-- InstanceEndEditable --></span></div>
+</td>
+                  </tr>
+
+                  <tr>
+                    <td><div align="center">
+                    <div id="proba"><span class="abzac" style="color:#333333; font-size:12px">Price </span>
+                    <span class="abzac" style="font-size:12px; color:#333333"><!-- InstanceBeginEditable name="Prise" -->$300<!-- InstanceEndEditable --></span>
+					</div>
+<!-- InstanceBeginEditable name="LinkBegin" --><!-- InstanceEndEditable -->					
+                    </div></td>
+                  </tr>
+                  <tr>
+
+                    <td><div align="center"><!-- InstanceBeginEditable name="OrderSite" --><a href="http://www.digibuy.com/cgi-bin/order.html?344113+93914709832" class="prodref">Order now</a><!-- InstanceEndEditable --></div></td>
+                  </tr>
+                  <tr>
+                    <td>
+					<div align="center" style="font-size:11px; font-family:Verdana, Arial, Helvetica, sans-serif"><!-- InstanceBeginEditable name="DownLoad" --><a class="prodref" href="MP3_RecApplet.zip"> Download </a><!-- InstanceEndEditable --><span style="color:#333333"><!-- InstanceBeginEditable name="Size" -->(627 Kb)<!-- InstanceEndEditable --></span></div></td>
+                  </tr> <tr><td><!-- InstanceBeginEditable name="EditRegion8" --><!-- InstanceEndEditable --></td>
+
+                  </tr>
+                  <tr>
+                    <td><div align="center">
+                      <p class="abzac" style="color:#333333; font-size:12px"><br>
+                        Related products:<!-- InstanceBeginEditable name="EditRegion2" --><!-- InstanceEndEditable --></p>
+                    </div></td>
+                  </tr><tr>
+                    <td>
+
+				    
+										<div align="center"><!-- InstanceBeginEditable name="yoyo" --><!-- InstanceEndEditable -->
+
+
+                      <p class="abzac"><a href="wvchat.htm" class="prodref2" >Web Voice Chat </a></p>
+					  
+					  <p class="abzac"><a href="callCenter.php" class="prodref2" >Web Call Center </a></p>
+
+                      <p class="abzac"><a href="wav.php" class="prodref2">WAV Recording Applet SDK </a></p>
+
+                       <p class="abzac"><a href="mp3.php" class="prodref2">Mp3 Recording Applet SDK</a></p>
+
+                      <p class="abzac"><a  class="prodref2" href="ve_record_applet_sdk.htm" >Voice Recording Applet SDK</a> </p>
+
+                    <p class="abzac"><a  class="prodref2" href="ve_voice_mail.php" >Web Voice Mail</a></p>
+
+                      <p class="abzac"><a  class="prodref2" href="comments.htm" >Web Audio Comment System</a></p>
+
+					  
+                    </div>				  </td>
+
+				  </tr>
+                </table>
+                              <p>&nbsp;</p>
+                <p>&nbsp;</p></td>
+            </tr>
+          </table></td>
+          <td valign="top"><table width="100%"  border="0" cellspacing="15" cellpadding="0">
+            <tr>
+              <td><!-- InstanceBeginEditable name="EditRegion4" -->
+
+                <div align="left" >
+<!-- BEGIN APPLET -->
+<SCRIPT language="JavaScript">
+	var optionNo = 0
+	var UserServerFolder = "mp3"
+	
+	function vision()	
+		STOP_RP();
+		document.getElementById("loading").style.visibility="hidden";
+		document.getElementById("loaded").style.visibility="visible";
+	
+	function fileLoaded()
+		alert("file loaded!");
+
+	function report_RP(s,num)
+		alert(s);
+
+	function setRecordLevel(num){}
+
+	function setStatus_RP(str,num)	
+		document.Gui_RP.Status.value = str;
+		if(num==7) fileLoaded();
+
+	function setTimer_RP(s)	{
+		document.Gui_RP.Timer.value = s;
+
+	/* Brace added by fix_braces.pl --> */ }
+function confirmRecord(s, num)	{
+		if(confirm(s))
+			RECORD_RP();
+		else
+			STOP_RP();
+
+	/* Brace added by fix_braces.pl --> */ }
+function addName(s)	{
+		var newOpt  = new Option(String(s),String(s));
+		var VILength = document.Gui_RP.VoiceItems.length;
+		document.Gui_RP.VoiceItems.options[VILength] = newOpt;
+		document.Gui_RP.FileName.value = "*.mp3";
+
+	/* Brace added by fix_braces.pl --> */ }
+function RECORD_RP()	{
+		document.RPApplet.RECORD();
+
+<!-- ************* EXAMPLE **************************************************************** -->
+	/* Brace added by fix_braces.pl --> */ }
+function setparameter()	{
+		document.RPApplet.SETPARAMETER(String("bla"),String("BLABLA"));
+<!-- ************* EXAMPLE **************************************************************** -->
+
+
+
+	/* Brace added by fix_braces.pl --> */ }
+function PLAYBACK_RP()	{
+		document.RPApplet.PLAYBACK();
+
+	/* Brace added by fix_braces.pl --> */ }
+function PAUSE_RP()	{
+		document.RPApplet.PAUSE();
+
+	/* Brace added by fix_braces.pl --> */ }
+function STOP_RP()	{
+    	document.RPApplet.STOP_RP();
+
+	/* Brace added by fix_braces.pl --> */ }
+function UPLOAD_RP()	{
+    	document.RPApplet.UPLOAD(String(document.Gui_RP.FileName.value));
+
+	/* Brace added by fix_braces.pl --> */ }
+function WEBPLAY_RP()	{
+	document.RPApplet.WEBPLAY(UserServerFolder + "/" + document.Gui_RP.VoiceItems.value);
+	
+/* Brace added by fix_braces.pl --> */ }
+</script>
+
+</head>
+
+<body onLoad="vision()">
+
+<SPAN ID="loading" style="visibility:visible">
+	<div align="center" style="color:#000000;font-family: Verdana, Arial, Helvetica, sans-serif;font-size:14px">
+	Loading Java applet...
+	</div>
+
+</SPAN>
+
+<SPAN ID="loaded" style="visibility:hidden">
+	<FORM name="Gui_RP" onSubmit="event.returnValue=false;return false;"><div align="center">
+		<TABLE CELLSPACING=1 style="color:#000000;font-family: Verdana, Arial, Helvetica, sans-serif;font-size:11px" border="0" >
+			<TR>
+						<TD> Recorder</TD>
+						<TD><input TYPE=button VALUE="Record" STYLE="width:70;font-family:Tahoma;font-size:10pt" onClick="RECORD_RP();"></TD>
+						<TD width="70"><input TYPE=button VALUE="Play" STYLE="width:70;font-family:Tahoma;font-size:10pt" onClick="PLAYBACK_RP();"></TD>
+
+						<TD width="70"><input TYPE=button VALUE="Pause" STYLE="width:70;font-family:Tahoma;font-size:10pt" onClick="PAUSE_RP();"></TD>
+						<TD><input TYPE=button VALUE="Stop" STYLE="width:70;font-family:Tahoma;font-size:10pt" onClick="STOP_RP();"></TD>
+			</TR>
+					<TR>
+						<TD COLSPAN=2>Please enter file name</TD>
+						<TD ALIGN=right COLSPAN=2><input TYPE=text NAME="FileName" VALUE="*.mp3" SIZE=20 MAXLENGTH=16 style="width:150;font-family:Tahoma;font-size:10pt"></TD>
+						<TD><input TYPE=button VALUE="Send" STYLE="width:70" onClick="UPLOAD_RP();"> 
+                                                
+
+<!-- ************* EXAMPLE **************************************************************** -->
+<!--input TYPE=button VALUE="set" STYLE="width:70" onClick="setparameter();"!-->
+
+<!-- ************* EXAMPLE **************************************************************** -->
+
+					</TD></TR>
+					<TR>
+						<TD COLSPAN=2>Listen from Web-server</TD>
+						<TD ALIGN=right COLSPAN=2>
+							<SELECT ID="VoiceItems" SIZE=1 style="width:150;font-family:Tahoma;font-size:10pt">
+
+
+						
+							</SELECT>
+
+						</TD>
+                                           <TD><input TYPE=button VALUE="Listen" STYLE="width:70" onClick="WEBPLAY_RP();"></TD>
+						
+					</TR>
+					<TR>
+						<TD>Status</TD>
+						<TD COLSPAN=3><input TYPE=text NAME="Status" VALUE="" SIZE=34 MAXLENGTH=60 style="width:240;font-family:Tahoma;font-size:10pt"></TD>
+						<TD><input TYPE=text NAME="Timer" SIZE=8 ></TD>
+					</TR>
+
+<TR><TD COLSPAN="5">
+<APPLET	CODE="RPApplet.class"
+				ARCHIVE="RPAppletMp3.jar"
+				codebase="recorder/mp3"
+				ALIGN="MIDDLE" WIDTH=380 HEIGHT=24
+				NAME="RPApplet" 
+				MAYSCRIPT>
+				<PARAM NAME = cabbase	VALUE = RPAppletMp3.cab>
+				<PARAM NAME = "Registration"	VALUE = "demo">
+				<PARAM NAME = "ServerScript"	VALUE = "http://69.36.182.149/recorder/mp3/retrive.php">
+				<PARAM NAME = "VoiceServerFolder"	VALUE = "/../../voicefiles/">
+				<PARAM NAME = "TimeLimit"	VALUE = "1800">
+				
+				<PARAM NAME = "BlockSize"	VALUE = "10240">
+				<PARAM NAME = "InterfaceType"		VALUE = "JS">
+				<PARAM NAME = "UserServerFolder"	VALUE = "mp3">
+
+				<PARAM NAME = "UserPostVariables"	VALUE = "name,country">
+				<PARAM NAME = "name"			VALUE = "miha">
+				<PARAM NAME = "country"			VALUE = "Ukraine">
+				<PARAM NAME = "Sampling_frequency"	VALUE = "22050">
+				<PARAM NAME = "Bitrate"			VALUE = "32">	
+                        
+                        	<PARAM NAME = "backgroudColor" value = "d4d0c8">
+                        	<PARAM NAME = "indicatorLevel1" value = "4664f0">
+                        	<PARAM NAME = "indicatorLevel2" value = "28c814">
+                        	<PARAM NAME = "indicatorLevel3" value = "f03250">
+
+                        	<PARAM NAME = "indicatorWidth" value = "380">
+                               
+			</APPLET>
+</TD>
+</TR>
+				</TABLE>
+			</FORM>
+</SPAN>
+			
+		</span></div>
+			</FORM>
+</SPAN><!-- END APPLET -->
+<p class="abzac">The MP3 audio recording applet SDK is designed to create MP3 audio recorder on the web site. It allows to record the audio in MP3 format from the web site and upload audio file to the web server via HTTP. Also, it is possible to save recorded audio file on the client computer and open it from there. To playback the recorded MP3 audio from the server the recording applet works in the streaming mode. </p>
+
+                  <p class="abzac">The MP3 recording applet uses native methods to sound capture, LAME MP3 encoding/decoding and playback in the DLL, which will be installed on the computer when user uses the applet for the first time. The recording applet is digitally signed. </p>
+
+                  <p class="abzac">The MP3 audio recording applet has Java methods which accessible from JavaScript and Java. They can be used to control the recording applet. We offer 2 examples how to control the applet from JavaScript and Java. As example how to control the recording applet from Java, we offer interface applet with source code. So, a web designer can customize the recording applet interface according to the web site style and design. </p>
+
+                  <p class="abzac"><strong>Mp3 audio recording applet functionality:</strong> </p>
+
+                  <ol>
+
+                    <li class="abzac">Audio capture from sound card. The sampling frequencies are 8000Hz, 11025Hz, 16000Hz, 22050Hz, 32000Hz, 44100Hz. </li>
+
+                    <li class="abzac">LAME Mp3 audio encoding/decoding. </li>
+
+                    <li class="abzac">Playback of the recorded Mp3 file for sound quality and content evaluation. </li>
+
+                    <li class="abzac">Uploading of Mp3 file to web server via HTTP. The PHP server script is used to receive Mp3 file on the server. </li>
+
+                    <li class="abzac">Playback of the Mp3 files from the web server in the streaming mode. </li>
+
+                  </ol>
+
+<p class="abzac"><strong>What's new in the version 1.3 :
+</strong> </p>
+
+                  <ol>
+
+                    <li class="abzac">Mac computers support was added. Currently, applet works on the Power and Intel Mac.
+ </li>
+
+                    <li class="abzac">Input signal level graphical indicator was added. So, user can see the level of input signal and tune it by Windows or Mac sound volume control software.  </li>
+
+                    <li class="abzac">A few bugs was fixed. </li>
+
+                     </ol>
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+
+<TR>
+<TD class="abzac"><em>Target OS Platform</em>:</TD>
+<TD class="abzac">Windows 98/NT/2000/ME/XP/2003, Mac OS X.</TD>
+
+</TR>
+
+<TR>
+<TD class="abzac"><em>Target browsers</em>:</TD>
+<TD class="abzac">Windows: Microsoft IE 4.0 and up, Netscape 7, Opera, Mozilla, Firefox.</TD>
+</TR>
+
+<TR>
+<TD class="abzac"></TD>
+<TD class="abzac">Mac : Safari, Opera. </TD>
+</TR>
+
+<TR>
+
+<TD class="abzac"><em>Java versions</em>:</TD>
+<TD class="abzac">Microsoft Java 1.1 and Sun Java plug-in 1.3 -1.5.</TD>
+</TR>
+
+<TR>
+<TD class="abzac"><em>Web Servers</em>:</TD>
+<TD class="abzac">Unix, Microsoft.</TD>
+</TR>
+
+</table>
+
+                  <p class="abzac">For support feel free to contact us: <a href="mailto:info@vimas.com" class="refintext">info@vimas.com </a> or leave your message on the <a href="http://www.vimas.com/ipb/index.php?showforum=3" class="refintext">Forum </a></p>
+                </div>
+
+              <!-- InstanceEndEditable --></td>
+            </tr>
+          </table></td>
+
+        </tr><tr><td bgcolor="#E9E9E9" colspan="2"><div align="center" ><a href="index.php" class="bottom_ref" >home</a> | <a  class="bottom_ref" href="mailto:info@vimas.com">contact us</a> | <a  class="bottom_ref" href="http://www.vimas.com/ipb/index.php">forum</a> </div></td>
+        </tr><tr>
+		<td colspan="2" align="center" class="abzac"><br>
+<hr width="80%" color="#666666"><br>
+
+
+<i>
+Copyright (c) 1995-2006, VIMAS Technologies. Last modified
+<!-- #BeginDate format:Am3m -->05/15/2007  15:34<!-- #EndDate -->
+<br>
+E-mail: <a  class="refintext" href="mailto:info@vimas.com">info@vimas.com</a></i>		</td>
+		</tr>
+      </table>      </TD>
+     </TR>
+</TABLE>
+
+<p>&nbsp;</p>
+</BODY>
+<!-- InstanceEnd --></HTML>
