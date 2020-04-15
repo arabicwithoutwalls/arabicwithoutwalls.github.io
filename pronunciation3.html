@@ -1,0 +1,104 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<title>Arabic Without Walls</title>
+ <!--#include virtual="/aww/toolkit/includes/chap5_header.html"-->
+      <link href="../aww.css" rel="stylesheet" type="text/css">
+      <style type="text/css">
+<!--
+#ToolTip{position:absolute;top:0;left:0;background:#dee7f7;border-color:#FFFFFF;border-style:solid #336;border-width:1px 1px 1px 1px;visibility:hidden;} 
+.ToolTipTD {color:black;font-family:verdana;font-size:11} 
+div#tipDiv {
+  position:absolute; visibility:hidden; left:0; top:0; z-index:10000;
+  background-color:#dee7f7; border:1px solid #336; 
+  width:250px; padding:4px;
+  color:#000; font-size:11px; line-height:1.2;
+/* These are optional. They demonstrate how you can individually format tooltip content  */
+div.tp1 { font-size:12px; color:#336; font-style:italic }
+div.tp2 { font-weight:bolder; color:#337; padding-top:4px }
+.style7 {color: #FF3399}
+.style8 {color: #0000FF}
+.style9 {
+	font-size: 24px;
+	font-weight: bold;
+-->
+      </style> <script src="js/dw_event.js" type="text/javascript"></script>
+<script src="js/dw_viewport.js" type="text/javascript"></script>
+<script src="js/dw_tooltip.js" type="text/javascript"></script>
+<script type="text/javascript">
+/*************************************************************************
+  This code is from Dynamic Web Coding at dyn-web.com
+  Copyright 2003-5 by Sharon Paine 
+  See Terms of Use at http://www.dyn-web.com/bus/terms.html
+  regarding conditions under which you may use this code.
+  This notice must be retained in the code as is!
+*************************************************************************/
+
+function doTooltip(e, msg) {
+  if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+  Tooltip.show(e, msg);
+
+function hideTip() {
+  if ( typeof Tooltip == "undefined" || !Tooltip.ready ) return;
+  Tooltip.hide();
+	
+// variables for tooltip content 
+var tipRich = '<div class="tp1">This text is in a div with it\'s own class for different style specifications than the tooltip. </div>';
+var tipImg = '<div style="text-align:center"><img src="images/dot-com-btn.gif" width="176" height="30" alt="" border="0"></div>';
+var tipImgTxt = '<img src="images/sm-duck.gif" width="90" height="44" alt="" border="0"><div class="tp2">Images and text can go together in a tooltip.</div>';
+var tipTerms = "If you plan to use our code, please follow our terms. Thank you.";
+
+</script>
+<body onLoad="Tooltip.init()">
+<tr>
+        <th width="20" scope="row">&nbsp;</th>
+        <td width="608">&nbsp;</td>
+        <td width="20">&nbsp;</td>
+</tr>
+      <tr>
+        <th width="20" scope="row">&nbsp;</th>  
+		<td width="608" valign="top"><p align="left" class="header1"> <strong><br>
+		
+		
+<p><span class="header1"><strong>The</strong> <span class="style9">ة</span>   <strong>in</strong> <span class="style9">الإضافة</span></span> </p>
+<p>The <span class="arabic_lg" dir="RTL">ة</span>, usually an indicator of the feminine  gender as you have learned in chapter 1, should not be pronounced as “t” except  in<span class="arabic_lg"> <span dir="RTL">الإضافة</span></span><span class="arabic_lg" dir="LTR"></span>   construction as  noted on <em>AK</em> page 41.  For now,  when <span class="arabic_lg" dir="RTL">ة</span>   occurs in the  first or second term of an <span class="arabic_lg" dir="RTL">إضافة</span>, you need to pronounce it as “t”.  When<span class="arabic_lg"> <span dir="RTL">ة</span></span><span class="arabic_lg" dir="LTR"></span>   occurs in the last term of the <span class="arabic_lg" dir="RTL">إضافة</span>, it is silent.  </p>
+<p>  Listen carefully to the words ending  with <span class="arabic_textbox" dir="RTL">ة</span><span class="arabic_textbox" dir="LTR"></span> in the following examples. The blue-colored <span dir="RTL">ة</span><span dir="LTR"> </span><span dir="LTR"> </span> is pronounced because it is the first or second term  in <span class="arabic_lg" dir="RTL">إضافة</span>. The pink-colored <span class="arabic_lg" dir="RTL">ة</span> is either the last term of an <span class="arabic_lg" dir="RTL">إضافة</span> or not in an <span class="arabic_lg" dir="RTL">إضافة</span> altogether.<br>
+  Examples</p>
+<p align="right"><span class="arabic_lg" dir="RTL" onMouseOver="doTooltip(event,'This is a photo of the university.')" onMouseOut="hideTip()">۱- هذه صور<span class="style8" onMouseOver="doTooltip(event,'This is a photo of the university.')" onMouseOut="hideTip()">ة</span> الجامع<span class="style7">ة</span>.</span><span class="arabic_lg"><br>
+  <span dir="RTL" onMouseOver="doTooltip(event,'Laila’s mother works in the library of the College of Engineering.')" onMouseOut="hideTip()">۲- والد<span class="style8">ة</span> ليلى تعمل في مكتب<span class="style8" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL"> كليّ<span class="style8" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL"> الهندس<font color="#000099">ة</font></span><span class="arabic_lg"><span dir="RTL">.</span></span> <span class="arabic_lg"><br></span></span></span></span></span>
+    <span class="arabic_lg" dir="RTL" onMouseOver="doTooltip(event,'I (feminine singular) am an Algerian student.')" onMouseOut="hideTip()"> ۳- أنا طالب<span class="style7">ة</span> جزائريّ<span class="style7" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL">.</span></span> </span>  <span class="arabic_lg"><br>
+<span dir="RTL" onMouseOver="doTooltip(event,'I am a student in the college of political science.')" onMouseOut="hideTip()">٤- أنا طالب<span class="style7">ة</span> في كليّ<span class="style8">ة</span> العلوم السياسيّ<span class="style7" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL">.</span></span> </p></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+<p align="left" dir="ltr">Notice how all the blue-colored <span class="arabic_lg style8" dir="RTL">ة</span>   are pronounced as “t” because they occur in an <span class="arabic_lg" dir="RTL">إضافة</span>.   The  words <span class="arabic_lg" dir="RTL">الجامع<span class="style7">ة</span></span>   and <span class="arabic_lg" dir="RTL">الهندس<span class="style7">ة</span></span>   however, occur in the last terms of the <span class="arabic_lg" dir="RTL">إضافة</span>.   Therefore the <span class="arabic_lg style7">ة </span>in these words remains silent.  In example  <span dir="RTL"> <span class="arabic_lg">۳</span> </span>the <span class="arabic_lg style7" dir="RTL">ة</span>   is silent because it occurs in a  noun-adjective phrase.   The  same applies to the word <span class="arabic_lg" dir="RTL">السياسيّ<span class="style7">ة</span></span> in example <span class="arabic_lg">٤</span> </span>which also occurs in a  noun-adjective phrase.</p>
+<p align="left">Finally, please note that the <span class="arabic_lg" dir="RTL">ة</span><span class="arabic_lg" dir="LTR"></span>   <strong>is exceptionally pronounced</strong> as “t” in parts of the Arab world regardless of  whether it occurs in an <span class="arabic_lg" dir="RTL">إضافة</span>   or not; in a  handful of words such as <span class="arabic_lg" dir="RTL">حَياة</span>   life,<span class="arabic_lg"> <span dir="RTL">فـَتاة</span></span><span class="arabic_lg" dir="LTR"></span>   young woman, and <span class="arabic_lg" dir="RTL">زَكاة</span><span class="arabic_lg" dir="LTR"></span>   tax.</p>
+<p>Example</p>
+<p align="right">  <span class="arabic_lg" dir="RTL">هذه فتا<span class="style8">ة</span> مغربيّ<span class="style7">ة</span>.<br>
+</span><span dir="RTL"> </span><span dir="RTL"><span dir="RTL"> </span> </span>This is  a Moroccan<span dir="RTL"> </span><span dir="RTL"><span dir="RTL"> </span> </span>young  woman.<span dir="RTL"> </span><span dir="RTL">  </span></p>
+<p><strong>Practice</strong> <br>
+  Study these sentences and decide which<span class="arabic_lg" dir="RTL"> ة</span><span class="arabic_lg" dir="LTR"></span><span dir="LTR"> </span> is pronounced and  which is left silent then read them aloud. Click to check answers and keep on  practicing the pronunciation of<span class="arabic_lg" dir="RTL"> <span class="style8">ة</span> </span>in <span class="arabic_lg" dir="RTL">إضافة<span class="style8">ة</span></span>.</p>
+<p align="right" class="arabic_lg">  <span dir="RTL"> <span class="arabic_lg" onMouseOver="doTooltip(event,'My mother is Lebanese.')" onMouseOut="hideTip()"> ۱- والدتي لبنان</span><span class="style7">يّ</span></span><span class="arabic_lg" dir="RTL">ة.</span><span class="arabic_lg"><br>
+    </span><span dir="RTL" onMouseOver="doTooltip(event,'This is a translation of the teacher’s letter.')" onMouseOut="hideTip()">۲- هذه ترجم<span class="style8">ة</span> رسال<span class="style8">ة</span> الأستاذ<span class="style7">ة</span>.</span><br>
+    <span dir="RTL" onMouseOver="doTooltip(event,'This is my friend’s cousin’s car.')" onMouseOut="hideTip()">۳- هذه سيّار<span class="style8">ة</span> ابن<span class="style8">ة</span> خال<span class="style8">ة</span> صديقي.</span><br>
+    <span dir="RTL" onMouseOver="doTooltip(event,'My uncle’s wife is called Nadia.')" onMouseOut="hideTip()">٤- زوج<span class="style8">ة</span> عمّي اسمها نادي<span class="style7">ة</span>.</span><br>
+    <span dir="RTL" onMouseOver="doTooltip(event,'My aunt lives in Cairo.')" onMouseOut="hideTip()">٥- خالتي تسكن في مدين<span class="style8">ة</span> القاهر<span class="style7">ة</span>.</span><br>
+    <span dir="RTL" onMouseOver="doTooltip(event,'The building of the university library is in a street near the building of the city’s library.')" onMouseOut="hideTip()">٦- بناي<span class="style8">ة</span> مكتب<span class="style8">ة</span> الجامع<span class="style7">ة</span> في شارع قريب من بناي<span class="style8">ة</span> مكتب<span class="style8">ة</span> المدين<span class="style7">ة</span>.</span><br>
+    <span dir="RTL" onMouseOver="doTooltip(event,'This is a picture of my father’s family.')" onMouseOut="hideTip()">٧- هذه صور<span class="style8">ة</span> عائل<span class="style8">ة</span> والدي.</span></span> <span class="arabic_lg"><br>
+</span><span dir="RTL" onMouseOver="doTooltip(event,'She is a Syrian girl. ')" onMouseOut="hideTip()">  ٨- هي فتا</span></span><span class="style8" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL"> سوريّ</span></span><span class="style7" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL">.</span><br>
+    </span><span dir="RTL" onMouseOver="doTooltip(event,'Saleema lives in the area around the university. ')" onMouseOut="hideTip()">٩- سليم<span class="style8">ة</span> تسكن في منطق<span class="style8">ة</span> الجامع<span class="style7">ة</span>.</span></span></p>
+<p align="left"><strong>Speak to Your Instructor</strong><br>
+Practise listening and saying the following sentences in preparation for the   chat session where you will be asked to read them aloud to your instructor.</p>
+<p align="right" class="arabic_lg"> <span dir="RTL"> 
+<span class="arabic_lg" onMouseOver="doTooltip(event,'California is a very beautiful state')" onMouseOut="hideTip()">۱- ولاي<span class="style8">ة</span> كاليفورنيا جميل</span><span class="style7">ة</span><span class="arabic_lg"> جدًّا.<br>
+  <span dir="RTL" onMouseOver="doTooltip(event,'Laila is a bank employee in Kuwait.')" onMouseOut="hideTip()">۲- ليلى موظفّ</span></span><span class="style7" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL" onMouseOver="doTooltip(event,'Laila is a bank employee in Kuwait.')" onMouseOut="hideTip()"> في بنك في دول<span class="style8">ة</span> الكويت.</span><br>
+ </span></span> <span dir="RTL" onMouseOver="doTooltip(event,'Souad is the cousin of Mohammad’s friend.')" onMouseOut="hideTip()">۳- سعاد هي ابن<span class="style8">ة</span> عمّ<span class="style8">ة</span> صديق<span class="style8">ة</span> محمّد.</span><br>
+  <span dir="RTL" onMouseOver="doTooltip(event,'She is a new girl in our building.')" onMouseOut="hideTip()">٤- هي فتا<span class="style8">ة</span> جديد</span></span><span class="style7" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL" onMouseOver="doTooltip(event,'She is a new girl in our building.')" onMouseOut="hideTip()"> في بنايتنا. </span><br>
+ </span><span dir="RTL" onMouseOver="doTooltip(event,'I work in the library of the University of Tunisia.')" onMouseOut="hideTip()">٥- أنا أعمل في مكتب<span class="style8">ة</span> جامع<span class="style8">ة</span> تونس.</span><br>
+ <span dir="RTL" onMouseOver="doTooltip(event,'Nayla’s family lives in Beirut.')" onMouseOut="hideTip()">٦- عائل<span class="style8">ة</span> نايل</span></span><span class="style7" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL" onMouseOver="doTooltip(event,'Nayla’s family lives in Beirut.')" onMouseOut="hideTip()"> تسكن في بيروت.</span></span> <span class="arabic_lg"><br>
+ </span> <span dir="RTL" onMouseOver="doTooltip(event,'Samia works in a bank.')" onMouseOut="hideTip()"> ٧- سامي</span></span><span class="style7" dir="RTL">ة</span><span class="arabic_lg"><span dir="RTL" onMouseOver="doTooltip(event,'Samia works in a bank.')" onMouseOut="hideTip()"> تعمل في بنك.</span></span> </p>
+<p align="left">&nbsp;</p>
+<p align="right" class="arabic_lg">&nbsp;</p>
+  <td width="20">&nbsp;</td>
+      </tr>
+    </table></th>
+  </tr>
+  <!--#include virtual="/aww/toolkit/includes/chap5_footer.html"-->
