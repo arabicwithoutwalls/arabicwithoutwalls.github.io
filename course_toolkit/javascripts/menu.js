@@ -1,12 +1,13 @@
 // Google Analytics Tracking code
-/*(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
 ga('create', 'UA-812982-29', 'ucdavis.edu');
 ga('send', 'pageview');
-*/
+
 // An AJAX-like behind-the-scenes file getter.
 // Takes in a URL.
 function get_file(url) {
@@ -27,7 +28,7 @@ function get_file(url) {
         xmlhttp.onreadystatechange=postFileReady;
         xmlhttp.open("GET", url, true);
         xmlhttp.send(null);
-     } 
+     }
   }
 
 
@@ -63,7 +64,7 @@ var format_menu = function format_menu(menu_string) {
     if (previous_number_of_tabs == -2) {
       menu_string = menu_string + "\r\n" + '<ul id="menu">';
       // Record the current number of tabs as the previous one (because it will be when we loop).
-      previous_number_of_tabs = number_of_tabs;      
+      previous_number_of_tabs = number_of_tabs;
     }
     // If tabs are more in this line than in the previous, we have found a child, put in <ul>.
     else if (number_of_tabs > previous_number_of_tabs) {
@@ -119,7 +120,7 @@ var format_menu = function format_menu(menu_string) {
 
 
 
- 
+
   getFile(url);
 
 }  // End get_file();
@@ -143,4 +144,3 @@ function showULChildren(foo) {
 		i++;
 	}
 }
-
